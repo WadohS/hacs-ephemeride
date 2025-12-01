@@ -42,5 +42,5 @@ next_day_date
 La date du lendemain au format JJ/MM.
 02/12
 next_day_count
-Nombre total de saints/f\Uffffffffs du lendemain.
+Nombre total de saints/fêtes du lendemain.
 1
