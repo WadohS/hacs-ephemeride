@@ -1,2530 +1,368 @@
 {
-  "01-01": [
-    [
-      "Maria",
-      "Santa"
-    ],
-    [
-      "Ano Novo",
-      "Festa"
-    ]
-  ],
-  "01-02": [
-    [
-      "Basílio",
-      "Santo"
-    ],
-    [
-      "Gregório",
-      "Santo"
-    ],
-    [
-      "Serafim",
-      "Santo"
-    ],
-    [
-      "Estefânia",
-      "Santa"
-    ]
-  ],
-  "01-03": [
-    [
-      "Genoveva",
-      "Santa"
-    ]
-  ],
-  "01-04": [
-    [
-      "Odilon",
-      "Santo"
-    ]
-  ],
-  "01-05": [
-    [
-      "Eduardo",
-      "Santo"
-    ]
-  ],
-  "01-06": [
-    [
-      "Epifania",
-      "Festa"
-    ],
-    [
-      "Baltazar",
-      "Santo"
-    ],
-    [
-      "Gaspar",
-      "Santo"
-    ],
-    [
-      "Melchior",
-      "Santo"
-    ],
-    [
-      "Teófanes",
-      "Santo"
-    ],
-    [
-      "Melaine",
-      "Santo"
-    ]
-  ],
-  "01-07": [
-    [
-      "Raimundo",
-      "Santo"
-    ]
-  ],
-  "01-08": [
-    [
-      "Luciano",
-      "Santo"
-    ]
-  ],
-  "01-09": [
-    [
-      "Alice",
-      "Santa"
-    ]
-  ],
-  "01-10": [
-    [
-      "Guilherme",
-      "Santo"
-    ]
-  ],
-  "01-11": [
-    [
-      "Paulina",
-      "Santa"
-    ]
-  ],
-  "01-12": [
-    [
-      "Tatiana",
-      "Santa"
-    ]
-  ],
-  "01-13": [
-    [
-      "Ivete",
-      "Santa"
-    ]
-  ],
-  "01-14": [
-    [
-      "Nina",
-      "Santa"
-    ]
-  ],
-  "01-15": [
-    [
-      "Remígio",
-      "Santo"
-    ],
-    [
-      "Ita",
-      "Santa"
-    ],
-    [
-      "Mauro",
-      "Santo"
-    ],
-    [
-      "Raquel",
-      "Santa"
-    ]
-  ],
-  "01-16": [
-    [
-      "Marcelo",
-      "Santo"
-    ]
-  ],
-  "01-17": [
-    [
-      "Rosalina",
-      "Santa"
-    ]
-  ],
-  "01-18": [
-    [
-      "Prisca",
-      "Santa"
-    ]
-  ],
-  "01-19": [
-    [
-      "Henrique",
-      "Santo"
-    ],
-    [
-      "Mário",
-      "Santo"
-    ],
-    [
-      "Marta",
-      "Santa"
-    ],
-    [
-      "Pia",
-      "Santa"
-    ]
-  ],
-  "01-20": [
-    [
-      "Sebastião",
-      "Santo"
-    ]
-  ],
-  "01-21": [
-    [
-      "Inês",
-      "Santa"
-    ]
-  ],
-  "01-22": [
-    [
-      "Vicente",
-      "Santo"
-    ],
-    [
-      "Laura",
-      "Santa"
-    ],
-    [
-      "Timóteo",
-      "Santo"
-    ],
-    [
-      "Valério",
-      "Santo"
-    ]
-  ],
-  "01-23": [
-    [
-      "Bernardo",
-      "Santo"
-    ]
-  ],
-  "01-24": [
-    [
-      "Francisco de Sales",
-      "Santo"
-    ]
-  ],
-  "01-25": [
-    [
-      "Conversão de Paulo",
-      "Festa"
-    ]
-  ],
-  "01-26": [
-    [
-      "Paula",
-      "Santa"
-    ]
-  ],
-  "01-27": [
-    [
-      "Ângela",
-      "Santa"
-    ]
-  ],
-  "01-28": [
-    [
-      "Tomás de Aquino",
-      "Santo"
-    ]
-  ],
-  "01-29": [
-    [
-      "Gildas",
-      "Santo"
-    ]
-  ],
-  "01-30": [
-    [
-      "Martina",
-      "Santa"
-    ]
-  ],
-  "01-31": [
-    [
-      "Marcela",
-      "Santa"
-    ]
-  ],
-  "02-01": [
-    [
-      "Ella",
-      "Santa"
-    ]
-  ],
-  "02-02": [
-    [
-      "Festa da Apresentação",
-      "Festa"
-    ]
-  ],
-  "02-03": [
-    [
-      "Anscário",
-      "Santo"
-    ],
-    [
-      "Brás",
-      "Santo"
-    ],
-    [
-      "Claudina",
-      "Santa"
-    ],
-    [
-      "Hadelino",
-      "Santo"
-    ],
-    [
-      "Margarida",
-      "Santa"
-    ]
-  ],
-  "02-04": [
-    [
-      "Verónica",
-      "Santa"
-    ],
-    [
-      "Berenice",
-      "Santa"
-    ],
-    [
-      "Vanessa",
-      "Santa"
-    ]
-  ],
-  "02-05": [
-    [
-      "Águeda",
-      "Santa"
-    ]
-  ],
-  "02-06": [
-    [
-      "Gastão",
-      "Santo"
-    ]
-  ],
-  "02-07": [
-    [
-      "Eugénia",
-      "Santa"
-    ]
-  ],
-  "02-08": [
-    [
-      "Jacinta",
-      "Santa"
-    ]
-  ],
-  "02-09": [
-    [
-      "Apolónia",
-      "Santa"
-    ]
-  ],
-  "02-10": [
-    [
-      "Arnaldo",
-      "Santo"
-    ]
-  ],
-  "02-11": [
-    [
-      "Nossa Senhora de Lourdes",
-      "Santa"
-    ]
-  ],
-  "02-12": [
-    [
-      "Félix",
-      "Santo"
-    ]
-  ],
-  "02-13": [
-    [
-      "Beatriz",
-      "Santa"
-    ]
-  ],
-  "02-14": [
-    [
-      "Valentim",
-      "Santo"
-    ],
-    [
-      "Cirilo",
-      "Santo"
-    ],
-    [
-      "Metódio",
-      "Santo"
-    ]
-  ],
-  "02-15": [
-    [
-      "Cláudio",
-      "Santo"
-    ]
-  ],
-  "02-16": [
-    [
-      "Juliana",
-      "Santa"
-    ]
-  ],
-  "02-17": [
-    [
-      "Alexis",
-      "Santo"
-    ]
-  ],
-  "02-18": [
-    [
-      "Bernadete",
-      "Santa"
-    ]
-  ],
-  "02-19": [
-    [
-      "Gabino",
-      "Santo"
-    ]
-  ],
-  "02-20": [
-    [
-      "Amada",
-      "Santa"
-    ]
-  ],
-  "02-21": [
-    [
-      "Quarta-feira de Cinzas",
-      "Festa"
-    ]
-  ],
-  "02-22": [
-    [
-      "Isabel",
-      "Santa"
-    ]
-  ],
-  "02-23": [
-    [
-      "Lázaro",
-      "Santo"
-    ]
-  ],
-  "02-24": [
-    [
-      "Modesta",
-      "Santa"
-    ]
-  ],
-  "02-25": [
-    [
-      "Romeu",
-      "Santo"
-    ]
-  ],
-  "02-26": [
-    [
-      "Nestor",
-      "Santo"
-    ]
-  ],
-  "02-27": [
-    [
-      "Honorina",
-      "Santa"
-    ]
-  ],
-  "02-28": [
-    [
-      "Romão",
-      "Santo"
-    ]
-  ],
-  "02-29": [
-    [
-      "Augusto",
-      "Santo"
-    ]
-  ],
-  "03-01": [
-    [
-      "Albino",
-      "Santo"
-    ]
-  ],
-  "03-02": [
-    [
-      "Carlos o Bom",
-      "Santo"
-    ]
-  ],
-  "03-03": [
-    [
-      "Guénolé",
-      "Santo"
-    ]
-  ],
-  "03-04": [
-    [
-      "Casimiro",
-      "Santo"
-    ]
-  ],
-  "03-05": [
-    [
-      "Oliva",
-      "Santo"
-    ]
-  ],
-  "03-06": [
-    [
-      "Coleta",
-      "Santa"
-    ]
-  ],
-  "03-07": [
-    [
-      "Felicidade",
-      "Santa"
-    ],
-    [
-      "Perpétua",
-      "Santa"
-    ],
-    [
-      "Ethan",
-      "Santo"
-    ],
-    [
-      "Nathan",
-      "Santo"
-    ]
-  ],
-  "03-08": [
-    [
-      "João de Deus",
-      "Santo"
-    ]
-  ],
-  "03-09": [
-    [
-      "Francisca",
-      "Santa"
-    ]
-  ],
-  "03-10": [
-    [
-      "Viviano",
-      "Santo"
-    ]
-  ],
-  "03-11": [
-    [
-      "Rosina",
-      "Santa"
-    ]
-  ],
-  "03-12": [
-    [
-      "Justina",
-      "Santa"
-    ]
-  ],
-  "03-13": [
-    [
-      "Rodrigo",
-      "Santo"
-    ]
-  ],
-  "03-14": [
-    [
-      "Matilde",
-      "Santa"
-    ]
-  ],
-  "03-15": [
-    [
-      "Luísa",
-      "Santa"
-    ]
-  ],
-  "03-16": [
-    [
-      "Benedita",
-      "Santa"
-    ]
-  ],
-  "03-17": [
-    [
-      "Patrício",
-      "Santo"
-    ],
-    [
-      "Patrício",
-      "Santo"
-    ],
-    [
-      "Gertrudes",
-      "Santa"
-    ],
-    [
-      "João",
-      "Santo"
-    ]
-  ],
-  "03-18": [
-    [
-      "Cirilo",
-      "Santo"
-    ]
-  ],
-  "03-19": [
-    [
-      "José",
-      "Santo"
-    ]
-  ],
-  "03-20": [
-    [
-      "Herberto",
-      "Santo"
-    ]
-  ],
-  "03-21": [
-    [
-      "Clemência",
-      "Santa"
-    ]
-  ],
-  "03-22": [
-    [
-      "Lia",
-      "Santa"
-    ]
-  ],
-  "03-23": [
-    [
-      "Vitoriano",
-      "Santo"
-    ]
-  ],
-  "03-24": [
-    [
-      "Catarina",
-      "Santa"
-    ]
-  ],
-  "03-25": [
-    [
-      "Ana",
-      "Santa"
-    ]
-  ],
-  "03-26": [
-    [
-      "Larissa",
-      "Santa"
-    ]
-  ],
-  "03-27": [
-    [
-      "Habib",
-      "Santo"
-    ]
-  ],
-  "03-28": [
-    [
-      "Gontrão",
-      "Santo"
-    ]
-  ],
-  "03-29": [
-    [
-      "Gwladys",
-      "Santa"
-    ]
-  ],
-  "03-30": [
-    [
-      "Amadeu",
-      "Santo"
-    ]
-  ],
-  "03-31": [
-    [
-      "Benjamim",
-      "Santo"
-    ]
-  ],
-  "04-01": [
-    [
-      "Hugo",
-      "Santo"
-    ]
-  ],
-  "04-02": [
-    [
-      "Sandra",
-      "Santa"
-    ]
-  ],
-  "04-03": [
-    [
-      "Ricardo",
-      "Santo"
-    ]
-  ],
-  "04-04": [
-    [
-      "Isidoro",
-      "Santo"
-    ]
-  ],
-  "04-05": [
-    [
-      "Irene",
-      "Santa"
-    ]
-  ],
-  "04-06": [
-    [
-      "Marcelino",
-      "Santo"
-    ]
-  ],
-  "04-07": [
-    [
-      "João Batista de la Salle",
-      "Santo"
-    ]
-  ],
-  "04-08": [
-    [
-      "Júlia",
-      "Santa"
-    ]
-  ],
-  "04-09": [
-    [
-      "Gualter",
-      "Santo"
-    ]
-  ],
-  "04-10": [
-    [
-      "Fulberto",
-      "Santo"
-    ]
-  ],
-  "04-11": [
-    [
-      "Estanislau",
-      "Santo"
-    ]
-  ],
-  "04-12": [
-    [
-      "Júlio",
-      "Santo"
-    ]
-  ],
-  "04-13": [
-    [
-      "Ida",
-      "Santa"
-    ]
-  ],
-  "04-14": [
-    [
-      "Máximo",
-      "Santo"
-    ]
-  ],
-  "04-15": [
-    [
-      "Paterno",
-      "Santo"
-    ]
-  ],
-  "04-16": [
-    [
-      "Bento José",
-      "Santo"
-    ]
-  ],
-  "04-17": [
-    [
-      "Aniceto",
-      "Santo"
-    ]
-  ],
-  "04-18": [
-    [
-      "Perfeito",
-      "Santo"
-    ]
-  ],
-  "04-19": [
-    [
-      "Emma",
-      "Santa"
-    ]
-  ],
-  "04-20": [
-    [
-      "Odete",
-      "Santa"
-    ]
-  ],
-  "04-21": [
-    [
-      "Anselmo",
-      "Santo"
-    ]
-  ],
-  "04-22": [
-    [
-      "Alexandre",
-      "Santo"
-    ]
-  ],
-  "04-23": [
-    [
-      "Jorge",
-      "Santo"
-    ]
-  ],
-  "04-24": [
-    [
-      "Fidélis",
-      "Santo"
-    ]
-  ],
-  "04-25": [
-    [
-      "Marcos",
-      "Santo"
-    ]
-  ],
-  "04-26": [
-    [
-      "Alida",
-      "Santa"
-    ]
-  ],
-  "04-27": [
-    [
-      "Zita",
-      "Santa"
-    ]
-  ],
-  "04-28": [
-    [
-      "Valéria",
-      "Santa"
-    ]
-  ],
-  "04-29": [
-    [
-      "Catarina de Siena",
-      "Santa"
-    ]
-  ],
-  "04-30": [
-    [
-      "Roberto",
-      "Santo"
-    ]
-  ],
-  "05-01": [
-    [
-      "Dia do Trabalhador",
-      "Festa"
-    ]
-  ],
-  "05-02": [
-    [
-      "Boris",
-      "Santo"
-    ]
-  ],
-  "05-03": [
-    [
-      "Filipe",
-      "Santo"
-    ],
-    [
-      "Tiago",
-      "Santo"
-    ]
-  ],
-  "05-04": [
-    [
-      "Silvano",
-      "Santo"
-    ]
-  ],
-  "05-05": [
-    [
-      "Judite",
-      "Santa"
-    ]
-  ],
-  "05-06": [
-    [
-      "Prudêncio",
-      "Santo"
-    ]
-  ],
-  "05-07": [
-    [
-      "Gisela",
-      "Santa"
-    ]
-  ],
-  "05-08": [
-    [
-      "Armistício de 1945",
-      "Festa"
-    ]
-  ],
-  "05-09": [
-    [
-      "Pacômio",
-      "Santo"
-    ]
-  ],
-  "05-10": [
-    [
-      "Solange",
-      "Santa"
-    ]
-  ],
-  "05-11": [
-    [
-      "Estela",
-      "Santa"
-    ]
-  ],
-  "05-12": [
-    [
-      "Aquiles",
-      "Santo"
-    ]
-  ],
-  "05-13": [
-    [
-      "Rolando",
-      "Santa"
-    ]
-  ],
-  "05-14": [
-    [
-      "Matias",
-      "Santo"
-    ]
-  ],
-  "05-15": [
-    [
-      "Denise",
-      "Santa"
-    ]
-  ],
-  "05-16": [
-    [
-      "Honorato",
-      "Santo"
-    ]
-  ],
-  "05-17": [
-    [
-      "Pascoal",
-      "Santo"
-    ]
-  ],
-  "05-18": [
-    [
-      "Eric",
-      "Santo"
-    ]
-  ],
-  "05-19": [
-    [
-      "Ivo",
-      "Santo"
-    ]
-  ],
-  "05-20": [
-    [
-      "Bernardino",
-      "Santo"
-    ]
-  ],
-  "05-21": [
-    [
-      "Constantino",
-      "Santo"
-    ]
-  ],
-  "05-22": [
-    [
-      "Emílio",
-      "Santo"
-    ]
-  ],
-  "05-23": [
-    [
-      "Desidério",
-      "Santo"
-    ]
-  ],
-  "05-24": [
-    [
-      "Donaciano",
-      "Santo"
-    ]
-  ],
-  "05-25": [
-    [
-      "Sofia",
-      "Santa"
-    ]
-  ],
-  "05-26": [
-    [
-      "Berengário",
-      "Santo"
-    ]
-  ],
-  "05-27": [
-    [
-      "Agostinho",
-      "Santo"
-    ]
-  ],
-  "05-28": [
-    [
-      "Germano",
-      "Santo"
-    ]
-  ],
-  "05-29": [
-    [
-      "Aymar",
-      "Santo"
-    ]
-  ],
-  "05-30": [
-    [
-      "Fernando",
-      "Santo"
-    ]
-  ],
-  "05-31": [
-    [
-      "Fernando",
-      "Santo"
-    ]
-  ],
-  "06-01": [
-    [
-      "Justino",
-      "Santo"
-    ]
-  ],
-  "06-02": [
-    [
-      "Blandina",
-      "Santa"
-    ],
-    [
-      "Potino",
-      "Santo"
-    ],
-    [
-      "Alcides",
-      "Santo"
-    ],
-    [
-      "Emília",
-      "Santa"
-    ],
-    [
-      "Erasmo",
-      "Santo"
-    ]
-  ],
-  "06-03": [
-    [
-      "Kevin",
-      "Santo"
-    ]
-  ],
-  "06-04": [
-    [
-      "Clotilde",
-      "Santa"
-    ]
-  ],
-  "06-05": [
-    [
-      "Igor",
-      "Santo"
-    ]
-  ],
-  "06-06": [
-    [
-      "Norberto",
-      "Santo"
-    ]
-  ],
-  "06-07": [
-    [
-      "Gilberto",
-      "Santo"
-    ]
-  ],
-  "06-08": [
-    [
-      "Medardo",
-      "Santo"
-    ]
-  ],
-  "06-09": [
-    [
-      "Diana",
-      "Santa"
-    ],
-    [
-      "Efrem",
-      "Santo"
-    ],
-    [
-      "Feliciano",
-      "Santo"
-    ],
-    [
-      "Primo",
-      "Santo"
-    ]
-  ],
-  "06-10": [
-    [
-      "Landelino",
-      "Santo"
-    ]
-  ],
-  "06-11": [
-    [
-      "Barnabé",
-      "Santo"
-    ]
-  ],
-  "06-12": [
-    [
-      "Guido",
-      "Santo"
-    ]
-  ],
-  "06-13": [
-    [
-      "António de Pádua",
-      "Santo"
-    ]
-  ],
-  "06-14": [
-    [
-      "Eliseu",
-      "Santa"
-    ]
-  ],
-  "06-15": [
-    [
-      "Germana",
-      "Santa"
-    ]
-  ],
-  "06-16": [
-    [
-      "João Francisco Régis",
-      "Santo"
-    ]
-  ],
-  "06-17": [
-    [
-      "Hervé",
-      "Santo"
-    ]
-  ],
-  "06-18": [
-    [
-      "Leôncio",
-      "Santo"
-    ]
-  ],
-  "06-19": [
-    [
-      "Romualdo",
-      "Santo"
-    ]
-  ],
-  "06-20": [
-    [
-      "Silvério",
-      "Santo"
-    ]
-  ],
-  "06-21": [
-    [
-      "Solstício de Verão",
-      "Festa"
-    ]
-  ],
-  "06-22": [
-    [
-      "Albano",
-      "Santo"
-    ]
-  ],
-  "06-23": [
-    [
-      "Audrey",
-      "Santa"
-    ]
-  ],
-  "06-24": [
-    [
-      "João Batista",
-      "Santo"
-    ]
-  ],
-  "06-25": [
-    [
-      "Próspero",
-      "Santo"
-    ]
-  ],
-  "06-26": [
-    [
-      "Antelmo",
-      "Santo"
-    ]
-  ],
-  "06-27": [
-    [
-      "Fernando",
-      "Santo"
-    ]
-  ],
-  "06-28": [
-    [
-      "Ireneu",
-      "Santo"
-    ]
-  ],
-  "06-29": [
-    [
-      "Pedro",
-      "Santo"
-    ]
-  ],
-  "06-30": [
-    [
-      "Marcial",
-      "Santo"
-    ]
-  ],
-  "07-01": [
-    [
-      "Thierry",
-      "Santo"
-    ]
-  ],
-  "07-02": [
-    [
-      "Martiniano",
-      "Santo"
-    ]
-  ],
-  "07-03": [
-    [
-      "Tomás",
-      "Santo"
-    ]
-  ],
-  "07-04": [
-    [
-      "Florêncio",
-      "Santo"
-    ]
-  ],
-  "07-05": [
-    [
-      "António",
-      "Santo"
-    ]
-  ],
-  "07-06": [
-    [
-      "Maria",
-      "Santa"
-    ]
-  ],
-  "07-07": [
-    [
-      "Raul",
-      "Santo"
-    ]
-  ],
-  "07-08": [
-    [
-      "Teobaldo",
-      "Santo"
-    ]
-  ],
-  "07-09": [
-    [
-      "Amandina",
-      "Santa"
-    ]
-  ],
-  "07-10": [
-    [
-      "Ulrico",
-      "Santo"
-    ]
-  ],
-  "07-11": [
-    [
-      "Bento",
-      "Santo"
-    ]
-  ],
-  "07-12": [
-    [
-      "Olivério",
-      "Santo"
-    ]
-  ],
-  "07-13": [
-    [
-      "Henrique",
-      "Santo"
-    ],
-    [
-      "Joel",
-      "Santo"
-    ]
-  ],
-  "07-14": [
-    [
-      "Festa Nacional",
-      "Festa"
-    ]
-  ],
-  "07-15": [
-    [
-      "Donald",
-      "Santo"
-    ]
-  ],
-  "07-16": [
-    [
-      "Festa de Nossa Senhora do Carmo",
-      "Festa"
-    ]
-  ],
-  "07-17": [
-    [
-      "Carlota",
-      "Santa"
-    ]
-  ],
-  "07-18": [
-    [
-      "Frederico",
-      "Santo"
-    ]
-  ],
-  "07-19": [
-    [
-      "Arsênio",
-      "Santo"
-    ]
-  ],
-  "07-20": [
-    [
-      "Marina",
-      "Santa"
-    ]
-  ],
-  "07-21": [
-    [
-      "Vítor",
-      "Santo"
-    ]
-  ],
-  "07-22": [
-    [
-      "Maria Madalena",
-      "Santa"
-    ]
-  ],
-  "07-23": [
-    [
-      "Brígida",
-      "Santa"
-    ]
-  ],
-  "07-24": [
-    [
-      "Cristina",
-      "Santa"
-    ]
-  ],
-  "07-25": [
-    [
-      "Tiago",
-      "Santo"
-    ]
-  ],
-  "07-26": [
-    [
-      "Ana",
-      "Santa"
-    ],
-    [
-      "Joaquim",
-      "Santo"
-    ]
-  ],
-  "07-27": [
-    [
-      "Natália",
-      "Santa"
-    ]
-  ],
-  "07-28": [
-    [
-      "Sansão",
-      "Santo"
-    ]
-  ],
-  "07-29": [
-    [
-      "Marta",
-      "Santa"
-    ]
-  ],
-  "07-30": [
-    [
-      "Julieta",
-      "Santa"
-    ]
-  ],
-  "07-31": [
-    [
-      "Inácio de Loyola",
-      "Santo"
-    ]
-  ],
-  "08-01": [
-    [
-      "Afonso",
-      "Santo"
-    ]
-  ],
-  "08-02": [
-    [
-      "Julião Eymard",
-      "Santo"
-    ]
-  ],
-  "08-03": [
-    [
-      "Lídia",
-      "Santa"
-    ]
-  ],
-  "08-04": [
-    [
-      "João Maria Vianney",
-      "Santo"
-    ]
-  ],
-  "08-05": [
-    [
-      "Abel",
-      "Santo"
-    ]
-  ],
-  "08-06": [
-    [
-      "Festa da Transfiguração",
-      "Festa"
-    ]
-  ],
-  "08-07": [
-    [
-      "Caetano",
-      "Santo"
-    ]
-  ],
-  "08-08": [
-    [
-      "Domingos",
-      "Santo"
-    ]
-  ],
-  "08-09": [
-    [
-      "Amor",
-      "Santo"
-    ]
-  ],
-  "08-10": [
-    [
-      "Lourenço",
-      "Santo"
-    ]
-  ],
-  "08-11": [
-    [
-      "Clara",
-      "Santa"
-    ]
-  ],
-  "08-12": [
-    [
-      "Clarissa",
-      "Santa"
-    ]
-  ],
-  "08-13": [
-    [
-      "Hipólito",
-      "Santo"
-    ]
-  ],
-  "08-14": [
-    [
-      "Evrardo",
-      "Santo"
-    ]
-  ],
-  "08-15": [
-    [
-      "Festa da Assunção",
-      "Festa"
-    ]
-  ],
-  "08-16": [
-    [
-      "Armel",
-      "Santo"
-    ]
-  ],
-  "08-17": [
-    [
-      "Jacinto",
-      "Santo"
-    ]
-  ],
-  "08-18": [
-    [
-      "Helena",
-      "Santa"
-    ]
-  ],
-  "08-19": [
-    [
-      "João Eudes",
-      "Santo"
-    ]
-  ],
-  "08-20": [
-    [
-      "Bernardo",
-      "Santo"
-    ]
-  ],
-  "08-21": [
-    [
-      "Cristóvão",
-      "Santo"
-    ]
-  ],
-  "08-22": [
-    [
-      "Fabrício",
-      "Santo"
-    ]
-  ],
-  "08-23": [
-    [
-      "Rosa de Lima",
-      "Santa"
-    ]
-  ],
-  "08-24": [
-    [
-      "Bartolomeu",
-      "Santo"
-    ]
-  ],
-  "08-25": [
-    [
-      "Luís",
-      "Santo"
-    ]
-  ],
-  "08-26": [
-    [
-      "Natasha",
-      "Santa"
-    ]
-  ],
-  "08-27": [
-    [
-      "Mónica",
-      "Santa"
-    ]
-  ],
-  "08-28": [
-    [
-      "Agostinho",
-      "Santo"
-    ]
-  ],
-  "08-29": [
-    [
-      "Sabina",
-      "Santa"
-    ]
-  ],
-  "08-30": [
-    [
-      "Fiacre",
-      "Santo"
-    ]
-  ],
-  "08-31": [
-    [
-      "Aristides",
-      "Santo"
-    ]
-  ],
-  "09-01": [
-    [
-      "Egídio",
-      "Santo"
-    ]
-  ],
-  "09-02": [
-    [
-      "Ingrid",
-      "Santa"
-    ]
-  ],
-  "09-03": [
-    [
-      "Gregório",
-      "Santo"
-    ]
-  ],
-  "09-04": [
-    [
-      "Rosália",
-      "Santa"
-    ]
-  ],
-  "09-05": [
-    [
-      "Raíssa",
-      "Santa"
-    ]
-  ],
-  "09-06": [
-    [
-      "Beltrão",
-      "Santo"
-    ]
-  ],
-  "09-07": [
-    [
-      "Regina",
-      "Santa"
-    ]
-  ],
-  "09-08": [
-    [
-      "Festa da Natividade",
-      "Festa"
-    ]
-  ],
-  "09-09": [
-    [
-      "Alain",
-      "Santo"
-    ]
-  ],
-  "09-10": [
-    [
-      "Inês",
-      "Santa"
-    ]
-  ],
-  "09-11": [
-    [
-      "Adelfo",
-      "Santo"
-    ]
-  ],
-  "09-12": [
-    [
-      "Apolinário",
-      "Santo"
-    ]
-  ],
-  "09-13": [
-    [
-      "Amada",
-      "Santa"
-    ]
-  ],
-  "09-14": [
-    [
-      "Festa da Santa Cruz",
-      "Festa"
-    ]
-  ],
-  "09-15": [
-    [
-      "Rolando",
-      "Santo"
-    ]
-  ],
-  "09-16": [
-    [
-      "Edite",
-      "Santa"
-    ]
-  ],
-  "09-17": [
-    [
-      "Renato",
-      "Santo"
-    ]
-  ],
-  "09-18": [
-    [
-      "Nádia",
-      "Santa"
-    ]
-  ],
-  "09-19": [
-    [
-      "Emília",
-      "Santa"
-    ]
-  ],
-  "09-20": [
-    [
-      "David",
-      "Santo"
-    ]
-  ],
-  "09-21": [
-    [
-      "Mateus",
-      "Santo"
-    ]
-  ],
-  "09-22": [
-    [
-      "Maurício",
-      "Santo"
-    ]
-  ],
-  "09-23": [
-    [
-      "Equinócio de Outono",
-      "Festa"
-    ]
-  ],
-  "09-24": [
-    [
-      "Tecla",
-      "Santa"
-    ]
-  ],
-  "09-25": [
-    [
-      "Hermann",
-      "Santo"
-    ]
-  ],
-  "09-26": [
-    [
-      "Cosme",
-      "Santo"
-    ]
-  ],
-  "09-27": [
-    [
-      "Vicente de Paulo",
-      "Santo"
-    ]
-  ],
-  "09-28": [
-    [
-      "Venceslau",
-      "Santo"
-    ]
-  ],
-  "09-29": [
-    [
-      "Miguel",
-      "Santo"
-    ],
-    [
-      "Gabriel",
-      "Santo"
-    ],
-    [
-      "Rafael",
-      "Santo"
-    ]
-  ],
-  "09-30": [
-    [
-      "Jerónimo",
-      "Santo"
-    ]
-  ],
-  "10-01": [
-    [
-      "Teresa do Menino Jesus",
-      "Santa"
-    ]
-  ],
-  "10-02": [
-    [
-      "Leger",
-      "Santo"
-    ]
-  ],
-  "10-03": [
-    [
-      "Gerardo",
-      "Santo"
-    ]
-  ],
-  "10-04": [
-    [
-      "Francisco de Assis",
-      "Santo"
-    ]
-  ],
-  "10-05": [
-    [
-      "Flora",
-      "Santa"
-    ]
-  ],
-  "10-06": [
-    [
-      "Bruno",
-      "Santo"
-    ]
-  ],
-  "10-07": [
-    [
-      "Sérgio",
-      "Santo"
-    ]
-  ],
-  "10-08": [
-    [
-      "Pelágia",
-      "Santa"
-    ]
-  ],
-  "10-09": [
-    [
-      "Dionísio",
-      "Santo"
-    ]
-  ],
-  "10-10": [
-    [
-      "Ghislain",
-      "Santo"
-    ]
-  ],
-  "10-11": [
-    [
-      "Firmino",
-      "Santo"
-    ]
-  ],
-  "10-12": [
-    [
-      "Wilfredo",
-      "Santo"
-    ]
-  ],
-  "10-13": [
-    [
-      "Geraldo",
-      "Santo"
-    ]
-  ],
-  "10-14": [
-    [
-      "Justo",
-      "Santo"
-    ]
-  ],
-  "10-15": [
-    [
-      "Teresa de Ávila",
-      "Santa"
-    ]
-  ],
-  "10-16": [
-    [
-      "Edwiges",
-      "Santa"
-    ]
-  ],
-  "10-17": [
-    [
-      "Balduíno",
-      "Santo"
-    ]
-  ],
-  "10-18": [
-    [
-      "Lucas",
-      "Santo"
-    ]
-  ],
-  "10-19": [
-    [
-      "René",
-      "Santo"
-    ]
-  ],
-  "10-20": [
-    [
-      "Adelina",
-      "Santa"
-    ]
-  ],
-  "10-21": [
-    [
-      "Celina",
-      "Santa"
-    ]
-  ],
-  "10-22": [
-    [
-      "Elódia",
-      "Santa"
-    ]
-  ],
-  "10-23": [
-    [
-      "João de Capistrano",
-      "Santo"
-    ]
-  ],
-  "10-24": [
-    [
-      "Florentina",
-      "Santa"
-    ]
-  ],
-  "10-25": [
-    [
-      "Crispim",
-      "Santo"
-    ]
-  ],
-  "10-26": [
-    [
-      "Dimitri",
-      "Santo"
-    ]
-  ],
-  "10-27": [
-    [
-      "Emelina",
-      "Santa"
-    ]
-  ],
-  "10-28": [
-    [
-      "Judas",
-      "Santo"
-    ]
-  ],
-  "10-29": [
-    [
-      "Narciso",
-      "Santo"
-    ]
-  ],
-  "10-30": [
-    [
-      "Bem-vinda",
-      "Santa"
-    ]
-  ],
-  "10-31": [
-    [
-      "Quintino",
-      "Santo"
-    ]
-  ],
-  "11-01": [
-    [
-      "Todos os Santos",
-      "Festa"
-    ]
-  ],
-  "11-02": [
-    [
-      "Festa dos Fiéis Defuntos",
-      "Festa"
-    ]
-  ],
-  "11-03": [
-    [
-      "Huberto",
-      "Santo"
-    ]
-  ],
-  "11-04": [
-    [
-      "Carlos",
-      "Santo"
-    ]
-  ],
-  "11-05": [
-    [
-      "Sílvia",
-      "Santa"
-    ]
-  ],
-  "11-06": [
-    [
-      "Bertila",
-      "Santa"
-    ]
-  ],
-  "11-07": [
-    [
-      "Carina",
-      "Santa"
-    ]
-  ],
-  "11-08": [
-    [
-      "Godofredo",
-      "Santo"
-    ]
-  ],
-  "11-09": [
-    [
-      "Teodoro",
-      "Santo"
-    ]
-  ],
-  "11-10": [
-    [
-      "Leão",
-      "Santo"
-    ]
-  ],
-  "11-11": [
-    [
-      "Armistício de 1918",
-      "Festa"
-    ]
-  ],
-  "11-12": [
-    [
-      "Cristiano",
-      "Santo"
-    ]
-  ],
-  "11-13": [
-    [
-      "Brice",
-      "Santo"
-    ]
-  ],
-  "11-14": [
-    [
-      "Sidónio",
-      "Santo"
-    ]
-  ],
-  "11-15": [
-    [
-      "Alberto",
-      "Santo"
-    ]
-  ],
-  "11-16": [
-    [
-      "Margarida",
-      "Santa"
-    ]
-  ],
-  "11-17": [
-    [
-      "Isabel",
-      "Santa"
-    ]
-  ],
-  "11-18": [
-    [
-      "Aude",
-      "Santa"
-    ]
-  ],
-  "11-19": [
-    [
-      "Tanguy",
-      "Santo"
-    ]
-  ],
-  "11-20": [
-    [
-      "Edmundo",
-      "Santo"
-    ]
-  ],
-  "11-21": [
-    [
-      "Apresentação de Maria",
-      "Festa"
-    ]
-  ],
-  "11-22": [
-    [
-      "Cecília",
-      "Santa"
-    ]
-  ],
-  "11-23": [
-    [
-      "Clemente",
-      "Santo"
-    ]
-  ],
-  "11-24": [
-    [
-      "Flora",
-      "Santa"
-    ]
-  ],
-  "11-25": [
-    [
-      "Catarina",
-      "Santa"
-    ]
-  ],
-  "11-26": [
-    [
-      "Delfina",
-      "Santa"
-    ]
-  ],
-  "11-27": [
-    [
-      "Severino",
-      "Santo"
-    ]
-  ],
-  "11-28": [
-    [
-      "Tiago da Marca",
-      "Santo"
-    ]
-  ],
-  "11-29": [
-    [
-      "Saturnino",
-      "Santo"
-    ]
-  ],
-  "11-30": [
-    [
-      "André",
-      "Santo"
-    ]
-  ],
-  "12-01": [
-    [
-      "Florença",
-      "Santa"
-    ],
-    [
-      "Elígio",
-      "Santo"
-    ],
-    [
-      "Loïc",
-      "Santo"
-    ],
-    [
-      "Naum",
-      "Santo"
-    ],
-    [
-      "Tudal",
-      "Santo"
-    ]
-  ],
-  "12-02": [
-    [
-      "Viviana",
-      "Santa"
-    ],
-    [
-      "Silvério",
-      "Santo"
-    ],
-    [
-      "Bibiana",
-      "Santa"
-    ],
-    [
-      "Rondro",
-      "Santo"
-    ]
-  ],
-  "12-03": [
-    [
-      "Francisco Xavier",
-      "Santo"
-    ],
-    [
-      "Silvério",
-      "Santo"
-    ]
-  ],
-  "12-04": [
-    [
-      "Bárbara",
-      "Santa"
-    ],
-    [
-      "Bárbara",
-      "Santa"
-    ]
-  ],
-  "12-05": [
-    [
-      "Geraldo",
-      "Santo"
-    ]
-  ],
-  "12-06": [
-    [
-      "Nicolau",
-      "Santo"
-    ],
-    [
-      "Coleta",
-      "Santa"
-    ]
-  ],
-  "12-07": [
-    [
-      "Ambrósio",
-      "Santo"
-    ],
-    [
-      "Khalid",
-      "Santo"
-    ]
-  ],
-  "12-08": [
-    [
-      "Festa da Imaculada Conceição",
-      "Festa"
-    ],
-    [
-      "Azucena",
-      "Santa"
-    ],
-    [
-      "Conceição",
-      "Santa"
-    ],
-    [
-      "Imaculada",
-      "Santa"
-    ],
-    [
-      "Romarico",
-      "Santo"
-    ]
-  ],
-  "12-09": [
-    [
-      "Pedro Fourier",
-      "Santo"
-    ],
-    [
-      "Leocádia",
-      "Santa"
-    ]
-  ],
-  "12-10": [
-    [
-      "Romarico",
-      "Santo"
-    ],
-    [
-      "Eulália",
-      "Santa"
-    ]
-  ],
-  "12-11": [
-    [
-      "Daniel",
-      "Santo"
-    ],
-    [
-      "Dâmaso",
-      "Santo"
-    ]
-  ],
-  "12-12": [
-    [
-      "Joana Francisca de Chantal",
-      "Santa"
-    ],
-    [
-      "Corentin",
-      "Santo"
-    ],
-    [
-      "Guadalupe",
-      "Santa"
-    ]
-  ],
-  "12-13": [
-    [
-      "Lúcia",
-      "Santa"
-    ]
-  ],
-  "12-14": [
-    [
-      "Odília",
-      "Santa"
-    ]
-  ],
-  "12-15": [
-    [
-      "Nina",
-      "Santa"
-    ],
-    [
-      "Nino",
-      "Santo"
-    ]
-  ],
-  "12-16": [
-    [
-      "Alice",
-      "Santa"
-    ],
-    [
-      "Adelaide",
-      "Santa"
-    ],
-    [
-      "Alizée",
-      "Santa"
-    ]
-  ],
-  "12-17": [
-    [
-      "Gael",
-      "Santo"
-    ],
-    [
-      "Judicael",
-      "Santo"
-    ]
-  ],
-  "12-18": [
-    [
-      "Gaciano",
-      "Santo"
-    ]
-  ],
-  "12-19": [
-    [
-      "Urbano",
-      "Santo"
-    ]
-  ],
-  "12-20": [
-    [
-      "Teófilo",
-      "Santo"
-    ],
-    [
-      "Zeferino",
-      "Santo"
-    ]
-  ],
-  "12-21": [
-    [
-      "Solstício de Inverno",
-      "Festa"
-    ],
-    [
-      "Pedro",
-      "Santo"
-    ]
-  ],
-  "12-22": [
-    [
-      "Francisca Xavier",
-      "Santa"
-    ]
-  ],
-  "12-23": [
-    [
-      "Armando",
-      "Santo"
-    ],
-    [
-      "Xavier",
-      "Santa"
-    ]
-  ],
-  "12-24": [
-    [
-      "Adela",
-      "Santa"
-    ]
-  ],
-  "12-25": [
-    [
-      "Natal",
-      "Festa"
-    ],
-    [
-      "Belém",
-      "Festa"
-    ],
-    [
-      "Emanuel",
-      "Santo"
-    ],
-    [
-      "Jesus",
-      "Santo"
-    ],
-    [
-      "Natal",
-      "Festa"
-    ]
-  ],
-  "12-26": [
-    [
-      "Estêvão",
-      "Santo"
-    ]
-  ],
-  "12-27": [
-    [
-      "João",
-      "Santo"
-    ],
-    [
-      "Estêvão",
-      "Santo"
-    ]
-  ],
-  "12-28": [
-    [
-      "Santos Inocentes",
-      "Santos"
-    ],
-    [
-      "Inocêncio",
-      "Santo"
-    ]
-  ],
-  "12-29": [
-    [
-      "David",
-      "Santo"
-    ],
-    [
-      "Abigail",
-      "Santa"
-    ],
-    [
-      "Eloha",
-      "Santa"
-    ]
-  ],
-  "12-30": [
-    [
-      "Rogério",
-      "Santo"
-    ]
-  ],
-  "12-31": [
-    [
-      "Silvestre",
-      "Santo"
-    ],
-    [
-      "Francisco Régis",
-      "Santo"
-    ],
-    [
-      "João Francisco",
-      "Santo"
-    ],
-    [
-      "Régis",
-      "Santo"
-    ],
-    [
-      "Silvestre",
-      "Santo"
-    ]
-  ]
+  "01-01": ["Maria", "Mãe de Deus"],
+  "01-02": ["Basílio", "Gregório"],
+  "01-03": ["Genoveva", "Nome de Jesus"],
+  "01-04": ["Ângela", "Rigoberto"],
+  "01-05": ["Simeão", "João Neumann"],
+  "01-06": ["Epifania", "Melquior", "Gaspar", "Baltasar"],
+  "01-07": ["Raimundo"],
+  "01-08": ["Severino"],
+  "01-09": ["Julião", "Basilissa"],
+  "01-10": ["Gonçalo"],
+  "01-11": ["Higino"],
+  "01-12": ["Tatiana", "Arcádio"],
+  "01-13": ["Hilário", "Remígio"],
+  "01-14": ["Félix"],
+  "01-15": ["Mauro", "Amaro"],
+  "01-16": ["Marcelo"],
+  "01-17": ["Antão", "António"],
+  "01-18": ["Margarida", "Prisca"],
+  "01-19": ["Mário", "Marta"],
+  "01-20": ["Sebastião", "Fabião"],
+  "01-21": ["Inês", "Agnès"],
+  "01-22": ["Vicente", "Anastácio"],
+  "01-23": ["Ildefonso", "Emerenciana"],
+  "01-24": ["Francisco de Sales", "Timóteo"],
+  "01-25": ["Paulo", "Conversão"],
+  "01-26": ["Paula", "Timóteo", "Tito"],
+  "01-27": ["Ângela", "Julião"],
+  "01-28": ["Tomás de Aquino", "Carlos"],
+  "01-29": ["Valério", "Gildas"],
+  "01-30": ["Martinha", "Jacinta"],
+  "01-31": ["João Bosco", "Marcela"],
+  "02-01": ["Brígida", "Cecílio"],
+  "02-02": ["Apresentação", "Simeão", "Candelária"],
+  "02-03": ["Brás", "Óscar", "Laurêncio"],
+  "02-04": ["João de Brito", "Verónica", "José de Anchieta"],
+  "02-05": ["Águeda", "Ágata", "Filipe"],
+  "02-06": ["Paulo Miki", "Doroteia"],
+  "02-07": ["Ricardo"],
+  "02-08": ["Jerónimo Emiliano", "Josefina"],
+  "02-09": ["Apolónia", "Miguel Febres"],
+  "02-10": ["Escolástica", "Jacinta Marto"],
+  "02-11": ["Lourdes", "Benedita"],
+  "02-12": ["Eulália"],
+  "02-13": ["Benigno"],
+  "02-14": ["Cirilo", "Metódio", "Valentim"],
+  "02-15": ["Faustino", "Jovita"],
+  "02-16": ["Juliana", "Onésimo"],
+  "02-17": ["Aleixo"],
+  "02-18": ["Teotónio", "Simeão"],
+  "02-19": ["Conrado", "Gabino"],
+  "02-20": ["Francisco Marto", "Jacinta Marto", "Eleutério"],
+  "02-21": ["Pedro Damião", "Eleazário"],
+  "02-22": ["Cátedra de Pedro", "Margarida"],
+  "02-23": ["Policarpo", "Romana"],
+  "02-24": ["Sérgio", "Matias"],
+  "02-25": ["Cesário"],
+  "02-26": ["Alexandre", "Paula"],
+  "02-27": ["Gabriel", "Gregório de Narek"],
+  "02-28": ["Romano"],
+  "02-29": ["Augusto"],
+  "03-01": ["Albino", "Suitberto"],
+  "03-02": ["Inês", "Carlos"],
+  "03-03": ["Emílio", "Cunegunda"],
+  "03-04": ["Casimiro", "Lucio"],
+  "03-05": ["Teófilo", "Adriano"],
+  "03-06": ["Coleta", "Rosa"],
+  "03-07": ["Perpétua", "Felicidade", "Tomás"],
+  "03-08": ["João de Deus", "Julião"],
+  "03-09": ["Francisca", "Catarina"],
+  "03-10": ["Simplício", "Macário"],
+  "03-11": ["Constantino"],
+  "03-12": ["Luís Orione", "Gregório"],
+  "03-13": ["Rodrigo", "Salomão"],
+  "03-14": ["Matilde"],
+  "03-15": ["Longuinho", "Clemente"],
+  "03-16": ["Heriberto"],
+  "03-17": ["Patrício", "Gertrudis"],
+  "03-18": ["Cirilo de Jerusalém", "Salvador"],
+  "03-19": ["José", "Joaquim"],
+  "03-20": ["Martinho de Dume", "Alexandra"],
+  "03-21": ["Nicolau de Flüe", "Serapião"],
+  "03-22": ["Bieitas", "Léa"],
+  "03-23": ["Turíbio", "Vitoriano"],
+  "03-24": ["Catarina", "Gabriel"],
+  "03-25": ["Anunciação", "Dimas"],
+  "03-26": ["Bráulio"],
+  "03-27": ["Ruperto"],
+  "03-28": ["Gontrão"],
+  "03-29": ["Gladis"],
+  "03-30": ["João Clímaco"],
+  "03-31": ["Benjamim"],
+  "04-01": ["Hugo", "Teodora"],
+  "04-02": ["Francisco de Paula", "Ebba"],
+  "04-03": ["Ricardo", "Sixto"],
+  "04-04": ["Isidoro", "Bento"],
+  "04-05": ["Vicente Ferrer", "Irene"],
+  "04-06": ["Celestino", "Marcelino"],
+  "04-07": ["João Batista", "Epifânio"],
+  "04-08": ["Dionísio"],
+  "04-09": ["Demétrio", "Maria Cleofas"],
+  "04-10": ["Ezequiel", "Miguel"],
+  "04-11": ["Estanislau", "Gemma"],
+  "04-12": ["Júlio", "Zeno"],
+  "04-13": ["Martinho", "Hermenegildo"],
+  "04-14": ["Tibúrcio", "Valeriano"],
+  "04-15": ["Damião"],
+  "04-16": ["Engrácia", "Júlia", "Fructuoso", "Augurio", "Eulogio"],
+  "04-17": ["Aniceto", "Roberto"],
+  "04-18": ["Perfecto"],
+  "04-19": ["Expedito", "Leão"],
+  "04-20": ["Inês"],
+  "04-21": ["Anselmo", "Simeão"],
+  "04-22": ["Leonides", "Sotero"],
+  "04-23": ["Jorge", "Adalberto"],
+  "04-24": ["Fidel", "Maria Cleofas"],
+  "04-25": ["Marcos", "Erminaldo"],
+  "04-26": ["Cleto"],
+  "04-27": ["Zita", "Toríbio"],
+  "04-28": ["Pedro Chanel", "Luís", "Valéria"],
+  "04-29": ["Catarina", "Pedro"],
+  "04-30": ["Pio V"],
+  "05-01": ["José Operário", "Segismundo"],
+  "05-02": ["Atanásio", "Zoe"],
+  "05-03": ["Filipe", "Tiago", "Juvenal"],
+  "05-04": ["Floriano", "Antónia"],
+  "05-05": ["Ângelo", "Gotardo"],
+  "05-06": ["Juditta"],
+  "05-07": ["Gisela"],
+  "05-08": ["Vitor", "Desejado"],
+  "05-09": ["Gregório", "Pacomio"],
+  "05-10": ["João de Ávila", "Antonino"],
+  "05-11": ["Mamerto"],
+  "05-12": ["Joana de Portugal", "Nereu", "Aquileu", "Pancrácio"],
+  "05-13": ["Fátima", "Nossa Senhora"],
+  "05-14": ["Matias", "Bonifácio"],
+  "05-15": ["Isidro", "Sofia"],
+  "05-16": ["João Nepomuceno", "Ubaldo"],
+  "05-17": ["Pascoal"],
+  "05-18": ["João I", "Eric"],
+  "05-19": ["Pedro Celestino", "Ivo"],
+  "05-20": ["Bernardino"],
+  "05-21": ["Cristóvão Magallanes"],
+  "05-22": ["Rita", "Joaquina"],
+  "05-23": ["Desidério"],
+  "05-24": ["Maria Auxiliadora", "Joana"],
+  "05-25": ["Beda", "Gregório VII", "Maria Madalena"],
+  "05-26": ["Filipe Néri", "Eleutério"],
+  "05-27": ["Agostinho de Cantuária"],
+  "05-28": ["Emílio"],
+  "05-29": ["Paulo VI", "Maximino"],
+  "05-30": ["Fernando", "Joana d'Arc"],
+  "05-31": ["Visitação", "Petronila"],
+  "06-01": ["Justino", "Simão"],
+  "06-02": ["Marcelino", "Pedro", "Erasmo"],
+  "06-03": ["Carlos Lwanga", "Clotilde"],
+  "06-04": ["Francisco Caracciolo", "Quirino"],
+  "06-05": ["Bonifácio", "Fernando"],
+  "06-06": ["Norberto", "Marcelino"],
+  "06-07": ["Roberto"],
+  "06-08": ["Medardo"],
+  "06-09": ["Efrém", "Columba"],
+  "06-10": ["Anjo da Guarda"],
+  "06-11": ["Barnabé"],
+  "06-12": ["João de Sahagun", "Onofre"],
+  "06-13": ["António de Lisboa", "António"],
+  "06-14": ["Eliseu"],
+  "06-15": ["Vito", "Crescência"],
+  "06-16": ["Aureliano"],
+  "06-17": ["Gregório Barbarigo", "Teresa"],
+  "06-18": ["Gregório", "Marcos"],
+  "06-19": ["Romualdo", "Gervásio", "Protásio"],
+  "06-20": ["Sancha", "Mafalda"],
+  "06-21": ["Luís Gonzaga", "Aloisio"],
+  "06-22": ["João Fisher", "Tomás Moro", "Paulino"],
+  "06-23": ["José Cafasso"],
+  "06-24": ["João Batista", "Nascimento"],
+  "06-25": ["Guilherme"],
+  "06-26": ["Josemaría", "João", "Paulo"],
+  "06-27": ["Cirilo", "Ladislau"],
+  "06-28": ["Ireneu", "Argimiro"],
+  "06-29": ["Pedro", "Paulo"],
+  "06-30": ["Primeiros Mártires"],
+  "07-01": ["Aarão", "Simeão"],
+  "07-02": ["Martiniano"],
+  "07-03": ["Tomé", "Anatólio"],
+  "07-04": ["Isabel de Portugal", "Laureano"],
+  "07-05": ["António Maria Zacarias", "Cirilo"],
+  "07-06": ["Maria Goretti", "Isaías"],
+  "07-07": ["Pantaleão"],
+  "07-08": ["Eugénio"],
+  "07-09": ["Agostinho Zhao Rong", "Verónica"],
+  "07-10": ["Cristóvão"],
+  "07-11": ["Bento", "Olga"],
+  "07-12": ["João Gualberto"],
+  "07-13": ["Henrique", "Joel"],
+  "07-14": ["Camilo", "Boaventura"],
+  "07-15": ["Boaventura", "Rosália"],
+  "07-16": ["Nossa Senhora do Carmo"],
+  "07-17": ["Inácio de Azevedo", "Aleixo"],
+  "07-18": ["Bartolomeu dos Mártires", "Frederico"],
+  "07-19": ["Aurélia"],
+  "07-20": ["Apolinário", "Elias"],
+  "07-21": ["Lourenço de Brindes", "Daniel"],
+  "07-22": ["Maria Madalena"],
+  "07-23": ["Brígida", "Apolinário"],
+  "07-24": ["Cristina", "Sarbélio"],
+  "07-25": ["Tiago", "Cristóvão"],
+  "07-26": ["Joaquim", "Ana"],
+  "07-27": ["Natália", "Celestino"],
+  "07-28": ["Nazário", "Celso"],
+  "07-29": ["Marta", "Maria", "Lázaro", "Olavo"],
+  "07-30": ["Pedro Crisólogo", "Abdon", "Senén"],
+  "07-31": ["Inácio de Loiola", "Germano"],
+  "08-01": ["Afonso de Ligório", "Pedro"],
+  "08-02": ["Eusébio", "Pedro Julião"],
+  "08-03": ["Lídia"],
+  "08-04": ["João Maria Vianney", "Domingo"],
+  "08-05": ["Dedicação", "Osvaldo"],
+  "08-06": ["Transfiguração", "Justo", "Pastor"],
+  "08-07": ["Sisto II", "Caetano", "Donato"],
+  "08-08": ["Domingos", "Ciríaco"],
+  "08-09": ["Teresa Benedita", "Edith Stein", "Romano"],
+  "08-10": ["Lourenço", "Astério"],
+  "08-11": ["Clara", "Susana"],
+  "08-12": ["Joana Francisca"],
+  "08-13": ["Ponciano", "Hipólito", "Radegunda"],
+  "08-14": ["Maximiliano Kolbe", "Alfredo"],
+  "08-15": ["Assunção", "Maria"],
+  "08-16": ["Estêvão", "Roque"],
+  "08-17": ["Beatriz da Silva", "Jacinto"],
+  "08-18": ["Helena", "Agapito"],
+  "08-19": ["João Eudes"],
+  "08-20": ["Bernardo", "Samuel"],
+  "08-21": ["Pio X", "Joana"],
+  "08-22": ["Maria Rainha", "Timóteo"],
+  "08-23": ["Rosa de Lima", "Filipe"],
+  "08-24": ["Bartolomeu", "Olegário"],
+  "08-25": ["Luís", "José de Calasanz", "Patrícia"],
+  "08-26": ["Alexandre"],
+  "08-27": ["Mónica", "Cesareo"],
+  "08-28": ["Agostinho", "Moisés"],
+  "08-29": ["Martírio de João Batista", "Sabina"],
+  "08-30": ["Feliz"],
+  "08-31": ["Raimundo Nonato"],
+  "09-01": ["Gil", "Egídio"],
+  "09-02": ["Antolino"],
+  "09-03": ["Gregório Magno", "Aristeu"],
+  "09-04": ["Rosália", "Moisés"],
+  "09-05": ["Teresa de Calcutá", "Lourenço"],
+  "09-06": ["Zacarias"],
+  "09-07": ["Regina"],
+  "09-08": ["Natividade de Maria", "Adriano"],
+  "09-09": ["Pedro Claver", "Cipriano"],
+  "09-10": ["Nicolau"],
+  "09-11": ["Proto", "Jacinto"],
+  "09-12": ["Nome de Maria", "Leão"],
+  "09-13": ["João Crisóstomo", "Maurílio"],
+  "09-14": ["Exaltação da Cruz", "Cipriano"],
+  "09-15": ["Nossa Senhora das Dores"],
+  "09-16": ["Cornélio", "Cipriano", "Edite"],
+  "09-17": ["Roberto Belarmino", "Hildegarda", "Pedro"],
+  "09-18": ["José de Cupertino"],
+  "09-19": ["Januário", "Constantino"],
+  "09-20": ["André Kim", "Fausto"],
+  "09-21": ["Mateus", "Jonas"],
+  "09-22": ["Maurício"],
+  "09-23": ["Pio de Pietrelcina", "Lino"],
+  "09-24": ["Mercedes", "Geraldo"],
+  "09-25": ["Cleofe"],
+  "09-26": ["Cosme", "Damião", "Justina"],
+  "09-27": ["Vicente de Paulo", "Adolfo"],
+  "09-28": ["Lourenço Ruiz", "Venceslau"],
+  "09-29": ["Miguel", "Gabriel", "Rafael"],
+  "09-30": ["Jerónimo", "Sofia"],
+  "10-01": ["Teresa do Menino Jesus", "Remigio"],
+  "10-02": ["Anjos da Guarda", "Eleuterio"],
+  "10-03": ["Francisco de Borja"],
+  "10-04": ["Francisco de Assis", "Aurélio"],
+  "10-05": ["Faustina", "Flora"],
+  "10-06": ["Bruno", "Fé"],
+  "10-07": ["Nossa Senhora do Rosário", "Marcos"],
+  "10-08": ["Pelágia", "Sérgio"],
+  "10-09": ["Dinis", "João Leonardo"],
+  "10-10": ["Francisco de Borja", "Daniel"],
+  "10-11": ["João XXIII", "Firmino"],
+  "10-12": ["Nossa Senhora do Pilar", "Serafim"],
+  "10-13": ["Eduardo", "Teófilo"],
+  "10-14": ["Calisto"],
+  "10-15": ["Teresa de Jesus", "Aurélio"],
+  "10-16": ["Hedviges", "Margarida", "Galo"],
+  "10-17": ["Inácio de Antioquia", "Vítor"],
+  "10-18": ["Lucas", "Pedro"],
+  "10-19": ["João de Brébeuf", "Paulo da Cruz", "Pedro"],
+  "10-20": ["Adelina"],
+  "10-21": ["Celina", "Úrsula"],
+  "10-22": ["João Paulo II"],
+  "10-23": ["João de Capistrano", "Severino"],
+  "10-24": ["António Maria Claret", "Tiago"],
+  "10-25": ["Dário", "Crispim"],
+  "10-26": ["Alfredo", "Evaristo"],
+  "10-27": ["Gonçalo de Lagos"],
+  "10-28": ["Simão", "Judas"],
+  "10-29": ["Narciso"],
+  "10-30": ["Alonso"],
+  "10-31": ["Quintino"],
+  "11-01": ["Todos os Santos"],
+  "11-02": ["Fiéis Defuntos"],
+  "11-03": ["Martinho de Porres", "Humberto"],
+  "11-04": ["Carlos Borromeu", "Vital"],
+  "11-05": ["Zacarias", "Isabel"],
+  "11-06": ["Nuno de Santa Maria", "Leonardo"],
+  "11-07": ["Florêncio"],
+  "11-08": ["Severiano"],
+  "11-09": ["Dedicação de Latrão", "Teodoro"],
+  "11-10": ["Leão Magno", "Trifon"],
+  "11-11": ["Martinho de Tours", "Mena"],
+  "11-12": ["Josafat", "Martinho"],
+  "11-13": ["Diogo", "Estanislau"],
+  "11-14": ["Lourenço"],
+  "11-15": ["Alberto Magno", "Leopoldo"],
+  "11-16": ["Margarida", "Gertrudes", "Edmundo"],
+  "11-17": ["Isabel da Hungria", "Gregório"],
+  "11-18": ["Dedicação", "Otão"],
+  "11-19": ["Isabel", "Abdias"],
+  "11-20": ["Félix"],
+  "11-21": ["Apresentação de Maria"],
+  "11-22": ["Cecília"],
+  "11-23": ["Clemente", "Columbano", "Felicidade"],
+  "11-24": ["André Dung-Lac", "Flora"],
+  "11-25": ["Catarina de Alexandria", "Mercúrio"],
+  "11-26": ["Silvestre"],
+  "11-27": ["Virgílio"],
+  "11-28": ["Catarina Labouré", "Gregório"],
+  "11-29": ["Saturnino"],
+  "11-30": ["André", "Constança"],
+  "12-01": ["Elói", "Natália"],
+  "12-02": ["Bibiana", "Aurelia"],
+  "12-03": ["Francisco Xavier", "Cassiano"],
+  "12-04": ["João Damasceno", "Bárbara"],
+  "12-05": ["Martinho", "Frutuoso", "Geraldo", "Sabas"],
+  "12-06": ["Nicolau"],
+  "12-07": ["Ambrósio", "Fara"],
+  "12-08": ["Imaculada Conceição"],
+  "12-09": ["João Diego", "Leocádia"],
+  "12-10": ["Nossa Senhora de Loreto", "Eulália"],
+  "12-11": ["Dâmaso", "Daniel"],
+  "12-12": ["Nossa Senhora de Guadalupe", "Joana"],
+  "12-13": ["Luzia", "Otília"],
+  "12-14": ["João da Cruz", "Espiridião"],
+  "12-15": ["Celso"],
+  "12-16": ["Adelaida", "Albina"],
+  "12-17": ["Lázaro"],
+  "12-18": ["Graciano"],
+  "12-19": ["Urbano"],
+  "12-20": ["Domingo"],
+  "12-21": ["Pedro Canísio", "Tomé"],
+  "12-22": ["Zenão"],
+  "12-23": ["João de Kenty", "Victoria"],
+  "12-24": ["Adélia", "Delfina"],
+  "12-25": ["Natal", "Jesus"],
+  "12-26": ["Estêvão"],
+  "12-27": ["João", "Evangelista"],
+  "12-28": ["Santos Inocentes"],
+  "12-29": ["Tomás Becket", "David"],
+  "12-30": ["Sabino"],
+  "12-31": ["Silvestre", "Melânia"]
 }
