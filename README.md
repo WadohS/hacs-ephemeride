@@ -1,14 +1,39 @@
 # Éphéméride - Intégration Home Assistant
 
-![Version](https://img.shields.io/badge/version-1.1.0-blue.svg)
-![Home Assistant](https://img.shields.io/badge/Home%20Assistant-compatible-green.svg)
-![Languages](https://img.shields.io/badge/languages-6-orange.svg)
+[![GitHub Release][releases-shield]][releases]
+[![GitHub Activity][commits-shield]][commits]
+[![License][license-shield]](LICENSE)
 
-## Description
+[![hacs][hacsbadge]][hacs]
+![Project Maintenance][maintenance-shield]
 
-L'intégration **Éphéméride** permet d'afficher le saint du jour et les festivités dans Home Assistant, avec support multilingue pour 6 langues différentes.
+[![Community Forum][forum-shield]][forum]
+
+_Intégration pour afficher le saint du jour et les festivités dans Home Assistant avec support multilingue._
+
+![Icône Éphéméride](https://raw.githubusercontent.com/WadohS/hacs-ephemeride/master/custom_components/ephemeride/icons/icon.png)
+
+## 🌟 Fonctionnalités
+
+**Cette intégration créera les plateformes suivantes.**
+
+Plateforme | Description
+-- | --
+`sensor` | Capteur affichant le saint du jour avec multiples attributs
+
+### Capteur `sensor.saint_du_jour`
+
+- **État** : Nom du saint principal du jour
+- **Attributs** :
+  - `saint_demain` : Saint de demain
+  - `langue` : Langue configurée
+  - `date` : Date actuelle
+  - `tous_saints_aujourdhui` : Liste complète des saints du jour
+  - `tous_saints_demain` : Liste complète des saints de demain
 
 ## 🌍 Langues supportées
+
+L'intégration supporte **6 langues** avec données complètes (366 jours) :
 
 - 🇫🇷 **Français** (fr)
 - 🇬🇧 **English** (en)
@@ -17,33 +42,31 @@ L'intégration **Éphéméride** permet d'afficher le saint du jour et les festi
 - 🇮🇹 **Italiano** (it)
 - 🇵🇹 **Português** (pt)
 
-## ✨ Fonctionnalités
-
-- **Saint du jour** : Affiche le saint correspondant à la date actuelle
-- **Saint de demain** : Prévision pour le jour suivant
-- **Saints multiples** : Liste tous les saints et fêtes d'une journée
-- **Configuration simple** : Interface graphique pour choisir la langue
-- **Mise à jour automatique** : Rafraîchissement toutes les heures
-- **Changement de langue** : Modification possible sans réinstallation
-
 ## 📦 Installation
 
-### Via HACS (recommandé)
+### Via HACS (Recommandé)
 
-1. Ouvrez HACS dans Home Assistant
+1. Ouvrez HACS dans votre interface Home Assistant
 2. Allez dans "Intégrations"
-3. Cliquez sur les trois points en haut à droite
+3. Cliquez sur les 3 points en haut à droite ⋮
 4. Sélectionnez "Dépôts personnalisés"
 5. Ajoutez l'URL : `https://github.com/WadohS/hacs-ephemeride`
-6. Recherchez "Éphéméride" et installez-le
-7. Redémarrez Home Assistant
+6. Catégorie : "Integration"
+7. Recherchez "Éphéméride" et installez-le
+8. Redémarrez Home Assistant
 
 ### Installation manuelle
 
-1. Copiez le dossier `custom_components/ephemeride` dans votre dossier `config/custom_components/`
-2. Redémarrez Home Assistant
+1. Utilisez votre outil préféré pour ouvrir le répertoire de configuration de Home Assistant (où se trouve `configuration.yaml`)
+2. Si vous n'avez pas de répertoire `custom_components`, créez-le
+3. Dans le répertoire `custom_components`, créez un nouveau dossier appelé `ephemeride`
+4. Téléchargez **tous** les fichiers depuis le répertoire `custom_components/ephemeride/` de ce dépôt
+5. Placez-les dans le nouveau répertoire que vous venez de créer
+6. Redémarrez Home Assistant
 
 ## ⚙️ Configuration
+
+La configuration se fait entièrement via l'interface utilisateur :
 
 1. Allez dans **Configuration** → **Intégrations**
 2. Cliquez sur **+ Ajouter une intégration**
@@ -51,25 +74,19 @@ L'intégration **Éphéméride** permet d'afficher le saint du jour et les festi
 4. Sélectionnez votre langue préférée
 5. Cliquez sur **Soumettre**
 
-## 📊 Utilisation
+### Changer de langue
 
-### Entité capteur
+Pour modifier la langue après l'installation :
 
-Une fois configurée, l'intégration crée une entité capteur :
+1. Allez dans **Configuration** → **Intégrations**
+2. Trouvez **Éphéméride**
+3. Cliquez sur **Options**
+4. Sélectionnez la nouvelle langue
+5. L'intégration se recharge automatiquement
 
-**`sensor.saint_du_jour`**
+## 🎨 Exemples d'utilisation
 
-### État et attributs
-
-- **État** : Nom du saint principal du jour
-- **Attributs** :
-  - `saint_demain` : Saint de demain
-  - `langue` : Langue configurée
-  - `date` : Date actuelle
-  - `tous_saints_aujourdhui` : Liste de tous les saints du jour
-  - `tous_saints_demain` : Liste de tous les saints de demain
-
-### Exemple dans Lovelace
+### Carte Lovelace simple
 
 ```yaml
 type: entity
@@ -78,73 +95,57 @@ name: Saint du jour
 icon: mdi:calendar-star
 ```
 
-### Exemple d'automatisation
+### Carte avec saint de demain
+
+```yaml
+type: markdown
+content: |
+  **Saint du jour** : {{ states('sensor.saint_du_jour') }}
+  
+  **Saint de demain** : {{ state_attr('sensor.saint_du_jour', 'saint_demain') }}
+```
+
+### Carte avec tous les saints
+
+```yaml
+type: markdown
+content: |
+  ### 📅 Saints du {{ state_attr('sensor.saint_du_jour', 'date') }}
+  
+  {% for saint in state_attr('sensor.saint_du_jour', 'tous_saints_aujourdhui') %}
+  - {{ saint }}
+  {% endfor %}
+```
+
+### Automatisation - Notification matinale
 
 ```yaml
 automation:
-  - alias: "Notification saint du jour"
+  - alias: "Saint du jour - Notification"
     trigger:
       - platform: time
         at: "08:00:00"
     action:
       - service: notify.mobile_app
         data:
-          title: "Saint du jour"
-          message: "Nous fêtons {{ states('sensor.saint_du_jour') }} aujourd'hui !"
+          title: "☀️ Bonjour !"
+          message: "Nous fêtons {{ states('sensor.saint_du_jour') }} aujourd'hui"
 ```
 
-## 🔧 Modification de la langue
+### Automatisation - Annonce vocale
 
-Pour changer la langue après installation :
-
-1. Allez dans **Configuration** → **Intégrations**
-2. Trouvez **Éphéméride**
-3. Cliquez sur **Options**
-4. Sélectionnez la nouvelle langue
-5. Cliquez sur **Soumettre**
-
-L'intégration se rechargera automatiquement avec la nouvelle langue.
-
-## 📁 Structure des fichiers
-
+```yaml
+automation:
+  - alias: "Annonce saint du jour"
+    trigger:
+      - platform: time
+        at: "09:00:00"
+    action:
+      - service: tts.google_translate_say
+        data:
+          entity_id: media_player.salon
+          message: "Aujourd'hui nous fêtons {{ states('sensor.saint_du_jour') }}"
 ```
-custom_components/ephemeride/
-├── __init__.py          # Initialisation de l'intégration
-├── sensor.py            # Entité capteur
-├── config_flow.py       # Configuration UI
-├── const.py             # Constantes
-├── manifest.json        # Métadonnées
-├── languages/           # Données des saints par langue
-│   ├── fr.json
-│   ├── en.json
-│   ├── de.json
-│   ├── es.json
-│   ├── it.json
-│   └── pt.json
-└── translations/        # Traductions de l'interface
-    ├── fr.json
-    ├── en.json
-    ├── de.json
-    ├── es.json
-    ├── it.json
-    └── pt.json
-```
-
-## 📋 Format des données
-
-Les fichiers JSON dans `languages/` suivent ce format :
-
-```json
-{
-  "01-01": [["Marie", "Sainte"], ["Jour de l'an", "Fête"]],
-  "02-14": [["Valentin", "Saint"]],
-  ...
-}
-```
-
-Chaque date (format `MM-DD`) contient un tableau de paires `[nom, type]` où :
-- `nom` : Nom du saint ou de la fête
-- `type` : "Saint", "Sainte" ou "Fête" (adapté à chaque langue)
 
 ## 🐛 Signaler un problème
 
@@ -159,31 +160,60 @@ Si vous rencontrez un bug ou avez une suggestion :
    - Description détaillée du problème
    - Logs pertinents
 
+## 🤝 Contribuer
+
+Les contributions sont les bienvenues ! Veuillez consulter notre [Guide de contribution](CONTRIBUTING.md).
+
+### Ajouter une nouvelle langue
+
+Nous acceptons volontiers les traductions :
+
+1. Créez un fichier JSON dans `custom_components/ephemeride/languages/` (ex: `nl.json`)
+2. Suivez le format des fichiers existants (366 dates)
+3. Ajoutez le code langue dans `SUPPORTED_LANGUAGES` (`const.py`)
+4. Créez le fichier de traduction UI dans `translations/`
+5. Testez et soumettez une pull request !
+
 ## 📝 Changelog
+
+### Version 1.1.1
+- 🔧 Fix : Icône Material Design Icons pour compatibilité immédiate
+- ✅ Icône : `mdi:calendar-star`
 
 ### Version 1.1.0
 - ✨ Ajout de 5 nouvelles langues (en, de, es, it, pt)
-- 🌍 Support multilingue complet
-- 🔄 Possibilité de changer de langue sans réinstallation
+- 🌍 Support multilingue complet (6 langues)
+- 🔄 Changement de langue sans réinstallation
 - 📚 Interface utilisateur traduite dans toutes les langues
-- 🐛 Corrections mineures
+- 🎨 Icône personnalisée
 
 ### Version 1.0.0
 - 🎉 Version initiale
-- 🇫🇷 Support du français uniquement
-
-## 👨‍💻 Contributeurs
-
-- [@WadohS](https://github.com/WadohS) - Créateur et mainteneur
+- 🇫🇷 Support du français
 
 ## 📄 Licence
 
-Ce projet est sous licence MIT. Voir le fichier LICENSE pour plus de détails.
+Ce projet est sous licence MIT - voir le fichier [LICENSE](LICENSE) pour plus de détails.
 
 ## 🙏 Remerciements
 
-Merci à la communauté Home Assistant pour leur support et leurs contributions !
+- Communauté Home Assistant pour leur support
+- Tous les contributeurs qui ont ajouté des traductions
+- Les utilisateurs qui signalent des problèmes et suggèrent des améliorations
 
 ---
 
 **Note** : Cette intégration utilise des données de saints et fêtes adaptées aux traditions culturelles de chaque pays/langue. Les dates et noms peuvent varier selon les calendriers liturgiques locaux.
+
+***
+
+[releases-shield]: https://img.shields.io/github/release/WadohS/hacs-ephemeride.svg?style=for-the-badge
+[releases]: https://github.com/WadohS/hacs-ephemeride/releases
+[commits-shield]: https://img.shields.io/github/commit-activity/y/WadohS/hacs-ephemeride.svg?style=for-the-badge
+[commits]: https://github.com/WadohS/hacs-ephemeride/commits/master
+[license-shield]: https://img.shields.io/github/license/WadohS/hacs-ephemeride.svg?style=for-the-badge
+[hacsbadge]: https://img.shields.io/badge/HACS-Custom-orange.svg?style=for-the-badge
+[hacs]: https://github.com/hacs/integration
+[maintenance-shield]: https://img.shields.io/badge/maintainer-WadohS-blue.svg?style=for-the-badge
+[forum-shield]: https://img.shields.io/badge/community-forum-brightgreen.svg?style=for-the-badge
+[forum]: https://community.home-assistant.io/

@@ -1,0 +1,2530 @@
+{
+  "01-01": [
+    [
+      "Maria",
+      "Santa"
+    ],
+    [
+      "Capodanno",
+      "Festa"
+    ]
+  ],
+  "01-02": [
+    [
+      "Basilio",
+      "Santo"
+    ],
+    [
+      "Gregorio",
+      "Santo"
+    ],
+    [
+      "Serafino",
+      "Santo"
+    ],
+    [
+      "Stefania",
+      "Santa"
+    ]
+  ],
+  "01-03": [
+    [
+      "Genoveffa",
+      "Santa"
+    ]
+  ],
+  "01-04": [
+    [
+      "Odilone",
+      "Santo"
+    ]
+  ],
+  "01-05": [
+    [
+      "Edoardo",
+      "Santo"
+    ]
+  ],
+  "01-06": [
+    [
+      "Epifania",
+      "Festa"
+    ],
+    [
+      "Baldassarre",
+      "Santo"
+    ],
+    [
+      "Gaspare",
+      "Santo"
+    ],
+    [
+      "Melchiorre",
+      "Santo"
+    ],
+    [
+      "Teofane",
+      "Santo"
+    ],
+    [
+      "Melaine",
+      "Santo"
+    ]
+  ],
+  "01-07": [
+    [
+      "Raimondo",
+      "Santo"
+    ]
+  ],
+  "01-08": [
+    [
+      "Luciano",
+      "Santo"
+    ]
+  ],
+  "01-09": [
+    [
+      "Alice",
+      "Santa"
+    ]
+  ],
+  "01-10": [
+    [
+      "Guglielmo",
+      "Santo"
+    ]
+  ],
+  "01-11": [
+    [
+      "Paolina",
+      "Santa"
+    ]
+  ],
+  "01-12": [
+    [
+      "Tatiana",
+      "Santa"
+    ]
+  ],
+  "01-13": [
+    [
+      "Ivetta",
+      "Santa"
+    ]
+  ],
+  "01-14": [
+    [
+      "Nina",
+      "Santa"
+    ]
+  ],
+  "01-15": [
+    [
+      "Remigio",
+      "Santo"
+    ],
+    [
+      "Ita",
+      "Santa"
+    ],
+    [
+      "Mauro",
+      "Santo"
+    ],
+    [
+      "Rachele",
+      "Santa"
+    ]
+  ],
+  "01-16": [
+    [
+      "Marcello",
+      "Santo"
+    ]
+  ],
+  "01-17": [
+    [
+      "Rosalina",
+      "Santa"
+    ]
+  ],
+  "01-18": [
+    [
+      "Prisca",
+      "Santa"
+    ]
+  ],
+  "01-19": [
+    [
+      "Enrico",
+      "Santo"
+    ],
+    [
+      "Mario",
+      "Santo"
+    ],
+    [
+      "Marta",
+      "Santa"
+    ],
+    [
+      "Pia",
+      "Santa"
+    ]
+  ],
+  "01-20": [
+    [
+      "Sebastiano",
+      "Santo"
+    ]
+  ],
+  "01-21": [
+    [
+      "Agnese",
+      "Santa"
+    ]
+  ],
+  "01-22": [
+    [
+      "Vincenzo",
+      "Santo"
+    ],
+    [
+      "Laura",
+      "Santa"
+    ],
+    [
+      "Timoteo",
+      "Santo"
+    ],
+    [
+      "Valerio",
+      "Santo"
+    ]
+  ],
+  "01-23": [
+    [
+      "Bernardo",
+      "Santo"
+    ]
+  ],
+  "01-24": [
+    [
+      "Francesco di Sales",
+      "Santo"
+    ]
+  ],
+  "01-25": [
+    [
+      "Conversione di Paolo",
+      "Festa"
+    ]
+  ],
+  "01-26": [
+    [
+      "Paola",
+      "Santa"
+    ]
+  ],
+  "01-27": [
+    [
+      "Angela",
+      "Santa"
+    ]
+  ],
+  "01-28": [
+    [
+      "Tommaso d'Aquino",
+      "Santo"
+    ]
+  ],
+  "01-29": [
+    [
+      "Gildas",
+      "Santo"
+    ]
+  ],
+  "01-30": [
+    [
+      "Martina",
+      "Santa"
+    ]
+  ],
+  "01-31": [
+    [
+      "Marcella",
+      "Santa"
+    ]
+  ],
+  "02-01": [
+    [
+      "Ella",
+      "Santa"
+    ]
+  ],
+  "02-02": [
+    [
+      "Festa della Presentazione",
+      "Festa"
+    ]
+  ],
+  "02-03": [
+    [
+      "Anscario",
+      "Santo"
+    ],
+    [
+      "Biagio",
+      "Santo"
+    ],
+    [
+      "Claudina",
+      "Santa"
+    ],
+    [
+      "Adeline",
+      "Santo"
+    ],
+    [
+      "Margherita",
+      "Santa"
+    ]
+  ],
+  "02-04": [
+    [
+      "Veronica",
+      "Santa"
+    ],
+    [
+      "Berenice",
+      "Santa"
+    ],
+    [
+      "Vanessa",
+      "Santa"
+    ]
+  ],
+  "02-05": [
+    [
+      "Agata",
+      "Santa"
+    ]
+  ],
+  "02-06": [
+    [
+      "Gastone",
+      "Santo"
+    ]
+  ],
+  "02-07": [
+    [
+      "Eugenia",
+      "Santa"
+    ]
+  ],
+  "02-08": [
+    [
+      "Giacomina",
+      "Santa"
+    ]
+  ],
+  "02-09": [
+    [
+      "Apollonia",
+      "Santa"
+    ]
+  ],
+  "02-10": [
+    [
+      "Arnaldo",
+      "Santo"
+    ]
+  ],
+  "02-11": [
+    [
+      "Nostra Signora di Lourdes",
+      "Santa"
+    ]
+  ],
+  "02-12": [
+    [
+      "Felice",
+      "Santo"
+    ]
+  ],
+  "02-13": [
+    [
+      "Beatrice",
+      "Santa"
+    ]
+  ],
+  "02-14": [
+    [
+      "Valentino",
+      "Santo"
+    ],
+    [
+      "Cirillo",
+      "Santo"
+    ],
+    [
+      "Metodio",
+      "Santo"
+    ]
+  ],
+  "02-15": [
+    [
+      "Claudio",
+      "Santo"
+    ]
+  ],
+  "02-16": [
+    [
+      "Giuliana",
+      "Santa"
+    ]
+  ],
+  "02-17": [
+    [
+      "Alessio",
+      "Santo"
+    ]
+  ],
+  "02-18": [
+    [
+      "Bernadette",
+      "Santa"
+    ]
+  ],
+  "02-19": [
+    [
+      "Gabino",
+      "Santo"
+    ]
+  ],
+  "02-20": [
+    [
+      "Amata",
+      "Santa"
+    ]
+  ],
+  "02-21": [
+    [
+      "Mercoledì delle Ceneri",
+      "Festa"
+    ]
+  ],
+  "02-22": [
+    [
+      "Isabella",
+      "Santa"
+    ]
+  ],
+  "02-23": [
+    [
+      "Lazzaro",
+      "Santo"
+    ]
+  ],
+  "02-24": [
+    [
+      "Modesta",
+      "Santa"
+    ]
+  ],
+  "02-25": [
+    [
+      "Romeo",
+      "Santo"
+    ]
+  ],
+  "02-26": [
+    [
+      "Nestore",
+      "Santo"
+    ]
+  ],
+  "02-27": [
+    [
+      "Onorina",
+      "Santa"
+    ]
+  ],
+  "02-28": [
+    [
+      "Romano",
+      "Santo"
+    ]
+  ],
+  "02-29": [
+    [
+      "Augusto",
+      "Santo"
+    ]
+  ],
+  "03-01": [
+    [
+      "Albino",
+      "Santo"
+    ]
+  ],
+  "03-02": [
+    [
+      "Carlo il Buono",
+      "Santo"
+    ]
+  ],
+  "03-03": [
+    [
+      "Guénolé",
+      "Santo"
+    ]
+  ],
+  "03-04": [
+    [
+      "Casimiro",
+      "Santo"
+    ]
+  ],
+  "03-05": [
+    [
+      "Oliva",
+      "Santo"
+    ]
+  ],
+  "03-06": [
+    [
+      "Coletta",
+      "Santa"
+    ]
+  ],
+  "03-07": [
+    [
+      "Felicita",
+      "Santa"
+    ],
+    [
+      "Perpetua",
+      "Santa"
+    ],
+    [
+      "Ethan",
+      "Santo"
+    ],
+    [
+      "Nathan",
+      "Santo"
+    ]
+  ],
+  "03-08": [
+    [
+      "Giovanni di Dio",
+      "Santo"
+    ]
+  ],
+  "03-09": [
+    [
+      "Francesca",
+      "Santa"
+    ]
+  ],
+  "03-10": [
+    [
+      "Viviano",
+      "Santo"
+    ]
+  ],
+  "03-11": [
+    [
+      "Rosina",
+      "Santa"
+    ]
+  ],
+  "03-12": [
+    [
+      "Giustina",
+      "Santa"
+    ]
+  ],
+  "03-13": [
+    [
+      "Rodrigo",
+      "Santo"
+    ]
+  ],
+  "03-14": [
+    [
+      "Matilde",
+      "Santa"
+    ]
+  ],
+  "03-15": [
+    [
+      "Luisa",
+      "Santa"
+    ]
+  ],
+  "03-16": [
+    [
+      "Benedetta",
+      "Santa"
+    ]
+  ],
+  "03-17": [
+    [
+      "Patrizio",
+      "Santo"
+    ],
+    [
+      "Patrizio",
+      "Santo"
+    ],
+    [
+      "Gertrude",
+      "Santa"
+    ],
+    [
+      "Giovanni",
+      "Santo"
+    ]
+  ],
+  "03-18": [
+    [
+      "Cirillo",
+      "Santo"
+    ]
+  ],
+  "03-19": [
+    [
+      "Giuseppe",
+      "Santo"
+    ]
+  ],
+  "03-20": [
+    [
+      "Erberto",
+      "Santo"
+    ]
+  ],
+  "03-21": [
+    [
+      "Clemenza",
+      "Santa"
+    ]
+  ],
+  "03-22": [
+    [
+      "Lea",
+      "Santa"
+    ]
+  ],
+  "03-23": [
+    [
+      "Vittoriano",
+      "Santo"
+    ]
+  ],
+  "03-24": [
+    [
+      "Caterina",
+      "Santa"
+    ]
+  ],
+  "03-25": [
+    [
+      "Anna",
+      "Santa"
+    ]
+  ],
+  "03-26": [
+    [
+      "Larissa",
+      "Santa"
+    ]
+  ],
+  "03-27": [
+    [
+      "Habib",
+      "Santo"
+    ]
+  ],
+  "03-28": [
+    [
+      "Gontrano",
+      "Santo"
+    ]
+  ],
+  "03-29": [
+    [
+      "Gwladys",
+      "Santa"
+    ]
+  ],
+  "03-30": [
+    [
+      "Amedeo",
+      "Santo"
+    ]
+  ],
+  "03-31": [
+    [
+      "Beniamino",
+      "Santo"
+    ]
+  ],
+  "04-01": [
+    [
+      "Ugo",
+      "Santo"
+    ]
+  ],
+  "04-02": [
+    [
+      "Sandra",
+      "Santa"
+    ]
+  ],
+  "04-03": [
+    [
+      "Riccardo",
+      "Santo"
+    ]
+  ],
+  "04-04": [
+    [
+      "Isidoro",
+      "Santo"
+    ]
+  ],
+  "04-05": [
+    [
+      "Irene",
+      "Santa"
+    ]
+  ],
+  "04-06": [
+    [
+      "Marcellino",
+      "Santo"
+    ]
+  ],
+  "04-07": [
+    [
+      "Giovanni Battista de la Salle",
+      "Santo"
+    ]
+  ],
+  "04-08": [
+    [
+      "Giulia",
+      "Santa"
+    ]
+  ],
+  "04-09": [
+    [
+      "Gualtiero",
+      "Santo"
+    ]
+  ],
+  "04-10": [
+    [
+      "Fulberto",
+      "Santo"
+    ]
+  ],
+  "04-11": [
+    [
+      "Stanislao",
+      "Santo"
+    ]
+  ],
+  "04-12": [
+    [
+      "Giulio",
+      "Santo"
+    ]
+  ],
+  "04-13": [
+    [
+      "Ida",
+      "Santa"
+    ]
+  ],
+  "04-14": [
+    [
+      "Massimo",
+      "Santo"
+    ]
+  ],
+  "04-15": [
+    [
+      "Paterno",
+      "Santo"
+    ]
+  ],
+  "04-16": [
+    [
+      "Benedetto Giuseppe",
+      "Santo"
+    ]
+  ],
+  "04-17": [
+    [
+      "Aniceto",
+      "Santo"
+    ]
+  ],
+  "04-18": [
+    [
+      "Perfetto",
+      "Santo"
+    ]
+  ],
+  "04-19": [
+    [
+      "Emma",
+      "Santa"
+    ]
+  ],
+  "04-20": [
+    [
+      "Odette",
+      "Santa"
+    ]
+  ],
+  "04-21": [
+    [
+      "Anselmo",
+      "Santo"
+    ]
+  ],
+  "04-22": [
+    [
+      "Alessandro",
+      "Santo"
+    ]
+  ],
+  "04-23": [
+    [
+      "Giorgio",
+      "Santo"
+    ]
+  ],
+  "04-24": [
+    [
+      "Fedele",
+      "Santo"
+    ]
+  ],
+  "04-25": [
+    [
+      "Marco",
+      "Santo"
+    ]
+  ],
+  "04-26": [
+    [
+      "Alida",
+      "Santa"
+    ]
+  ],
+  "04-27": [
+    [
+      "Zita",
+      "Santa"
+    ]
+  ],
+  "04-28": [
+    [
+      "Valeria",
+      "Santa"
+    ]
+  ],
+  "04-29": [
+    [
+      "Caterina da Siena",
+      "Santa"
+    ]
+  ],
+  "04-30": [
+    [
+      "Roberto",
+      "Santo"
+    ]
+  ],
+  "05-01": [
+    [
+      "Festa dei Lavoratori",
+      "Festa"
+    ]
+  ],
+  "05-02": [
+    [
+      "Boris",
+      "Santo"
+    ]
+  ],
+  "05-03": [
+    [
+      "Filippo",
+      "Santo"
+    ],
+    [
+      "Giacomo",
+      "Santo"
+    ]
+  ],
+  "05-04": [
+    [
+      "Silvano",
+      "Santo"
+    ]
+  ],
+  "05-05": [
+    [
+      "Giuditta",
+      "Santa"
+    ]
+  ],
+  "05-06": [
+    [
+      "Prudenzio",
+      "Santo"
+    ]
+  ],
+  "05-07": [
+    [
+      "Gisella",
+      "Santa"
+    ]
+  ],
+  "05-08": [
+    [
+      "Armistizio del 1945",
+      "Festa"
+    ]
+  ],
+  "05-09": [
+    [
+      "Pacomio",
+      "Santo"
+    ]
+  ],
+  "05-10": [
+    [
+      "Solange",
+      "Santa"
+    ]
+  ],
+  "05-11": [
+    [
+      "Estella",
+      "Santa"
+    ]
+  ],
+  "05-12": [
+    [
+      "Achille",
+      "Santo"
+    ]
+  ],
+  "05-13": [
+    [
+      "Rolando",
+      "Santa"
+    ]
+  ],
+  "05-14": [
+    [
+      "Mattia",
+      "Santo"
+    ]
+  ],
+  "05-15": [
+    [
+      "Denise",
+      "Santa"
+    ]
+  ],
+  "05-16": [
+    [
+      "Onorato",
+      "Santo"
+    ]
+  ],
+  "05-17": [
+    [
+      "Pasquale",
+      "Santo"
+    ]
+  ],
+  "05-18": [
+    [
+      "Eric",
+      "Santo"
+    ]
+  ],
+  "05-19": [
+    [
+      "Ivo",
+      "Santo"
+    ]
+  ],
+  "05-20": [
+    [
+      "Bernardino",
+      "Santo"
+    ]
+  ],
+  "05-21": [
+    [
+      "Costantino",
+      "Santo"
+    ]
+  ],
+  "05-22": [
+    [
+      "Emilio",
+      "Santo"
+    ]
+  ],
+  "05-23": [
+    [
+      "Desiderio",
+      "Santo"
+    ]
+  ],
+  "05-24": [
+    [
+      "Donaziano",
+      "Santo"
+    ]
+  ],
+  "05-25": [
+    [
+      "Sofia",
+      "Santa"
+    ]
+  ],
+  "05-26": [
+    [
+      "Berengario",
+      "Santo"
+    ]
+  ],
+  "05-27": [
+    [
+      "Agostino",
+      "Santo"
+    ]
+  ],
+  "05-28": [
+    [
+      "Germano",
+      "Santo"
+    ]
+  ],
+  "05-29": [
+    [
+      "Aymar",
+      "Santo"
+    ]
+  ],
+  "05-30": [
+    [
+      "Ferdinando",
+      "Santo"
+    ]
+  ],
+  "05-31": [
+    [
+      "Ferdinando",
+      "Santo"
+    ]
+  ],
+  "06-01": [
+    [
+      "Giustino",
+      "Santo"
+    ]
+  ],
+  "06-02": [
+    [
+      "Blandina",
+      "Santa"
+    ],
+    [
+      "Potino",
+      "Santo"
+    ],
+    [
+      "Alcide",
+      "Santo"
+    ],
+    [
+      "Emilia",
+      "Santa"
+    ],
+    [
+      "Erasmo",
+      "Santo"
+    ]
+  ],
+  "06-03": [
+    [
+      "Kevin",
+      "Santo"
+    ]
+  ],
+  "06-04": [
+    [
+      "Clotilde",
+      "Santa"
+    ]
+  ],
+  "06-05": [
+    [
+      "Igor",
+      "Santo"
+    ]
+  ],
+  "06-06": [
+    [
+      "Norberto",
+      "Santo"
+    ]
+  ],
+  "06-07": [
+    [
+      "Gilberto",
+      "Santo"
+    ]
+  ],
+  "06-08": [
+    [
+      "Medardo",
+      "Santo"
+    ]
+  ],
+  "06-09": [
+    [
+      "Diana",
+      "Santa"
+    ],
+    [
+      "Efrem",
+      "Santo"
+    ],
+    [
+      "Feliciano",
+      "Santo"
+    ],
+    [
+      "Primo",
+      "Santo"
+    ]
+  ],
+  "06-10": [
+    [
+      "Landelino",
+      "Santo"
+    ]
+  ],
+  "06-11": [
+    [
+      "Barnaba",
+      "Santo"
+    ]
+  ],
+  "06-12": [
+    [
+      "Guido",
+      "Santo"
+    ]
+  ],
+  "06-13": [
+    [
+      "Antonio di Padova",
+      "Santo"
+    ]
+  ],
+  "06-14": [
+    [
+      "Eliseo",
+      "Santa"
+    ]
+  ],
+  "06-15": [
+    [
+      "Germana",
+      "Santa"
+    ]
+  ],
+  "06-16": [
+    [
+      "Giovanni Francesco Regis",
+      "Santo"
+    ]
+  ],
+  "06-17": [
+    [
+      "Hervé",
+      "Santo"
+    ]
+  ],
+  "06-18": [
+    [
+      "Leoncio",
+      "Santo"
+    ]
+  ],
+  "06-19": [
+    [
+      "Romualdo",
+      "Santo"
+    ]
+  ],
+  "06-20": [
+    [
+      "Silverio",
+      "Santo"
+    ]
+  ],
+  "06-21": [
+    [
+      "Solstizio d'Estate",
+      "Festa"
+    ]
+  ],
+  "06-22": [
+    [
+      "Albano",
+      "Santo"
+    ]
+  ],
+  "06-23": [
+    [
+      "Audrey",
+      "Santa"
+    ]
+  ],
+  "06-24": [
+    [
+      "Giovanni Battista",
+      "Santo"
+    ]
+  ],
+  "06-25": [
+    [
+      "Prospero",
+      "Santo"
+    ]
+  ],
+  "06-26": [
+    [
+      "Antelmo",
+      "Santo"
+    ]
+  ],
+  "06-27": [
+    [
+      "Ferdinando",
+      "Santo"
+    ]
+  ],
+  "06-28": [
+    [
+      "Ireneo",
+      "Santo"
+    ]
+  ],
+  "06-29": [
+    [
+      "Pietro",
+      "Santo"
+    ]
+  ],
+  "06-30": [
+    [
+      "Marziale",
+      "Santo"
+    ]
+  ],
+  "07-01": [
+    [
+      "Thierry",
+      "Santo"
+    ]
+  ],
+  "07-02": [
+    [
+      "Martiniano",
+      "Santo"
+    ]
+  ],
+  "07-03": [
+    [
+      "Tommaso",
+      "Santo"
+    ]
+  ],
+  "07-04": [
+    [
+      "Florenzo",
+      "Santo"
+    ]
+  ],
+  "07-05": [
+    [
+      "Antonio",
+      "Santo"
+    ]
+  ],
+  "07-06": [
+    [
+      "Maria",
+      "Santa"
+    ]
+  ],
+  "07-07": [
+    [
+      "Raul",
+      "Santo"
+    ]
+  ],
+  "07-08": [
+    [
+      "Teobaldo",
+      "Santo"
+    ]
+  ],
+  "07-09": [
+    [
+      "Amandina",
+      "Santa"
+    ]
+  ],
+  "07-10": [
+    [
+      "Ulrico",
+      "Santo"
+    ]
+  ],
+  "07-11": [
+    [
+      "Benedetto",
+      "Santo"
+    ]
+  ],
+  "07-12": [
+    [
+      "Oliviero",
+      "Santo"
+    ]
+  ],
+  "07-13": [
+    [
+      "Enrico",
+      "Santo"
+    ],
+    [
+      "Gioele",
+      "Santo"
+    ]
+  ],
+  "07-14": [
+    [
+      "Festa Nazionale",
+      "Festa"
+    ]
+  ],
+  "07-15": [
+    [
+      "Donald",
+      "Santo"
+    ]
+  ],
+  "07-16": [
+    [
+      "Festa della Madonna del Carmelo",
+      "Festa"
+    ]
+  ],
+  "07-17": [
+    [
+      "Carlotta",
+      "Santa"
+    ]
+  ],
+  "07-18": [
+    [
+      "Federico",
+      "Santo"
+    ]
+  ],
+  "07-19": [
+    [
+      "Arsenio",
+      "Santo"
+    ]
+  ],
+  "07-20": [
+    [
+      "Marina",
+      "Santa"
+    ]
+  ],
+  "07-21": [
+    [
+      "Vittore",
+      "Santo"
+    ]
+  ],
+  "07-22": [
+    [
+      "Maria Maddalena",
+      "Santa"
+    ]
+  ],
+  "07-23": [
+    [
+      "Brigida",
+      "Santa"
+    ]
+  ],
+  "07-24": [
+    [
+      "Cristina",
+      "Santa"
+    ]
+  ],
+  "07-25": [
+    [
+      "Giacomo",
+      "Santo"
+    ]
+  ],
+  "07-26": [
+    [
+      "Anna",
+      "Santa"
+    ],
+    [
+      "Gioacchino",
+      "Santo"
+    ]
+  ],
+  "07-27": [
+    [
+      "Natalia",
+      "Santa"
+    ]
+  ],
+  "07-28": [
+    [
+      "Sansone",
+      "Santo"
+    ]
+  ],
+  "07-29": [
+    [
+      "Marta",
+      "Santa"
+    ]
+  ],
+  "07-30": [
+    [
+      "Giulietta",
+      "Santa"
+    ]
+  ],
+  "07-31": [
+    [
+      "Ignazio di Loyola",
+      "Santo"
+    ]
+  ],
+  "08-01": [
+    [
+      "Alfonso",
+      "Santo"
+    ]
+  ],
+  "08-02": [
+    [
+      "Giuliano Eymard",
+      "Santo"
+    ]
+  ],
+  "08-03": [
+    [
+      "Lidia",
+      "Santa"
+    ]
+  ],
+  "08-04": [
+    [
+      "Giovanni Maria Vianney",
+      "Santo"
+    ]
+  ],
+  "08-05": [
+    [
+      "Abele",
+      "Santo"
+    ]
+  ],
+  "08-06": [
+    [
+      "Festa della Trasfigurazione",
+      "Festa"
+    ]
+  ],
+  "08-07": [
+    [
+      "Gaetano",
+      "Santo"
+    ]
+  ],
+  "08-08": [
+    [
+      "Domenico",
+      "Santo"
+    ]
+  ],
+  "08-09": [
+    [
+      "Amore",
+      "Santo"
+    ]
+  ],
+  "08-10": [
+    [
+      "Lorenzo",
+      "Santo"
+    ]
+  ],
+  "08-11": [
+    [
+      "Chiara",
+      "Santa"
+    ]
+  ],
+  "08-12": [
+    [
+      "Clarissa",
+      "Santa"
+    ]
+  ],
+  "08-13": [
+    [
+      "Ippolito",
+      "Santo"
+    ]
+  ],
+  "08-14": [
+    [
+      "Evrardo",
+      "Santo"
+    ]
+  ],
+  "08-15": [
+    [
+      "Festa dell'Assunzione",
+      "Festa"
+    ]
+  ],
+  "08-16": [
+    [
+      "Armel",
+      "Santo"
+    ]
+  ],
+  "08-17": [
+    [
+      "Giacinto",
+      "Santo"
+    ]
+  ],
+  "08-18": [
+    [
+      "Elena",
+      "Santa"
+    ]
+  ],
+  "08-19": [
+    [
+      "Giovanni Eudes",
+      "Santo"
+    ]
+  ],
+  "08-20": [
+    [
+      "Bernardo",
+      "Santo"
+    ]
+  ],
+  "08-21": [
+    [
+      "Cristoforo",
+      "Santo"
+    ]
+  ],
+  "08-22": [
+    [
+      "Fabrizio",
+      "Santo"
+    ]
+  ],
+  "08-23": [
+    [
+      "Rosa di Lima",
+      "Santa"
+    ]
+  ],
+  "08-24": [
+    [
+      "Bartolomeo",
+      "Santo"
+    ]
+  ],
+  "08-25": [
+    [
+      "Luigi",
+      "Santo"
+    ]
+  ],
+  "08-26": [
+    [
+      "Natascia",
+      "Santa"
+    ]
+  ],
+  "08-27": [
+    [
+      "Monica",
+      "Santa"
+    ]
+  ],
+  "08-28": [
+    [
+      "Agostino",
+      "Santo"
+    ]
+  ],
+  "08-29": [
+    [
+      "Sabina",
+      "Santa"
+    ]
+  ],
+  "08-30": [
+    [
+      "Fiacrio",
+      "Santo"
+    ]
+  ],
+  "08-31": [
+    [
+      "Aristide",
+      "Santo"
+    ]
+  ],
+  "09-01": [
+    [
+      "Egidio",
+      "Santo"
+    ]
+  ],
+  "09-02": [
+    [
+      "Ingrid",
+      "Santa"
+    ]
+  ],
+  "09-03": [
+    [
+      "Gregorio",
+      "Santo"
+    ]
+  ],
+  "09-04": [
+    [
+      "Rosalia",
+      "Santa"
+    ]
+  ],
+  "09-05": [
+    [
+      "Raissa",
+      "Santa"
+    ]
+  ],
+  "09-06": [
+    [
+      "Bertrando",
+      "Santo"
+    ]
+  ],
+  "09-07": [
+    [
+      "Regina",
+      "Santa"
+    ]
+  ],
+  "09-08": [
+    [
+      "Festa della Natività",
+      "Festa"
+    ]
+  ],
+  "09-09": [
+    [
+      "Alain",
+      "Santo"
+    ]
+  ],
+  "09-10": [
+    [
+      "Ines",
+      "Santa"
+    ]
+  ],
+  "09-11": [
+    [
+      "Adelfo",
+      "Santo"
+    ]
+  ],
+  "09-12": [
+    [
+      "Apollinare",
+      "Santo"
+    ]
+  ],
+  "09-13": [
+    [
+      "Amata",
+      "Santa"
+    ]
+  ],
+  "09-14": [
+    [
+      "Festa della Santa Croce",
+      "Festa"
+    ]
+  ],
+  "09-15": [
+    [
+      "Rolando",
+      "Santo"
+    ]
+  ],
+  "09-16": [
+    [
+      "Edith",
+      "Santa"
+    ]
+  ],
+  "09-17": [
+    [
+      "Renato",
+      "Santo"
+    ]
+  ],
+  "09-18": [
+    [
+      "Nadia",
+      "Santa"
+    ]
+  ],
+  "09-19": [
+    [
+      "Emilia",
+      "Santa"
+    ]
+  ],
+  "09-20": [
+    [
+      "Davide",
+      "Santo"
+    ]
+  ],
+  "09-21": [
+    [
+      "Matteo",
+      "Santo"
+    ]
+  ],
+  "09-22": [
+    [
+      "Maurizio",
+      "Santo"
+    ]
+  ],
+  "09-23": [
+    [
+      "Equinozio d'Autunno",
+      "Festa"
+    ]
+  ],
+  "09-24": [
+    [
+      "Tecla",
+      "Santa"
+    ]
+  ],
+  "09-25": [
+    [
+      "Hermann",
+      "Santo"
+    ]
+  ],
+  "09-26": [
+    [
+      "Cosma",
+      "Santo"
+    ]
+  ],
+  "09-27": [
+    [
+      "Vincenzo de' Paoli",
+      "Santo"
+    ]
+  ],
+  "09-28": [
+    [
+      "Venceslao",
+      "Santo"
+    ]
+  ],
+  "09-29": [
+    [
+      "Michele",
+      "Santo"
+    ],
+    [
+      "Gabriele",
+      "Santo"
+    ],
+    [
+      "Raffaele",
+      "Santo"
+    ]
+  ],
+  "09-30": [
+    [
+      "Girolamo",
+      "Santo"
+    ]
+  ],
+  "10-01": [
+    [
+      "Teresa di Gesù Bambino",
+      "Santa"
+    ]
+  ],
+  "10-02": [
+    [
+      "Leger",
+      "Santo"
+    ]
+  ],
+  "10-03": [
+    [
+      "Gerardo",
+      "Santo"
+    ]
+  ],
+  "10-04": [
+    [
+      "Francesco d'Assisi",
+      "Santo"
+    ]
+  ],
+  "10-05": [
+    [
+      "Flora",
+      "Santa"
+    ]
+  ],
+  "10-06": [
+    [
+      "Bruno",
+      "Santo"
+    ]
+  ],
+  "10-07": [
+    [
+      "Sergio",
+      "Santo"
+    ]
+  ],
+  "10-08": [
+    [
+      "Pelagia",
+      "Santa"
+    ]
+  ],
+  "10-09": [
+    [
+      "Dionigi",
+      "Santo"
+    ]
+  ],
+  "10-10": [
+    [
+      "Ghislain",
+      "Santo"
+    ]
+  ],
+  "10-11": [
+    [
+      "Firmino",
+      "Santo"
+    ]
+  ],
+  "10-12": [
+    [
+      "Wilfredo",
+      "Santo"
+    ]
+  ],
+  "10-13": [
+    [
+      "Geraldo",
+      "Santo"
+    ]
+  ],
+  "10-14": [
+    [
+      "Giusto",
+      "Santo"
+    ]
+  ],
+  "10-15": [
+    [
+      "Teresa d'Avila",
+      "Santa"
+    ]
+  ],
+  "10-16": [
+    [
+      "Edvige",
+      "Santa"
+    ]
+  ],
+  "10-17": [
+    [
+      "Baldovino",
+      "Santo"
+    ]
+  ],
+  "10-18": [
+    [
+      "Luca",
+      "Santo"
+    ]
+  ],
+  "10-19": [
+    [
+      "René",
+      "Santo"
+    ]
+  ],
+  "10-20": [
+    [
+      "Adelina",
+      "Santa"
+    ]
+  ],
+  "10-21": [
+    [
+      "Celina",
+      "Santa"
+    ]
+  ],
+  "10-22": [
+    [
+      "Elodia",
+      "Santa"
+    ]
+  ],
+  "10-23": [
+    [
+      "Giovanni da Capestrano",
+      "Santo"
+    ]
+  ],
+  "10-24": [
+    [
+      "Fiorentina",
+      "Santa"
+    ]
+  ],
+  "10-25": [
+    [
+      "Crispino",
+      "Santo"
+    ]
+  ],
+  "10-26": [
+    [
+      "Dimitri",
+      "Santo"
+    ]
+  ],
+  "10-27": [
+    [
+      "Emelina",
+      "Santa"
+    ]
+  ],
+  "10-28": [
+    [
+      "Giuda",
+      "Santo"
+    ]
+  ],
+  "10-29": [
+    [
+      "Narciso",
+      "Santo"
+    ]
+  ],
+  "10-30": [
+    [
+      "Benvenuta",
+      "Santa"
+    ]
+  ],
+  "10-31": [
+    [
+      "Quintino",
+      "Santo"
+    ]
+  ],
+  "11-01": [
+    [
+      "Ognissanti",
+      "Festa"
+    ]
+  ],
+  "11-02": [
+    [
+      "Festa dei Defunti",
+      "Festa"
+    ]
+  ],
+  "11-03": [
+    [
+      "Uberto",
+      "Santo"
+    ]
+  ],
+  "11-04": [
+    [
+      "Carlo",
+      "Santo"
+    ]
+  ],
+  "11-05": [
+    [
+      "Silvia",
+      "Santa"
+    ]
+  ],
+  "11-06": [
+    [
+      "Bertilla",
+      "Santa"
+    ]
+  ],
+  "11-07": [
+    [
+      "Carina",
+      "Santa"
+    ]
+  ],
+  "11-08": [
+    [
+      "Goffredo",
+      "Santo"
+    ]
+  ],
+  "11-09": [
+    [
+      "Teodoro",
+      "Santo"
+    ]
+  ],
+  "11-10": [
+    [
+      "Leone",
+      "Santo"
+    ]
+  ],
+  "11-11": [
+    [
+      "Armistizio del 1918",
+      "Festa"
+    ]
+  ],
+  "11-12": [
+    [
+      "Cristiano",
+      "Santo"
+    ]
+  ],
+  "11-13": [
+    [
+      "Brice",
+      "Santo"
+    ]
+  ],
+  "11-14": [
+    [
+      "Sidonio",
+      "Santo"
+    ]
+  ],
+  "11-15": [
+    [
+      "Alberto",
+      "Santo"
+    ]
+  ],
+  "11-16": [
+    [
+      "Margherita",
+      "Santa"
+    ]
+  ],
+  "11-17": [
+    [
+      "Elisabetta",
+      "Santa"
+    ]
+  ],
+  "11-18": [
+    [
+      "Aude",
+      "Santa"
+    ]
+  ],
+  "11-19": [
+    [
+      "Tanguy",
+      "Santo"
+    ]
+  ],
+  "11-20": [
+    [
+      "Edmondo",
+      "Santo"
+    ]
+  ],
+  "11-21": [
+    [
+      "Presentazione di Maria",
+      "Festa"
+    ]
+  ],
+  "11-22": [
+    [
+      "Cecilia",
+      "Santa"
+    ]
+  ],
+  "11-23": [
+    [
+      "Clemente",
+      "Santo"
+    ]
+  ],
+  "11-24": [
+    [
+      "Flora",
+      "Santa"
+    ]
+  ],
+  "11-25": [
+    [
+      "Caterina",
+      "Santa"
+    ]
+  ],
+  "11-26": [
+    [
+      "Delfina",
+      "Santa"
+    ]
+  ],
+  "11-27": [
+    [
+      "Severino",
+      "Santo"
+    ]
+  ],
+  "11-28": [
+    [
+      "Giacomo della Marca",
+      "Santo"
+    ]
+  ],
+  "11-29": [
+    [
+      "Saturnino",
+      "Santo"
+    ]
+  ],
+  "11-30": [
+    [
+      "Andrea",
+      "Santo"
+    ]
+  ],
+  "12-01": [
+    [
+      "Florenza",
+      "Santa"
+    ],
+    [
+      "Eligio",
+      "Santo"
+    ],
+    [
+      "Loïc",
+      "Santo"
+    ],
+    [
+      "Nahum",
+      "Santo"
+    ],
+    [
+      "Tudal",
+      "Santo"
+    ]
+  ],
+  "12-02": [
+    [
+      "Viviana",
+      "Santa"
+    ],
+    [
+      "Silverio",
+      "Santo"
+    ],
+    [
+      "Bibiana",
+      "Santa"
+    ],
+    [
+      "Rondro",
+      "Santo"
+    ]
+  ],
+  "12-03": [
+    [
+      "Francesco Saverio",
+      "Santo"
+    ],
+    [
+      "Silverio",
+      "Santo"
+    ]
+  ],
+  "12-04": [
+    [
+      "Barbara",
+      "Santa"
+    ],
+    [
+      "Barbara",
+      "Santa"
+    ]
+  ],
+  "12-05": [
+    [
+      "Geraldo",
+      "Santo"
+    ]
+  ],
+  "12-06": [
+    [
+      "Nicola",
+      "Santo"
+    ],
+    [
+      "Coletta",
+      "Santa"
+    ]
+  ],
+  "12-07": [
+    [
+      "Ambrogio",
+      "Santo"
+    ],
+    [
+      "Khalid",
+      "Santo"
+    ]
+  ],
+  "12-08": [
+    [
+      "Festa dell'Immacolata Concezione",
+      "Festa"
+    ],
+    [
+      "Azucena",
+      "Santa"
+    ],
+    [
+      "Concepción",
+      "Santa"
+    ],
+    [
+      "Immacolata",
+      "Santa"
+    ],
+    [
+      "Romarico",
+      "Santo"
+    ]
+  ],
+  "12-09": [
+    [
+      "Pietro Fourier",
+      "Santo"
+    ],
+    [
+      "Leocadia",
+      "Santa"
+    ]
+  ],
+  "12-10": [
+    [
+      "Romarico",
+      "Santo"
+    ],
+    [
+      "Eulalia",
+      "Santa"
+    ]
+  ],
+  "12-11": [
+    [
+      "Daniele",
+      "Santo"
+    ],
+    [
+      "Damaso",
+      "Santo"
+    ]
+  ],
+  "12-12": [
+    [
+      "Giovanna Francesca di Chantal",
+      "Santa"
+    ],
+    [
+      "Corentin",
+      "Santo"
+    ],
+    [
+      "Guadalupe",
+      "Santa"
+    ]
+  ],
+  "12-13": [
+    [
+      "Lucia",
+      "Santa"
+    ]
+  ],
+  "12-14": [
+    [
+      "Odilia",
+      "Santa"
+    ]
+  ],
+  "12-15": [
+    [
+      "Nina",
+      "Santa"
+    ],
+    [
+      "Nino",
+      "Santo"
+    ]
+  ],
+  "12-16": [
+    [
+      "Alice",
+      "Santa"
+    ],
+    [
+      "Adelaide",
+      "Santa"
+    ],
+    [
+      "Alizée",
+      "Santa"
+    ]
+  ],
+  "12-17": [
+    [
+      "Gael",
+      "Santo"
+    ],
+    [
+      "Judicael",
+      "Santo"
+    ]
+  ],
+  "12-18": [
+    [
+      "Gatiano",
+      "Santo"
+    ]
+  ],
+  "12-19": [
+    [
+      "Urbano",
+      "Santo"
+    ]
+  ],
+  "12-20": [
+    [
+      "Teofilo",
+      "Santo"
+    ],
+    [
+      "Zeffirino",
+      "Santo"
+    ]
+  ],
+  "12-21": [
+    [
+      "Solstizio d'Inverno",
+      "Festa"
+    ],
+    [
+      "Pietro",
+      "Santo"
+    ]
+  ],
+  "12-22": [
+    [
+      "Francesca Saveria",
+      "Santa"
+    ]
+  ],
+  "12-23": [
+    [
+      "Armando",
+      "Santo"
+    ],
+    [
+      "Saveria",
+      "Santa"
+    ]
+  ],
+  "12-24": [
+    [
+      "Adele",
+      "Santa"
+    ]
+  ],
+  "12-25": [
+    [
+      "Natale",
+      "Festa"
+    ],
+    [
+      "Betlemme",
+      "Festa"
+    ],
+    [
+      "Emanuele",
+      "Santo"
+    ],
+    [
+      "Gesù",
+      "Santo"
+    ],
+    [
+      "Natale",
+      "Festa"
+    ]
+  ],
+  "12-26": [
+    [
+      "Stefano",
+      "Santo"
+    ]
+  ],
+  "12-27": [
+    [
+      "Giovanni",
+      "Santo"
+    ],
+    [
+      "Stefano",
+      "Santo"
+    ]
+  ],
+  "12-28": [
+    [
+      "Santi Innocenti",
+      "Santi"
+    ],
+    [
+      "Innocenzo",
+      "Santo"
+    ]
+  ],
+  "12-29": [
+    [
+      "Davide",
+      "Santo"
+    ],
+    [
+      "Abigail",
+      "Santa"
+    ],
+    [
+      "Eloha",
+      "Santa"
+    ]
+  ],
+  "12-30": [
+    [
+      "Ruggero",
+      "Santo"
+    ]
+  ],
+  "12-31": [
+    [
+      "Silvestro",
+      "Santo"
+    ],
+    [
+      "Francesco Regis",
+      "Santo"
+    ],
+    [
+      "Giovanni Francesco",
+      "Santo"
+    ],
+    [
+      "Regis",
+      "Santo"
+    ],
+    [
+      "Silvestro",
+      "Santo"
+    ]
+  ]
+}

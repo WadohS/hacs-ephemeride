@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="256" height="256" viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg">
+  <!-- Calendrier -->
+  <rect x="48" y="80" width="160" height="140" rx="12" fill="#4A90E2" stroke="#2E5C8A" stroke-width="4"/>
+  <rect x="48" y="80" width="160" height="40" rx="12" fill="#2E5C8A"/>
+  
+  <!-- Anneaux de calendrier -->
+  <rect x="70" y="60" width="12" height="30" rx="6" fill="#2E5C8A"/>
+  <rect x="122" y="60" width="12" height="30" rx="6" fill="#2E5C8A"/>
+  <rect x="174" y="60" width="12" height="30" rx="6" fill="#2E5C8A"/>
+  
+  <!-- Grille calendrier -->
+  <line x1="68" y1="140" x2="188" y2="140" stroke="#FFFFFF" stroke-width="2" opacity="0.5"/>
+  <line x1="68" y1="165" x2="188" y2="165" stroke="#FFFFFF" stroke-width="2" opacity="0.5"/>
+  <line x1="68" y1="190" x2="188" y2="190" stroke="#FFFFFF" stroke-width="2" opacity="0.5"/>
+  
+  <line x1="98" y1="130" x2="98" y2="210" stroke="#FFFFFF" stroke-width="2" opacity="0.5"/>
+  <line x1="128" y1="130" x2="128" y2="210" stroke="#FFFFFF" stroke-width="2" opacity="0.5"/>
+  <line x1="158" y1="130" x2="158" y2="210" stroke="#FFFFFF" stroke-width="2" opacity="0.5"/>
+  <line x1="188" y1="130" x2="188" y2="210" stroke="#FFFFFF" stroke-width="2" opacity="0.5"/>
+  
+  <!-- Étoile dorée -->
+  <path d="M 128 20 L 142 58 L 182 58 L 150 82 L 164 120 L 128 96 L 92 120 L 106 82 L 74 58 L 114 58 Z" 
+        fill="#FFD700" stroke="#FFA500" stroke-width="3"/>
+  
+  <!-- Ombre de l'étoile -->
+  <path d="M 128 20 L 142 58 L 182 58 L 150 82 L 164 120 L 128 96 L 92 120 L 106 82 L 74 58 L 114 58 Z" 
+        fill="#FFA500" opacity="0.3" transform="translate(2, 2)"/>
+</svg>

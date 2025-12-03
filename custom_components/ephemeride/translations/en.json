@@ -1,0 +1,30 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Ephemeris Configuration",
+        "description": "Select language for saints of the day",
+        "data": {
+          "language": "Language"
+        }
+      }
+    },
+    "error": {
+      "unknown": "Unknown error"
+    },
+    "abort": {
+      "single_instance_allowed": "Only one instance allowed"
+    }
+  },
+  "options": {
+    "step": {
+      "init": {
+        "title": "Ephemeris Options",
+        "description": "Change the language for saints of the day",
+        "data": {
+          "language": "Language"
+        }
+      }
+    }
+  }
+}

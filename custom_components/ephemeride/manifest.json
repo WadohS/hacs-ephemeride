@@ -1,0 +1,13 @@
+{
+  "domain": "ephemeride",
+  "name": "Éphéméride",
+  "codeowners": ["@WadohS"],
+  "config_flow": true,
+  "dependencies": [],
+  "documentation": "https://github.com/WadohS/hacs-ephemeride",
+  "iot_class": "local_polling",
+  "issue_tracker": "https://github.com/WadohS/hacs-ephemeride/issues",
+  "requirements": [],
+  "version": "1.1.1",
+  "icon": "mdi:calendar-star"
+}
