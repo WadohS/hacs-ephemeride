@@ -1,15 +1,13 @@
 {
-  "domain": "saints_du_jour",
-  "name": "Saints du Jour",
-  "version": "1.0.1",
-  "documentation": "https://github.com/votre_nom_utilisateur/saints_du_jour",
-  "issue_tracker": "https://github.com/votre_nom_utilisateur/saints_du_jour/issues",
-  "codeowners": ["@votre_nom_utilisateur"],
-  "config_flow": false,
+  "domain": "ephemeride",
+  "name": "Éphéméride",
+  "codeowners": ["@WadohS"],
+  "config_flow": true,
   "dependencies": [],
-  "requirements": [],
+  "documentation": "https://github.com/WadohS/hacs-ephemeride",
   "iot_class": "local_polling",
-  "loggers": {
-    "custom_components.saints_du_jour": "info"
-  }
+  "issue_tracker": "https://github.com/WadohS/hacs-ephemeride/issues",
+  "requirements": [],
+  "version": "1.1.0",
+  "icon": "icon"
 }

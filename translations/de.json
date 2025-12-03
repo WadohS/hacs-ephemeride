@@ -1,0 +1,27 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Ephemeriden-Integration konfigurieren",
+        "description": "Wählen Sie die Sprache für Heilige und Feiertage",
+        "data": {
+          "language": "Sprache"
+        }
+      }
+    },
+    "error": {
+      "single_instance_allowed": "Nur eine Instanz dieser Integration ist erlaubt"
+    }
+  },
+  "options": {
+    "step": {
+      "init": {
+        "title": "Optionen ändern",
+        "description": "Sprache für Heilige und Feiertage ändern",
+        "data": {
+          "language": "Sprache"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Configurar integração de Efemérides",
+        "description": "Selecione o idioma para santos e festividades",
+        "data": {
+          "language": "Idioma"
+        }
+      }
+    },
+    "error": {
+      "single_instance_allowed": "Apenas uma instância desta integração é permitida"
+    }
+  },
+  "options": {
+    "step": {
+      "init": {
+        "title": "Modificar opções",
+        "description": "Alterar o idioma dos santos e festividades",
+        "data": {
+          "language": "Idioma"
+        }
+      }
+    }
+  }
+}

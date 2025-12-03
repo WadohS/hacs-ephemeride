@@ -1,0 +1,27 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Configura integrazione Effemeridi",
+        "description": "Seleziona la lingua per santi e festività",
+        "data": {
+          "language": "Lingua"
+        }
+      }
+    },
+    "error": {
+      "single_instance_allowed": "È consentita solo un'istanza di questa integrazione"
+    }
+  },
+  "options": {
+    "step": {
+      "init": {
+        "title": "Modifica opzioni",
+        "description": "Cambia la lingua dei santi e delle festività",
+        "data": {
+          "language": "Lingua"
+        }
+      }
+    }
+  }
+}
