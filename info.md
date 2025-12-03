@@ -19,7 +19,12 @@ Plateforme | Description
 ## Installation
 
 1. Cliquez sur installer.
-2. Dans l'interface Home Assistant, allez dans "Configuration" -> "Intégrations", cliquez sur "+" et recherchez "Éphéméride".
+2. Redémarrez Home Assistant
+3. Configurez l'intégration :
+
+[![Ajouter l'intégration](https://my.home-assistant.io/badges/config_flow_start.svg)](https://my.home-assistant.io/redirect/config_flow_start/?domain=ephemeride)
+
+Ou manuellement : allez dans "Configuration" -> "Intégrations", cliquez sur "+" et recherchez "Éphéméride".
 
 {% endif %}
 

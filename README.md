@@ -11,12 +11,9 @@
 
 _Intégration pour afficher le saint du jour et les festivités dans Home Assistant avec support multilingue._
 
-![Icône Éphéméride](https://raw.githubusercontent.com/WadohS/hacs-ephemeride/master/custom_components/ephemeride/icons/icon.png)
-
 [![Ouvrir dans HACS](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=WadohS&repository=hacs-ephemeride&category=integration)
 
-[![Ajouter l'int\Uffffffffation](https://my.home-assistant.io/badges/config_flow_start.svg)](https://my.home-assistant.io/redirect/config_flow_start/?domain=ephemeride)
-
+![Icône Éphéméride](https://raw.githubusercontent.com/WadohS/hacs-ephemeride/master/custom_components/ephemeride/icons/icon.png)
 
 ## 🌟 Fonctionnalités
 
@@ -51,6 +48,16 @@ L'intégration supporte **6 langues** avec données complètes (366 jours) :
 
 ### Via HACS (Recommandé)
 
+#### Installation en 1 clic 🚀
+
+[![Ouvrir dans HACS](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=WadohS&repository=hacs-ephemeride&category=integration)
+
+**Cliquez sur le bouton ci-dessus** pour ajouter automatiquement l'intégration Éphéméride à votre Home Assistant !
+
+#### Installation manuelle via HACS
+
+Si le bouton ne fonctionne pas :
+
 1. Ouvrez HACS dans votre interface Home Assistant
 2. Allez dans "Intégrations"
 3. Cliquez sur les 3 points en haut à droite ⋮
@@ -72,6 +79,14 @@ L'intégration supporte **6 langues** avec données complètes (366 jours) :
 ## ⚙️ Configuration
 
 La configuration se fait entièrement via l'interface utilisateur :
+
+### Configuration en 1 clic ⚡
+
+[![Ajouter l'intégration](https://my.home-assistant.io/badges/config_flow_start.svg)](https://my.home-assistant.io/redirect/config_flow_start/?domain=ephemeride)
+
+**Cliquez sur le bouton ci-dessus** pour configurer automatiquement l'intégration !
+
+### Configuration manuelle
 
 1. Allez dans **Configuration** → **Intégrations**
 2. Cliquez sur **+ Ajouter une intégration**
