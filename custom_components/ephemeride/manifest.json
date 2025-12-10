@@ -1,7 +1,9 @@
 {
   "domain": "ephemeride",
   "name": "Ephemeride",
-  "codeowners": ["@WadohS"],
+  "codeowners": [
+    "@WadohS"
+  ],
   "config_flow": true,
   "dependencies": [],
   "documentation": "https://github.com/WadohS/hacs-ephemeride",
