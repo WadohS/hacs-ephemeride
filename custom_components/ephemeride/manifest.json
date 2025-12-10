@@ -1,12 +1,14 @@
 {
   "domain": "ephemeride",
   "name": "Ephemeride",
-  "codeowners": ["@WadohS"],
+  "codeowners": [
+    "@WadohS"
+  ],
   "config_flow": true,
   "dependencies": [],
   "documentation": "https://github.com/WadohS/hacs-ephemeride",
   "iot_class": "local_polling",
   "issue_tracker": "https://github.com/WadohS/hacs-ephemeride/issues",
   "requirements": [],
-  "version": "1.2.0"
+  "version": "1.2.2"
 }
