@@ -1,4 +1,4 @@
-"""Intégration Éphéméride pour Home Assistant."""
+"""Integration Ephemeride pour Home Assistant."""
 import logging
 from homeassistant.config_entries import ConfigEntry
 from homeassistant.core import HomeAssistant
@@ -20,11 +20,11 @@ async def async_setup(hass: HomeAssistant, config: dict):
 
 
 async def async_setup_entry(hass: HomeAssistant, entry: ConfigEntry):
-    """Configurer l'intégration à partir de config flow."""
+    """Configurer l'integration a partir de config flow."""
     lang = entry.options.get(CONF_LANGUAGE, entry.data.get(CONF_LANGUAGE, "fr"))
 
     async def async_update_data():
-        """Récupérer les données du saint du jour."""
+        """Recuperer les donnees du saint du jour."""
         today = datetime.now().strftime("%m-%d")
         tomorrow = (datetime.now() + timedelta(days=1)).strftime("%m-%d")
         
@@ -41,7 +41,7 @@ async def async_setup_entry(hass: HomeAssistant, entry: ConfigEntry):
             with open(file_path, "r", encoding="utf-8") as f:
                 data = json.load(f)
             
-            # Récupérer le premier saint de la journée
+            # Recuperer le premier saint de la journee
             today_saints = data.get(today, [["Inconnu", "Saint"]])
             tomorrow_saints = data.get(tomorrow, [["Inconnu", "Saint"]])
             
@@ -52,7 +52,7 @@ async def async_setup_entry(hass: HomeAssistant, entry: ConfigEntry):
                 "tomorrow_all": tomorrow_saints,
             }
         except FileNotFoundError:
-            _LOGGER.error(f"Fichier de langue non trouvé: {file_path}")
+            _LOGGER.error(f"Fichier de langue non trouve: {file_path}")
             return {
                 "today": "Erreur",
                 "tomorrow": "Erreur",
@@ -60,7 +60,7 @@ async def async_setup_entry(hass: HomeAssistant, entry: ConfigEntry):
                 "tomorrow_all": [],
             }
         except Exception as e:
-            _LOGGER.error(f"Erreur lors de la lecture des données: {e}")
+            _LOGGER.error(f"Erreur lors de la lecture des donnees: {e}")
             return {
                 "today": "Erreur",
                 "tomorrow": "Erreur",
@@ -89,7 +89,7 @@ async def async_setup_entry(hass: HomeAssistant, entry: ConfigEntry):
 
 
 async def async_unload_entry(hass: HomeAssistant, entry: ConfigEntry):
-    """Nettoyer à la suppression."""
+    """Nettoyer a la suppression."""
     unload_ok = await hass.config_entries.async_unload_platforms(entry, PLATFORMS)
     
     if unload_ok:
@@ -99,6 +99,6 @@ async def async_unload_entry(hass: HomeAssistant, entry: ConfigEntry):
 
 
 async def async_reload_entry(hass: HomeAssistant, entry: ConfigEntry):
-    """Recharger l'intégration quand les options changent."""
+    """Recharger l'integration quand les options changent."""
     await async_unload_entry(hass, entry)
     await async_setup_entry(hass, entry)
