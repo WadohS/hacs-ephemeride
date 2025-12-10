@@ -1,6 +1,6 @@
 {
   "domain": "ephemeride",
-  "name": "\Uffffffffh\Uffffffffride",
+  "name": "Ephermeride",
   "codeowners": ["@WadohS"],
   "config_flow": true,
   "dependencies": [],
