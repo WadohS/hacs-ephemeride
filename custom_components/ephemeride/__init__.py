@@ -55,6 +55,19 @@ class EphemerideDataUpdateCoordinator(DataUpdateCoordinator):
             update_interval=timedelta(hours=1),
         )
     
+    def _normalize_saint_data(self, saint_entry):
+        """Normalize saint data to handle both formats.
+        
+        Format 1 (tuple): ["Marie", "Sainte"] -> returns "Marie"
+        Format 2 (string): "Marie" -> returns "Marie"
+        """
+        if isinstance(saint_entry, list):
+            # Format tuple: [nom, type]
+            return saint_entry[0] if saint_entry else "Inconnu"
+        else:
+            # Format simple: "nom"
+            return saint_entry
+    
     async def _async_update_data(self):
         """Fetch data from Ephemeride."""
         try:
@@ -73,19 +86,20 @@ class EphemerideDataUpdateCoordinator(DataUpdateCoordinator):
             today = datetime.now().strftime("%m-%d")
             tomorrow = (datetime.now() + timedelta(days=1)).strftime("%m-%d")
             
-            today_saints = data.get(today, [])
-            tomorrow_saints = data.get(tomorrow, [])
+            today_saints_raw = data.get(today, [])
+            tomorrow_saints_raw = data.get(tomorrow, [])
             
-            # Limit to 5 saints in attributes to avoid exceeding 16KB limit
-            MAX_SAINTS = 5
+            # Normalize data (handle both formats)
+            today_saints = [self._normalize_saint_data(s) for s in today_saints_raw[:5]]
+            tomorrow_saints = [self._normalize_saint_data(s) for s in tomorrow_saints_raw[:5]]
             
             return {
-                "saint_aujourdhui": today_saints[0][0] if today_saints else "Inconnu",
-                "saint_demain": tomorrow_saints[0][0] if tomorrow_saints else "Inconnu",
-                "tous_saints_aujourdhui": [s[0] for s in today_saints[:MAX_SAINTS]],
-                "tous_saints_demain": [s[0] for s in tomorrow_saints[:MAX_SAINTS]],
-                "nombre_saints_aujourdhui": len(today_saints),
-                "nombre_saints_demain": len(tomorrow_saints),
+                "saint_aujourdhui": today_saints[0] if today_saints else "Inconnu",
+                "saint_demain": tomorrow_saints[0] if tomorrow_saints else "Inconnu",
+                "tous_saints_aujourdhui": today_saints,
+                "tous_saints_demain": tomorrow_saints,
+                "nombre_saints_aujourdhui": len(today_saints_raw),
+                "nombre_saints_demain": len(tomorrow_saints_raw),
                 "langue": self.language,
                 "date": datetime.now().strftime("%Y-%m-%d"),
             }
