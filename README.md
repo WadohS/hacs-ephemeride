@@ -13,7 +13,7 @@ _Intégration pour afficher le saint du jour et les festivités dans Home Assist
 
 [![Ouvrir dans HACS](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=WadohS&repository=hacs-ephemeride&category=integration)
 
-![Icône Éphéméride](https://raw.githubusercontent.com/WadohS/hacs-ephemeride/master/custom_components/ephemeride/icons/icon.png)
+![Icône Éphéméride](https://raw.githubusercontent.com/WadohS/hacs-ephemeride/main/custom_components/ephemeride/icon.png)
 
 ## 🌟 Fonctionnalités
 
@@ -30,8 +30,10 @@ Plateforme | Description
   - `saint_demain` : Saint de demain
   - `langue` : Langue configurée
   - `date` : Date actuelle
-  - `tous_saints_aujourdhui` : Liste complète des saints du jour
-  - `tous_saints_demain` : Liste complète des saints de demain
+  - `tous_saints_aujourdhui` : Liste complète des saints du jour (limité à 5)
+  - `tous_saints_demain` : Liste complète des saints de demain (limité à 5)
+  - `nombre_saints_aujourdhui` : Nombre total de saints aujourd'hui
+  - `nombre_saints_demain` : Nombre total de saints demain
 
 ## 🌍 Langues supportées
 
@@ -135,6 +137,8 @@ content: |
   {% for saint in state_attr('sensor.saint_du_jour', 'tous_saints_aujourdhui') %}
   - {{ saint }}
   {% endfor %}
+  
+  **Total** : {{ state_attr('sensor.saint_du_jour', 'nombre_saints_aujourdhui') }} saints
 ```
 
 ### Automatisation - Notification matinale
@@ -196,6 +200,28 @@ Nous acceptons volontiers les traductions :
 
 ## 📝 Changelog
 
+### Version 1.2.3 (2025-12-09)
+- 🔧 **FIX MAJEUR** : Correction incompatibilité `__init__.py` ↔ `sensor.py`
+  - `__init__.py` retournait `saint_aujourdhui`, `sensor.py` cherchait `today`
+  - Support universel des formats JSON (tuple et simple)
+- 🐛 **FIX CRITIQUE** : Correction "État Inconnu" sur `sensor.saint_du_jour`
+- 📦 Optimisation : `__init__.py` supporte maintenant `[["Marie", "Sainte"], ...]` et `["Marie", ...]`
+- 🎨 Ajout des icônes et logos officiels (icon.png, logo.png en 256/512px)
+
+### Version 1.2.2 (2025-12-08)
+- 🔧 **FIX CRITIQUE** : Correction `Invalid \escape: line 9 column 9 (char 94)`
+  - Échappement correct des caractères spéciaux dans `fr.json`
+- 🚀 **FIX CRITIQUE** : Correction `Detected blocking call to open()`
+  - Lecture asynchrone avec `aiofiles`
+  - Évite le blocage de l'event loop
+- 📊 **NOUVEAUX ATTRIBUTS** :
+  - `nombre_saints_aujourdhui` : Compteur de saints du jour
+  - `nombre_saints_demain` : Compteur de saints de demain
+- 🔥 **FIX RECORDER** : Limitation à 5 saints dans `tous_saints_aujourdhui/demain`
+  - Résout `State attributes exceed maximum size of 16384 bytes`
+- 📉 Optimisation `fr.json` : **13 KB** (au lieu de 27 KB)
+- 🧹 Nettoyage : Suppression des doublons
+
 ### Version 1.1.1
 - 🔧 Fix : Icône Material Design Icons pour compatibilité immédiate
 - ✅ Icône : `mdi:calendar-star`
@@ -230,7 +256,7 @@ Ce projet est sous licence MIT - voir le fichier [LICENSE](LICENSE) pour plus de
 [releases-shield]: https://img.shields.io/github/release/WadohS/hacs-ephemeride.svg?style=for-the-badge
 [releases]: https://github.com/WadohS/hacs-ephemeride/releases
 [commits-shield]: https://img.shields.io/github/commit-activity/y/WadohS/hacs-ephemeride.svg?style=for-the-badge
-[commits]: https://github.com/WadohS/hacs-ephemeride/commits/master
+[commits]: https://github.com/WadohS/hacs-ephemeride/commits/main
 [license-shield]: https://img.shields.io/github/license/WadohS/hacs-ephemeride.svg?style=for-the-badge
 [hacsbadge]: https://img.shields.io/badge/HACS-Custom-orange.svg?style=for-the-badge
 [hacs]: https://github.com/hacs/integration
