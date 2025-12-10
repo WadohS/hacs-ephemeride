@@ -2,8 +2,8 @@
   "config": {
     "step": {
       "user": {
-        "title": "Configuration de l'Éphéméride",
-        "description": "Sélectionnez la langue pour les saints du jour",
+        "title": "Configuration de l'Ephemeride",
+        "description": "Selectionnez la langue pour les saints du jour",
         "data": {
           "language": "Langue"
         }
@@ -13,13 +13,13 @@
       "unknown": "Erreur inconnue"
     },
     "abort": {
-      "single_instance_allowed": "Une seule instance est autorisée"
+      "single_instance_allowed": "Une seule instance est autorisee"
     }
   },
   "options": {
     "step": {
       "init": {
-        "title": "Options de l'Éphéméride",
+        "title": "Options de l'Ephemeride",
         "description": "Modifier la langue des saints du jour",
         "data": {
           "language": "Langue"
