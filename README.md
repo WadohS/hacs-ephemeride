@@ -11,7 +11,7 @@
 
 _Intégration pour afficher le saint du jour et les festivités dans Home Assistant avec support multilingue._
 
-[![Ouvrir dans HACS](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=WadohS&repository=hacs-ephemeride&category=integration)
+[![Ouvrir dans HACS](https://my.home-assistant.io/redirect/hacs_repository/?owner=WadohS&repository=hacs-ephemeride&category=integration)
 
 ![Icône Éphéméride](https://raw.githubusercontent.com/WadohS/hacs-ephemeride/master/custom_components/ephemeride/icons/icon.png)
 
