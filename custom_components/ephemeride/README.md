@@ -161,7 +161,7 @@ Si vous rencontrez un bug ou avez une suggestion :
 
 ## 📝 Changelog
 
-### Version 1.1.0
+### Version 1.2.3
 - ✨ Ajout de 5 nouvelles langues (en, de, es, it, pt)
 - 🌍 Support multilingue complet
 - 🔄 Possibilité de changer de langue sans réinstallation
