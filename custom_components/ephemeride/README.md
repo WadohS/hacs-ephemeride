@@ -1,6 +1,6 @@
 # Éphéméride - Intégration Home Assistant
 
-![Version](https://img.shields.io/badge/version-1.2.3-blue.svg)
+![Version](https://img.shields.io/badge/version-1.2.4-blue.svg)
 ![Home Assistant](https://img.shields.io/badge/Home%20Assistant-compatible-green.svg)
 ![Languages](https://img.shields.io/badge/languages-6-orange.svg)
 
