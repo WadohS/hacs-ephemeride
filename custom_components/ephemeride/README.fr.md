@@ -35,6 +35,12 @@ Les fichiers de langue peuvent contenir :
 
 Le coordinator normalise tous les formats avant d'exposer les donnees du capteur et de classer chaque entree.
 
+## Outils
+
+- Audit de couverture : `python3 scripts/report_language_typing.py`
+- Conversion d'un fichier : `python3 scripts/migrate_language_file.py <lang>`
+- Ecriture reelle : `python3 scripts/migrate_language_file.py <lang> --write`
+
 ## Version
 
-Version actuelle du composant : `1.3.1`
+Version actuelle du composant : `1.3.2`

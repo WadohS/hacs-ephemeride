@@ -122,11 +122,21 @@ automation:
 - L'intégration supporte les listes simples, les anciens formats type tuple et les objets dans les fichiers de langue
 - Les calendriers propres à chaque pays sont conservés et classés à l'exécution
 
+### Migration progressive des langues
+
+- Audit de couverture : `python3 scripts/report_language_typing.py`
+- Conversion d'un fichier en objets explicites : `python3 scripts/migrate_language_file.py fr`
+- Écriture réelle du fichier converti : `python3 scripts/migrate_language_file.py fr --write`
+- Les entrées converties utilisent `name` et `type`, avec `source_type` conservé si le fichier d'origine portait déjà une information métier
+
 ## Changelog
 
 ### Version 1.3.1
 - Ajout du calcul annuel des dates liturgiques mobiles avec fusion au runtime avec les calendriers par pays
 - Amelioration de la detection des categories pour mieux alimenter les capteurs de fetes et de dates religieuses
+
+### Version 1.3.2
+- Ajout d'outils de migration progressive pour auditer et typer les fichiers de langue sans perdre les spécificités pays
 
 ### Version 1.3.0
 - Ajout de capteurs dédiés pour saint masculin, sainte, fête, date religieuse et autre commémoration

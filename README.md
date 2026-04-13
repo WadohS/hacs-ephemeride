@@ -122,7 +122,17 @@ automation:
 - The integration supports plain string lists, tuple-like entries and object entries in language files
 - Country-specific calendars are preserved and classified at runtime without forcing a single shared dataset
 
+### Progressive language migration
+
+- Coverage audit: `python3 scripts/report_language_typing.py`
+- Convert one file to explicit objects: `python3 scripts/migrate_language_file.py fr`
+- Write the converted file back: `python3 scripts/migrate_language_file.py fr --write`
+- Converted entries use `name` and `type`, and keep `source_type` when the original file already carried a business-specific label
+
 ## Changelog
+
+### Version 1.3.2
+- Add progressive migration tools to audit and type language files without losing country-specific calendars
 
 ### Version 1.3.1
 - Add yearly computation of movable liturgical dates and merge them with country-specific calendars at runtime

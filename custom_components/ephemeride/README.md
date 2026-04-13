@@ -35,6 +35,12 @@ Language files may contain either:
 
 The coordinator normalizes all formats before exposing sensor data and classifying each entry.
 
+## Tooling
+
+- Coverage audit: `python3 scripts/report_language_typing.py`
+- Convert one file: `python3 scripts/migrate_language_file.py <lang>`
+- Write changes in place: `python3 scripts/migrate_language_file.py <lang> --write`
+
 ## Version
 
-Current component version: `1.3.1`
+Current component version: `1.3.2`
