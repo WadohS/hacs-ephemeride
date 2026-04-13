@@ -124,6 +124,10 @@ automation:
 
 ## Changelog
 
+### Version 1.3.1
+- Add yearly computation of movable liturgical dates and merge them with country-specific calendars at runtime
+- Improve category detection so liturgical and feast sensors are populated more consistently
+
 ### Version 1.3.0
 - Added dedicated sensors for male saints, female saints, feasts, religious dates and other commemorations
 - Added local integration branding for recent Home Assistant versions

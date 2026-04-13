@@ -14,6 +14,7 @@ from homeassistant.util import dt as dt_util
 
 from .const import CONF_LANGUAGE, DOMAIN
 from .data import build_day_payload
+from .liturgical import get_movable_liturgical_days
 
 _LOGGER = logging.getLogger(__name__)
 
@@ -87,11 +88,14 @@ class EphemerideDataUpdateCoordinator(DataUpdateCoordinator):
             )
 
             now = dt_util.now()
+            tomorrow_date = now + timedelta(days=1)
             today = now.strftime("%m-%d")
-            tomorrow = (now + timedelta(days=1)).strftime("%m-%d")
+            tomorrow = tomorrow_date.strftime("%m-%d")
+            movable_days_today = get_movable_liturgical_days(now.year, self.language)
+            movable_days_tomorrow = get_movable_liturgical_days(tomorrow_date.year, self.language)
 
-            today_saints_raw = data.get(today, [])
-            tomorrow_saints_raw = data.get(tomorrow, [])
+            today_saints_raw = self._merge_entries(data.get(today, []), movable_days_today.get(today, []))
+            tomorrow_saints_raw = self._merge_entries(data.get(tomorrow, []), movable_days_tomorrow.get(tomorrow, []))
 
             today_payload = build_day_payload(today_saints_raw, self.language)
             tomorrow_payload = build_day_payload(tomorrow_saints_raw, self.language)
@@ -125,3 +129,14 @@ class EphemerideDataUpdateCoordinator(DataUpdateCoordinator):
         """Read JSON file (blocking operation run in executor)."""
         with open(file_path, "r", encoding="utf-8") as f:
             return json.load(f)
+
+    def _merge_entries(self, base_entries: list[object], extra_entries: list[object]) -> list[object]:
+        """Merge fixed and movable entries while avoiding duplicates."""
+        merged = list(base_entries)
+        seen = {json.dumps(entry, ensure_ascii=False, sort_keys=True) for entry in merged}
+        for entry in extra_entries:
+            entry_key = json.dumps(entry, ensure_ascii=False, sort_keys=True)
+            if entry_key not in seen:
+                merged.append(entry)
+                seen.add(entry_key)
+        return merged

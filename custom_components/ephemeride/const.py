@@ -35,12 +35,17 @@ CATEGORY_SENSOR_KEYS = [
 EXPLICIT_TYPE_ALIASES = {
     "saint": CATEGORY_SAINT,
     "sainte": CATEGORY_SAINTE,
+    CATEGORY_SAINT: CATEGORY_SAINT,
+    CATEGORY_SAINTE: CATEGORY_SAINTE,
     "fete": CATEGORY_FETE,
+    CATEGORY_FETE: CATEGORY_FETE,
     "feest": CATEGORY_FETE,
     "feast": CATEGORY_FETE,
     "fest": CATEGORY_FETE,
     "date religieuse": CATEGORY_DATE_RELIGIEUSE,
+    CATEGORY_DATE_RELIGIEUSE: CATEGORY_DATE_RELIGIEUSE,
     "religious date": CATEGORY_DATE_RELIGIEUSE,
+    CATEGORY_AUTRE: CATEGORY_AUTRE,
 }
 
 DATE_RELIGIEUSE_KEYWORDS = {
@@ -173,6 +178,15 @@ FETE_KEYWORDS = {
     ],
 }
 
+SAINT_PREFIX_KEYWORDS = {
+    "fr": {"saint": CATEGORY_SAINT, "sainte": CATEGORY_SAINTE},
+    "en": {"saint": CATEGORY_SAINT},
+    "de": {"heilige": CATEGORY_SAINTE, "heiliger": CATEGORY_SAINT, "sankt": CATEGORY_SAINT},
+    "es": {"san ": CATEGORY_SAINT, "santa": CATEGORY_SAINTE, "santo": CATEGORY_SAINT},
+    "it": {"san ": CATEGORY_SAINT, "santa": CATEGORY_SAINTE, "santo": CATEGORY_SAINT},
+    "pt": {"santa": CATEGORY_SAINTE, "santo": CATEGORY_SAINT, "sao ": CATEGORY_SAINT},
+}
+
 UNKNOWN_STATE = {
     "fr": "Inconnu",
     "en": "Unknown",
@@ -233,4 +247,4 @@ ENTITY_TITLES = {
     },
 }
 
-INTEGRATION_VERSION = "1.3.0"
+INTEGRATION_VERSION = "1.3.1"

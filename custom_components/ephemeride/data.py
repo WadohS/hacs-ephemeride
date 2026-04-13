@@ -14,6 +14,7 @@ from .const import (
     DATE_RELIGIEUSE_KEYWORDS,
     EXPLICIT_TYPE_ALIASES,
     FETE_KEYWORDS,
+    SAINT_PREFIX_KEYWORDS,
 )
 
 
@@ -64,6 +65,10 @@ def classify_entry(name: str, raw_type: str | None, language: str) -> str:
 
     if matches_keywords(normalized_name, FETE_KEYWORDS.get(language, [])):
         return CATEGORY_FETE
+
+    for prefix, category in SAINT_PREFIX_KEYWORDS.get(language, {}).items():
+        if normalized_name.startswith(prefix):
+            return category
 
     if raw_type is None:
         return CATEGORY_AUTRE

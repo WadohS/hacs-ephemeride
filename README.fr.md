@@ -124,6 +124,10 @@ automation:
 
 ## Changelog
 
+### Version 1.3.1
+- Ajout du calcul annuel des dates liturgiques mobiles avec fusion au runtime avec les calendriers par pays
+- Amelioration de la detection des categories pour mieux alimenter les capteurs de fetes et de dates religieuses
+
 ### Version 1.3.0
 - Ajout de capteurs dédiés pour saint masculin, sainte, fête, date religieuse et autre commémoration
 - Ajout du branding local de l'intégration pour les versions récentes de Home Assistant
