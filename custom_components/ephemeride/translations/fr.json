@@ -3,7 +3,7 @@
     "step": {
       "user": {
         "title": "Configuration de l'Éphéméride",
-        "description": "Sélectionnez la langue pour les saints du jour",
+        "description": "Sélectionnez la langue des saints du jour",
         "data": {
           "language": "Langue"
         }

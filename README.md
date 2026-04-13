@@ -1,257 +1,140 @@
-# Éphéméride - Intégration Home Assistant
+# Ephemeride - Home Assistant Integration
+
+[Français](README.fr.md) | English
 
 [![GitHub Release][releases-shield]][releases]
 [![GitHub Activity][commits-shield]][commits]
 [![License][license-shield]](LICENSE)
-
 [![hacs][hacsbadge]][hacs]
 ![Project Maintenance][maintenance-shield]
-
 [![Community Forum][forum-shield]][forum]
 
-_Intégration pour afficher le saint du jour et les festivités dans Home Assistant avec support multilingue._
+_Home Assistant integration that exposes the saint of the day and upcoming feast day with multilingual support._
 
-[![Ouvrir dans HACS](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=WadohS&repository=hacs-ephemeride&category=integration)
+[![Open in HACS](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=WadohS&repository=hacs-ephemeride&category=integration)
 
-![Icône Éphéméride](https://raw.githubusercontent.com/WadohS/hacs-ephemeride/main/custom_components/ephemeride/icon.png)
+![Ephemeride icon](https://raw.githubusercontent.com/WadohS/hacs-ephemeride/main/custom_components/ephemeride/icon.png)
 
-## 🌟 Fonctionnalités
+## Features
 
-**Cette intégration créera les plateformes suivantes.**
+This integration creates the following platform:
 
-Plateforme | Description
+Platform | Description
 -- | --
-`sensor` | Capteur affichant le saint du jour avec multiples attributs
+`sensor` | Sensor exposing the main saint of the day and related attributes
 
-### Capteur `sensor.saint_du_jour`
+### `sensor.saint_du_jour`
 
-- **État** : Nom du saint principal du jour
-- **Attributs** :
-  - `saint_demain` : Saint de demain
-  - `langue` : Langue configurée
-  - `date` : Date actuelle
-  - `tous_saints_aujourdhui` : Liste complète des saints du jour (limité à 5)
-  - `tous_saints_demain` : Liste complète des saints de demain (limité à 5)
-  - `nombre_saints_aujourdhui` : Nombre total de saints aujourd'hui
-  - `nombre_saints_demain` : Nombre total de saints demain
+- State: main saint of the current day
+- Attributes:
+  - `saint_demain`: tomorrow's main saint
+  - `langue`: configured language
+  - `date`: current local date in Home Assistant timezone
+  - `tous_saints_aujourdhui`: full list for today, limited to 5 items
+  - `tous_saints_demain`: full list for tomorrow, limited to 5 items
+  - `nombre_saints_aujourdhui`: total number of entries today
+  - `nombre_saints_demain`: total number of entries tomorrow
 
-## 🌍 Langues supportées
+## Supported Languages
 
-L'intégration supporte **6 langues** avec données complètes (366 jours) :
+- French (`fr`)
+- English (`en`)
+- German (`de`)
+- Spanish (`es`)
+- Italian (`it`)
+- Portuguese (`pt`)
 
-- 🇫🇷 **Français** (fr)
-- 🇬🇧 **English** (en)
-- 🇩🇪 **Deutsch** (de)
-- 🇪🇸 **Español** (es)
-- 🇮🇹 **Italiano** (it)
-- 🇵🇹 **Português** (pt)
+## Installation
 
-## 📦 Installation
+### HACS
 
-### Via HACS (Recommandé)
+1. Open HACS in Home Assistant
+2. Go to `Integrations`
+3. Open the menu in the top-right corner and choose `Custom repositories`
+4. Add `https://github.com/WadohS/hacs-ephemeride`
+5. Select the `Integration` category
+6. Search for `Ephemeride` and install it
+7. Restart Home Assistant
 
-#### Installation en 1 clic 🚀
+### Manual installation
 
-[![Ouvrir dans HACS](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=WadohS&repository=hacs-ephemeride&category=integration)
+1. Copy `custom_components/ephemeride` into your Home Assistant `custom_components/` directory
+2. Restart Home Assistant
 
-**Cliquez sur le bouton ci-dessus** pour ajouter automatiquement l'intégration Éphéméride à votre Home Assistant !
+## Configuration
 
-#### Installation manuelle via HACS
+Configuration is fully handled from the UI:
 
-Si le bouton ne fonctionne pas :
+1. Go to `Settings` -> `Devices & Services`
+2. Click `Add integration`
+3. Search for `Ephemeride`
+4. Select the language you want
+5. Submit the form
 
-1. Ouvrez HACS dans votre interface Home Assistant
-2. Allez dans "Intégrations"
-3. Cliquez sur les 3 points en haut à droite ⋮
-4. Sélectionnez "Dépôts personnalisés"
-5. Ajoutez l'URL : `https://github.com/WadohS/hacs-ephemeride`
-6. Catégorie : "Integration"
-7. Recherchez "Éphéméride" et installez-le
-8. Redémarrez Home Assistant
+To change the language later:
 
-### Installation manuelle
+1. Open the `Ephemeride` integration card
+2. Click `Configure`
+3. Select the new language
+4. Submit the form
 
-1. Utilisez votre outil préféré pour ouvrir le répertoire de configuration de Home Assistant (où se trouve `configuration.yaml`)
-2. Si vous n'avez pas de répertoire `custom_components`, créez-le
-3. Dans le répertoire `custom_components`, créez un nouveau dossier appelé `ephemeride`
-4. Téléchargez **tous** les fichiers depuis le répertoire `custom_components/ephemeride/` de ce dépôt
-5. Placez-les dans le nouveau répertoire que vous venez de créer
-6. Redémarrez Home Assistant
+The integration reloads automatically when the language is updated.
 
-## ⚙️ Configuration
-
-La configuration se fait entièrement via l'interface utilisateur :
-
-### Configuration en 1 clic ⚡
-
-[![Ajouter l'intégration](https://my.home-assistant.io/badges/config_flow_start.svg)](https://my.home-assistant.io/redirect/config_flow_start/?domain=ephemeride)
-
-**Cliquez sur le bouton ci-dessus** pour configurer automatiquement l'intégration !
-
-### Configuration manuelle
-
-1. Allez dans **Configuration** → **Intégrations**
-2. Cliquez sur **+ Ajouter une intégration**
-3. Recherchez **Éphéméride**
-4. Sélectionnez votre langue préférée
-5. Cliquez sur **Soumettre**
-
-### Changer de langue
-
-Pour modifier la langue après l'installation :
-
-1. Allez dans **Configuration** → **Intégrations**
-2. Trouvez **Éphéméride**
-3. Cliquez sur **Options**
-4. Sélectionnez la nouvelle langue
-5. L'intégration se recharge automatiquement
-
-## 🎨 Exemples d'utilisation
-
-### Carte Lovelace simple
+## Lovelace Example
 
 ```yaml
 type: entity
 entity: sensor.saint_du_jour
-name: Saint du jour
+name: Saint of the day
 icon: mdi:calendar-star
 ```
 
-### Carte avec saint de demain
-
-```yaml
-type: markdown
-content: |
-  **Saint du jour** : {{ states('sensor.saint_du_jour') }}
-  
-  **Saint de demain** : {{ state_attr('sensor.saint_du_jour', 'saint_demain') }}
-```
-
-### Carte avec tous les saints
-
-```yaml
-type: markdown
-content: |
-  ### 📅 Saints du {{ state_attr('sensor.saint_du_jour', 'date') }}
-  
-  {% for saint in state_attr('sensor.saint_du_jour', 'tous_saints_aujourdhui') %}
-  - {{ saint }}
-  {% endfor %}
-  
-  **Total** : {{ state_attr('sensor.saint_du_jour', 'nombre_saints_aujourdhui') }} saints
-```
-
-### Automatisation - Notification matinale
+## Automation Example
 
 ```yaml
 automation:
-  - alias: "Saint du jour - Notification"
+  - alias: "Saint of the day notification"
     trigger:
       - platform: time
         at: "08:00:00"
     action:
       - service: notify.mobile_app
         data:
-          title: "☀️ Bonjour !"
-          message: "Nous fêtons {{ states('sensor.saint_du_jour') }} aujourd'hui"
+          title: "Saint of the day"
+          message: "Today we celebrate {{ states('sensor.saint_du_jour') }}"
 ```
 
-### Automatisation - Annonce vocale
+## Development Notes
 
-```yaml
-automation:
-  - alias: "Annonce saint du jour"
-    trigger:
-      - platform: time
-        at: "09:00:00"
-    action:
-      - service: tts.google_translate_say
-        data:
-          entity_id: media_player.salon
-          message: "Aujourd'hui nous fêtons {{ states('sensor.saint_du_jour') }}"
-```
+- Language data is stored in `custom_components/ephemeride/languages/`
+- UI translations are stored in `custom_components/ephemeride/translations/`
+- The integration supports both legacy tuple-like entries and plain string lists in language files
 
-## 🐛 Signaler un problème
+## Changelog
 
-Si vous rencontrez un bug ou avez une suggestion :
+### Version 1.2.5
+- Fixed option changes so switching language reloads the integration correctly
+- Fixed date handling to use the Home Assistant timezone instead of raw system time
+- Updated documentation in French and English
 
-1. Vérifiez que vous utilisez la dernière version
-2. Consultez les [issues existantes](https://github.com/WadohS/hacs-ephemeride/issues)
-3. Créez une nouvelle issue avec :
-   - Version de Home Assistant
-   - Version de l'intégration
-   - Langue configurée
-   - Description détaillée du problème
-   - Logs pertinents
+### Version 1.2.4
+- Added official icons and logos
+- Improved compatibility between coordinator data and sensor state handling
 
-## 🤝 Contribuer
+### Version 1.2.3
+- Fixed JSON compatibility across supported language formats
+- Fixed unknown state issues on `sensor.saint_du_jour`
+- Limited large state attributes to avoid recorder size issues
 
-Les contributions sont les bienvenues ! Veuillez consulter notre [Guide de contribution](CONTRIBUTING.md).
+## Support
 
-### Ajouter une nouvelle langue
+If you hit a bug, please open an issue with:
 
-Nous acceptons volontiers les traductions :
-
-1. Créez un fichier JSON dans `custom_components/ephemeride/languages/` (ex: `nl.json`)
-2. Suivez le format des fichiers existants (366 dates)
-3. Ajoutez le code langue dans `SUPPORTED_LANGUAGES` (`const.py`)
-4. Créez le fichier de traduction UI dans `translations/`
-5. Testez et soumettez une pull request !
-
-## 📝 Changelog
-
-### Version 1.2.3 (2025-12-09)
-- 🔧 **FIX MAJEUR** : Correction incompatibilité `__init__.py` ↔ `sensor.py`
-  - `__init__.py` retournait `saint_aujourdhui`, `sensor.py` cherchait `today`
-  - Support universel des formats JSON (tuple et simple)
-- 🐛 **FIX CRITIQUE** : Correction "État Inconnu" sur `sensor.saint_du_jour`
-- 📦 Optimisation : `__init__.py` supporte maintenant `[["Marie", "Sainte"], ...]` et `["Marie", ...]`
-- 🎨 Ajout des icônes et logos officiels (icon.png, logo.png en 256/512px)
-
-### Version 1.2.2 (2025-12-08)
-- 🔧 **FIX CRITIQUE** : Correction `Invalid \escape: line 9 column 9 (char 94)`
-  - Échappement correct des caractères spéciaux dans `fr.json`
-- 🚀 **FIX CRITIQUE** : Correction `Detected blocking call to open()`
-  - Lecture asynchrone avec `aiofiles`
-  - Évite le blocage de l'event loop
-- 📊 **NOUVEAUX ATTRIBUTS** :
-  - `nombre_saints_aujourdhui` : Compteur de saints du jour
-  - `nombre_saints_demain` : Compteur de saints de demain
-- 🔥 **FIX RECORDER** : Limitation à 5 saints dans `tous_saints_aujourdhui/demain`
-  - Résout `State attributes exceed maximum size of 16384 bytes`
-- 📉 Optimisation `fr.json` : **13 KB** (au lieu de 27 KB)
-- 🧹 Nettoyage : Suppression des doublons
-
-### Version 1.1.1
-- 🔧 Fix : Icône Material Design Icons pour compatibilité immédiate
-- ✅ Icône : `mdi:calendar-star`
-
-### Version 1.1.0
-- ✨ Ajout de 5 nouvelles langues (en, de, es, it, pt)
-- 🌍 Support multilingue complet (6 langues)
-- 🔄 Changement de langue sans réinstallation
-- 📚 Interface utilisateur traduite dans toutes les langues
-- 🎨 Icône personnalisée
-
-### Version 1.0.0
-- 🎉 Version initiale
-- 🇫🇷 Support du français
-
-## 📄 Licence
-
-Ce projet est sous licence MIT - voir le fichier [LICENSE](LICENSE) pour plus de détails.
-
-## 🙏 Remerciements
-
-- Communauté Home Assistant pour leur support
-- Tous les contributeurs qui ont ajouté des traductions
-- Les utilisateurs qui signalent des problèmes et suggèrent des améliorations
-
----
-
-**Note** : Cette intégration utilise des données de saints et fêtes adaptées aux traditions culturelles de chaque pays/langue. Les dates et noms peuvent varier selon les calendriers liturgiques locaux.
-
-***
+- Home Assistant version
+- Integration version
+- Selected language
+- Detailed description
+- Relevant logs
 
 [releases-shield]: https://img.shields.io/github/release/WadohS/hacs-ephemeride.svg?style=for-the-badge
 [releases]: https://github.com/WadohS/hacs-ephemeride/releases

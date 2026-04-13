@@ -11,7 +11,7 @@ from homeassistant.helpers.update_coordinator import (
 )
 from homeassistant.helpers.entity import DeviceInfo
 
-from .const import DOMAIN, CONF_LANGUAGE, SENSOR_NAME
+from .const import CONF_LANGUAGE, DOMAIN, INTEGRATION_VERSION, SENSOR_NAME
 
 _LOGGER = logging.getLogger(__name__)
 
@@ -22,7 +22,7 @@ async def async_setup_entry(
     async_add_entities: AddEntitiesCallback,
 ):
     """Configurer le capteur a partir d'une entree de configuration."""
-    coordinator = hass.data[DOMAIN][entry.entry_id]
+    coordinator = hass.data[DOMAIN][entry.entry_id]["coordinator"]
     lang = entry.options.get(CONF_LANGUAGE, entry.data.get(CONF_LANGUAGE, "fr"))
 
     async_add_entities([EphemerideSensor(coordinator, entry, lang)])
@@ -51,7 +51,7 @@ class EphemerideSensor(CoordinatorEntity, SensorEntity):
             name="Ephemeride",
             manufacturer="WadohS",
             model="Ephemeride",
-            sw_version="1.2.2",
+            sw_version=INTEGRATION_VERSION,
         )
 
     @property

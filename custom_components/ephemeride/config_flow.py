@@ -3,7 +3,7 @@ import voluptuous as vol
 from homeassistant import config_entries
 from homeassistant.core import callback
 
-from .const import CONF_LANGUAGE, DOMAIN, SUPPORTED_LANGUAGES
+from .const import CONF_LANGUAGE, DOMAIN, LANGUAGE_OPTIONS
 
 
 class EphemerideConfigFlow(config_entries.ConfigFlow, domain=DOMAIN):
@@ -28,21 +28,11 @@ class EphemerideConfigFlow(config_entries.ConfigFlow, domain=DOMAIN):
         if user_input is not None:
             return self.async_create_entry(title="Éphéméride", data=user_input)
 
-        # Dictionnaire des langues avec leurs noms complets
-        language_options = {
-            "fr": "Français",
-            "en": "English",
-            "de": "Deutsch",
-            "es": "Español",
-            "it": "Italiano",
-            "pt": "Português"
-        }
-
         return self.async_show_form(
             step_id="user",
             data_schema=vol.Schema({
                 vol.Required(CONF_LANGUAGE, default="fr"):
-                    vol.In(language_options)
+                    vol.In(LANGUAGE_OPTIONS)
             })
         )
 
@@ -59,16 +49,6 @@ class OptionsFlowHandler(config_entries.OptionsFlow):
         if user_input is not None:
             return self.async_create_entry(title="", data=user_input)
 
-        # Dictionnaire des langues avec leurs noms complets
-        language_options = {
-            "fr": "Français",
-            "en": "English",
-            "de": "Deutsch",
-            "es": "Español",
-            "it": "Italiano",
-            "pt": "Português"
-        }
-
         # Récupérer la langue actuelle
         current_lang = self.config_entry.options.get(
             CONF_LANGUAGE,
@@ -77,7 +57,7 @@ class OptionsFlowHandler(config_entries.OptionsFlow):
 
         schema = vol.Schema({
             vol.Required(CONF_LANGUAGE, default=current_lang):
-                vol.In(language_options)
+                vol.In(LANGUAGE_OPTIONS)
         })
 
         return self.async_show_form(step_id="init", data_schema=schema)
