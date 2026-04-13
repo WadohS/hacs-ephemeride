@@ -128,12 +128,17 @@ automation:
 - Conversion d'un fichier en objets explicites : `python3 scripts/migrate_language_file.py fr`
 - Écriture réelle du fichier converti : `python3 scripts/migrate_language_file.py fr --write`
 - Les entrées converties utilisent `name` et `type`, avec `source_type` conservé si le fichier d'origine portait déjà une information métier
+- Tous les fichiers de langue fournis sont maintenant stockés comme objets typés explicites
 
 ## Changelog
 
 ### Version 1.3.1
 - Ajout du calcul annuel des dates liturgiques mobiles avec fusion au runtime avec les calendriers par pays
 - Amelioration de la detection des categories pour mieux alimenter les capteurs de fetes et de dates religieuses
+
+### Version 1.3.3
+- Conversion complete de tous les fichiers de langue fournis vers des objets typés explicites
+- Amelioration des heuristiques automatiques pour mieux remplir saints, saintes et fetes dans toutes les langues supportees
 
 ### Version 1.3.2
 - Ajout d'outils de migration progressive pour auditer et typer les fichiers de langue sans perdre les spécificités pays

@@ -1,1463 +1,4379 @@
 {
   "01-01": [
-    "María",
-    "Madre de Dios",
-    "Manuel"
+    {
+      "name": "María",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Madre de Dios",
+      "source_type": "fete",
+      "type": "fete"
+    },
+    {
+      "name": "Manuel",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "01-02": [
-    "Basilio",
-    "Gregorio"
+    {
+      "name": "Basilio",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Gregorio",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "01-03": [
-    "Genoveva",
-    "Daniel"
+    {
+      "name": "Genoveva",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Daniel",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "01-04": [
-    "Rigoberto",
-    "Ángela",
-    "Aquilino"
+    {
+      "name": "Rigoberto",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Ángela",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Aquilino",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "01-05": [
-    "Emiliana",
-    "Telesforo"
+    {
+      "name": "Emiliana",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Telesforo",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "01-06": [
-    "Epifanía",
-    "Melchor",
-    "Gaspar",
-    "Baltasar"
+    {
+      "name": "Epifanía",
+      "source_type": "fete",
+      "type": "fete"
+    },
+    {
+      "name": "Melchor",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Gaspar",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Baltasar",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "01-07": [
-    "Raimundo",
-    "Julián"
+    {
+      "name": "Raimundo",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Julián",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "01-08": [
-    "Severino",
-    "Apolinar",
-    "Luciano"
+    {
+      "name": "Severino",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Apolinar",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Luciano",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "01-09": [
-    "Julián",
-    "Eulogio"
+    {
+      "name": "Julián",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Eulogio",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "01-10": [
-    "Nicanor",
-    "Gonzalo"
+    {
+      "name": "Nicanor",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Gonzalo",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "01-11": [
-    "Higinio",
-    "Martín"
+    {
+      "name": "Higinio",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Martín",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "01-12": [
-    "Alfredo",
-    "Nazario",
-    "Tatiana"
+    {
+      "name": "Alfredo",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Nazario",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Tatiana",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "01-13": [
-    "Hilario",
-    "Gumersindo"
+    {
+      "name": "Hilario",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Gumersindo",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "01-14": [
-    "Fulgencio",
-    "Félix"
+    {
+      "name": "Fulgencio",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Félix",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "01-15": [
-    "Mauro",
-    "Pablo"
+    {
+      "name": "Mauro",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Pablo",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "01-16": [
-    "Marcelo",
-    "Fulgencio"
+    {
+      "name": "Marcelo",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Fulgencio",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "01-17": [
-    "Antonio Abad",
-    "Rosalina"
+    {
+      "name": "Antonio Abad",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Rosalina",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "01-18": [
-    "Beatriz",
-    "Prisca"
+    {
+      "name": "Beatriz",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Prisca",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "01-19": [
-    "Mario",
-    "Pía"
+    {
+      "name": "Mario",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Pía",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "01-20": [
-    "Sebastián",
-    "Fabián"
+    {
+      "name": "Sebastián",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Fabián",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "01-21": [
-    "Inés",
-    "Fructuoso",
-    "Patrocio"
+    {
+      "name": "Inés",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Fructuoso",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Patrocio",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "01-22": [
-    "Vicente",
-    "Anastasio"
+    {
+      "name": "Vicente",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Anastasio",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "01-23": [
-    "Ildefonso",
-    "Severiano"
+    {
+      "name": "Ildefonso",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Severiano",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "01-24": [
-    "Francisco de Sales"
+    {
+      "name": "Francisco de Sales",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "01-25": [
-    "Pablo",
-    "Conversión"
+    {
+      "name": "Pablo",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Conversión",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "01-26": [
-    "Timoteo",
-    "Tito",
-    "Paula"
+    {
+      "name": "Timoteo",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Tito",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Paula",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "01-27": [
-    "Ángela",
-    "Enrique de Ossó"
+    {
+      "name": "Ángela",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Enrique de Ossó",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "01-28": [
-    "Tomás de Aquino",
-    "Valerio"
+    {
+      "name": "Tomás de Aquino",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Valerio",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "01-29": [
-    "Valero",
-    "Pedro Nolasco"
+    {
+      "name": "Valero",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Pedro Nolasco",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "01-30": [
-    "Martina",
-    "Jacinta"
+    {
+      "name": "Martina",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Jacinta",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "01-31": [
-    "Juan Bosco",
-    "Marcela"
+    {
+      "name": "Juan Bosco",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Marcela",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "02-01": [
-    "Cecilio",
-    "Brígida"
+    {
+      "name": "Cecilio",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Brígida",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "02-02": [
-    "Candelaria",
-    "Purificación"
+    {
+      "name": "Candelaria",
+      "source_type": "fete",
+      "type": "fete"
+    },
+    {
+      "name": "Purificación",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "02-03": [
-    "Blas",
-    "Óscar"
+    {
+      "name": "Blas",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Óscar",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "02-04": [
-    "Avelino",
-    "Andrés Corsini"
+    {
+      "name": "Avelino",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Andrés Corsini",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "02-05": [
-    "Águeda",
-    "Felicia"
+    {
+      "name": "Águeda",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Felicia",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "02-06": [
-    "Pablo Miki",
-    "Dorotea"
+    {
+      "name": "Pablo Miki",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Dorotea",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "02-07": [
-    "Ricardo",
-    "Moisés"
+    {
+      "name": "Ricardo",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Moisés",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "02-08": [
-    "Jerónimo Emiliano",
-    "Juan de Mata"
+    {
+      "name": "Jerónimo Emiliano",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Juan de Mata",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "02-09": [
-    "Abelardo",
-    "Apolonia"
+    {
+      "name": "Abelardo",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Apolonia",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "02-10": [
-    "Escolástica",
-    "Jacinto"
+    {
+      "name": "Escolástica",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Jacinto",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "02-11": [
-    "Nuestra Señora de Lourdes"
+    {
+      "name": "Nuestra Señora de Lourdes",
+      "source_type": "fete",
+      "type": "fete"
+    }
   ],
   "02-12": [
-    "Eulalia",
-    "Dámaso"
+    {
+      "name": "Eulalia",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Dámaso",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "02-13": [
-    "Benigno",
-    "Fusca"
+    {
+      "name": "Benigno",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Fusca",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "02-14": [
-    "Valentín",
-    "Cirilo"
+    {
+      "name": "Valentín",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Cirilo",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "02-15": [
-    "Faustino",
-    "Jovita"
+    {
+      "name": "Faustino",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Jovita",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "02-16": [
-    "Elías",
-    "Onésimo"
+    {
+      "name": "Elías",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Onésimo",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "02-17": [
-    "Rómulo",
-    "Alejo"
+    {
+      "name": "Rómulo",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Alejo",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "02-18": [
-    "Eladio",
-    "Flaviano"
+    {
+      "name": "Eladio",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Flaviano",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "02-19": [
-    "Conrado",
-    "Gabino"
+    {
+      "name": "Conrado",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Gabino",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "02-20": [
-    "Eugenio",
-    "Eleuterio"
+    {
+      "name": "Eugenio",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Eleuterio",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "02-21": [
-    "Pedro Damián"
+    {
+      "name": "Pedro Damián",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "02-22": [
-    "Leonor",
-    "Cátedra de San Pedro"
+    {
+      "name": "Leonor",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Cátedra de San Pedro",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "02-23": [
-    "Policarpo",
-    "Romana"
+    {
+      "name": "Policarpo",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Romana",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "02-24": [
-    "Modesto",
-    "Sergio"
+    {
+      "name": "Modesto",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Sergio",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "02-25": [
-    "Cesáreo",
-    "Tarasio",
-    "Walburga"
+    {
+      "name": "Cesáreo",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Tarasio",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Walburga",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "02-26": [
-    "Alejandro",
-    "Néstor"
+    {
+      "name": "Alejandro",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Néstor",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "02-27": [
-    "Baldomero",
-    "Leandro",
-    "Gabriel"
+    {
+      "name": "Baldomero",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Leandro",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Gabriel",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "02-28": [
-    "Román",
-    "Macario"
+    {
+      "name": "Román",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Macario",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "02-29": [
-    "Rufino"
+    {
+      "name": "Rufino",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "03-01": [
-    "Rosendo",
-    "León",
-    "Albino"
+    {
+      "name": "Rosendo",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "León",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Albino",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "03-02": [
-    "Lucio",
-    "Heraclio"
+    {
+      "name": "Lucio",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Heraclio",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "03-03": [
-    "Emeterio",
-    "Celedonio",
-    "Cunegunda"
+    {
+      "name": "Emeterio",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Celedonio",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Cunegunda",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "03-04": [
-    "Casimiro",
-    "Lucio"
+    {
+      "name": "Casimiro",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Lucio",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "03-05": [
-    "Nuestra Señora de África"
+    {
+      "name": "Nuestra Señora de África",
+      "source_type": "fete",
+      "type": "fete"
+    }
   ],
   "03-06": [
-    "Olegario",
-    "Víctor"
+    {
+      "name": "Olegario",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Víctor",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "03-07": [
-    "Perpetua",
-    "Felicidad"
+    {
+      "name": "Perpetua",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Felicidad",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "03-08": [
-    "Juan de Dios"
+    {
+      "name": "Juan de Dios",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "03-09": [
-    "Francisca",
-    "Paciano"
+    {
+      "name": "Francisca",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Paciano",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "03-10": [
-    "Macario",
-    "Cipriano"
+    {
+      "name": "Macario",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Cipriano",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "03-11": [
-    "Ramiro",
-    "Eulogio"
+    {
+      "name": "Ramiro",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Eulogio",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "03-12": [
-    "Inocencio",
-    "Teófanes"
+    {
+      "name": "Inocencio",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Teófanes",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "03-13": [
-    "Cristina",
-    "Rodrigo",
-    "Patricia"
+    {
+      "name": "Cristina",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Rodrigo",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Patricia",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "03-14": [
-    "Matilde",
-    "Florentina"
+    {
+      "name": "Matilde",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Florentina",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "03-15": [
-    "Luisa",
-    "Raimundo",
-    "Madrona"
+    {
+      "name": "Luisa",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Raimundo",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Madrona",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "03-16": [
-    "Natalia",
-    "Columba",
-    "Hilario"
+    {
+      "name": "Natalia",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Columba",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Hilario",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "03-17": [
-    "Patricio",
-    "José de Arimatea"
+    {
+      "name": "Patricio",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "José de Arimatea",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "03-18": [
-    "Cirilo de Jerusalén",
-    "Salvador"
+    {
+      "name": "Cirilo de Jerusalén",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Salvador",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "03-19": [
-    "José",
-    "Apolonio"
+    {
+      "name": "José",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Apolonio",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "03-20": [
-    "Claudia",
-    "Martín"
+    {
+      "name": "Claudia",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Martín",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "03-21": [
-    "Fabiola",
-    "Serapio"
+    {
+      "name": "Fabiola",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Serapio",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "03-22": [
-    "Bienvenido",
-    "Lea"
+    {
+      "name": "Bienvenido",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Lea",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "03-23": [
-    "Rebeca",
-    "Toribio",
-    "José Oriol"
+    {
+      "name": "Rebeca",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Toribio",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "José Oriol",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "03-24": [
-    "Agapito",
-    "Catalina"
+    {
+      "name": "Agapito",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Catalina",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "03-25": [
-    "Anunciación",
-    "Pelagio",
-    "Dimas"
+    {
+      "name": "Anunciación",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Pelagio",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Dimas",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "03-26": [
-    "Braulio",
-    "Cástulo"
+    {
+      "name": "Braulio",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Cástulo",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "03-27": [
-    "Ruperto",
-    "Alejandro"
+    {
+      "name": "Ruperto",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Alejandro",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "03-28": [
-    "Cástor",
-    "Gontrano"
+    {
+      "name": "Cástor",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Gontrano",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "03-29": [
-    "Segundo",
-    "Cirilo"
+    {
+      "name": "Segundo",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Cirilo",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "03-30": [
-    "Juan Clímaco",
-    "Quirino"
+    {
+      "name": "Juan Clímaco",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Quirino",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "03-31": [
-    "Benjamín",
-    "Amadeo"
+    {
+      "name": "Benjamín",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Amadeo",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "04-01": [
-    "Hugo",
-    "Venancio",
-    "Teodora"
+    {
+      "name": "Hugo",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Venancio",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Teodora",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "04-02": [
-    "Francisco de Paula",
-    "María Egipcíaca"
+    {
+      "name": "Francisco de Paula",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "María Egipcíaca",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "04-03": [
-    "Ricardo",
-    "Sixto"
+    {
+      "name": "Ricardo",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Sixto",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "04-04": [
-    "Isidoro",
-    "Benedicto"
+    {
+      "name": "Isidoro",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Benedicto",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "04-05": [
-    "Vicente Ferrer",
-    "Irene"
+    {
+      "name": "Vicente Ferrer",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Irene",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "04-06": [
-    "Guillermo",
-    "Celestino"
+    {
+      "name": "Guillermo",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Celestino",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "04-07": [
-    "Juan Bautista de la Salle"
+    {
+      "name": "Juan Bautista de la Salle",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "04-08": [
-    "Amancio",
-    "Dionisio"
+    {
+      "name": "Amancio",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Dionisio",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "04-09": [
-    "Casilda",
-    "Demetrio"
+    {
+      "name": "Casilda",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Demetrio",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "04-10": [
-    "Ezequiel",
-    "Terencio"
+    {
+      "name": "Ezequiel",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Terencio",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "04-11": [
-    "Estanislao",
-    "Isaac"
+    {
+      "name": "Estanislao",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Isaac",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "04-12": [
-    "Julio",
-    "Zenón"
+    {
+      "name": "Julio",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Zenón",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "04-13": [
-    "Hermenegildo",
-    "Martín"
+    {
+      "name": "Hermenegildo",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Martín",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "04-14": [
-    "Tiburcio",
-    "Valeriano"
+    {
+      "name": "Tiburcio",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Valeriano",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "04-15": [
-    "Anastasia",
-    "César"
+    {
+      "name": "Anastasia",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "César",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "04-16": [
-    "Engracia",
-    "Toribio"
+    {
+      "name": "Engracia",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Toribio",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "04-17": [
-    "Aniceto",
-    "Roberto"
+    {
+      "name": "Aniceto",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Roberto",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "04-18": [
-    "Perfecto",
-    "Eleuterio"
+    {
+      "name": "Perfecto",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Eleuterio",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "04-19": [
-    "León",
-    "Expedito"
+    {
+      "name": "León",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Expedito",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "04-20": [
-    "Inés",
-    "Teodoro"
+    {
+      "name": "Inés",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Teodoro",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "04-21": [
-    "Anselmo",
-    "Simeón"
+    {
+      "name": "Anselmo",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Simeón",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "04-22": [
-    "Sotero",
-    "Cayo",
-    "Leonidas"
+    {
+      "name": "Sotero",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Cayo",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Leonidas",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "04-23": [
-    "Jorge",
-    "Adalberto"
+    {
+      "name": "Jorge",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Adalberto",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "04-24": [
-    "Fidel",
-    "Gregorio"
+    {
+      "name": "Fidel",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Gregorio",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "04-25": [
-    "Marcos",
-    "Aniano"
+    {
+      "name": "Marcos",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Aniano",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "04-26": [
-    "Isidoro",
-    "Cleto"
+    {
+      "name": "Isidoro",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Cleto",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "04-27": [
-    "Zita",
-    "Toribio"
+    {
+      "name": "Zita",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Toribio",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "04-28": [
-    "Pedro Chanel",
-    "Vidal"
+    {
+      "name": "Pedro Chanel",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Vidal",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "04-29": [
-    "Catalina de Siena",
-    "Pedro"
+    {
+      "name": "Catalina de Siena",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Pedro",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "04-30": [
-    "Pío V",
-    "Amador"
+    {
+      "name": "Pío V",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Amador",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "05-01": [
-    "José Obrero",
-    "Jeremías"
+    {
+      "name": "José Obrero",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Jeremías",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "05-02": [
-    "Atanasio",
-    "Zoé"
+    {
+      "name": "Atanasio",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Zoé",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "05-03": [
-    "Felipe",
-    "Santiago",
-    "Alejandro"
+    {
+      "name": "Felipe",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Santiago",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Alejandro",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "05-04": [
-    "Florián",
-    "Mónica"
+    {
+      "name": "Florián",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Mónica",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "05-05": [
-    "Ángel",
-    "Máximo"
+    {
+      "name": "Ángel",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Máximo",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "05-06": [
-    "Juan",
-    "Heliodoro"
+    {
+      "name": "Juan",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Heliodoro",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "05-07": [
-    "Flavia",
-    "Augusto"
+    {
+      "name": "Flavia",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Augusto",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "05-08": [
-    "Víctor",
-    "Acacio"
+    {
+      "name": "Víctor",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Acacio",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "05-09": [
-    "Gregorio",
-    "Pachomio"
+    {
+      "name": "Gregorio",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Pachomio",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "05-10": [
-    "Antonino",
-    "Job"
+    {
+      "name": "Antonino",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Job",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "05-11": [
-    "Ignacio",
-    "Francisco"
+    {
+      "name": "Ignacio",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Francisco",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "05-12": [
-    "Nereo",
-    "Aquiles",
-    "Pancracio"
+    {
+      "name": "Nereo",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Aquiles",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Pancracio",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "05-13": [
-    "Fátima",
-    "María"
+    {
+      "name": "Fátima",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "María",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "05-14": [
-    "Matías",
-    "Bonifacio"
+    {
+      "name": "Matías",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Bonifacio",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "05-15": [
-    "Isidro",
-    "Casio"
+    {
+      "name": "Isidro",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Casio",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "05-16": [
-    "Juan Nepomuceno",
-    "Ubaldo"
+    {
+      "name": "Juan Nepomuceno",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Ubaldo",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "05-17": [
-    "Pascual",
-    "Adriano"
+    {
+      "name": "Pascual",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Adriano",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "05-18": [
-    "Juan I",
-    "Venancio"
+    {
+      "name": "Juan I",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Venancio",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "05-19": [
-    "Celestino",
-    "Pedro"
+    {
+      "name": "Celestino",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Pedro",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "05-20": [
-    "Bernardino",
-    "Tala"
+    {
+      "name": "Bernardino",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Tala",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "05-21": [
-    "Felicia",
-    "Cristóbal"
+    {
+      "name": "Felicia",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Cristóbal",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "05-22": [
-    "Rita",
-    "Joaquina"
+    {
+      "name": "Rita",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Joaquina",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "05-23": [
-    "Desiderio",
-    "Florencio"
+    {
+      "name": "Desiderio",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Florencio",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "05-24": [
-    "María Auxiliadora",
-    "Vicente"
+    {
+      "name": "María Auxiliadora",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Vicente",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "05-25": [
-    "Beda",
-    "Gregorio VII",
-    "Magdalena"
+    {
+      "name": "Beda",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Gregorio VII",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Magdalena",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "05-26": [
-    "Felipe Neri",
-    "Mariana"
+    {
+      "name": "Felipe Neri",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Mariana",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "05-27": [
-    "Agustín",
-    "Julio"
+    {
+      "name": "Agustín",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Julio",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "05-28": [
-    "Germán",
-    "Justo"
+    {
+      "name": "Germán",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Justo",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "05-29": [
-    "Maximino",
-    "Teodosio"
+    {
+      "name": "Maximino",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Teodosio",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "05-30": [
-    "Fernando",
-    "Juana de Arco"
+    {
+      "name": "Fernando",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Juana de Arco",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "05-31": [
-    "Visitación",
-    "Petronila"
+    {
+      "name": "Visitación",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Petronila",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "06-01": [
-    "Justino",
-    "Íñigo"
+    {
+      "name": "Justino",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Íñigo",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "06-02": [
-    "Pedro",
-    "Marcelino",
-    "Erasmo"
+    {
+      "name": "Pedro",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Marcelino",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Erasmo",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "06-03": [
-    "Carlos Lwanga",
-    "Clotilde"
+    {
+      "name": "Carlos Lwanga",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Clotilde",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "06-04": [
-    "Francisco Caracciolo",
-    "Quirino"
+    {
+      "name": "Francisco Caracciolo",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Quirino",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "06-05": [
-    "Bonifacio",
-    "Sancho"
+    {
+      "name": "Bonifacio",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Sancho",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "06-06": [
-    "Norberto",
-    "Ceferino"
+    {
+      "name": "Norberto",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Ceferino",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "06-07": [
-    "Pedro",
-    "Roberto"
+    {
+      "name": "Pedro",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Roberto",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "06-08": [
-    "Medardo",
-    "Salustiano"
+    {
+      "name": "Medardo",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Salustiano",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "06-09": [
-    "Efrén",
-    "Primo"
+    {
+      "name": "Efrén",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Primo",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "06-10": [
-    "Getulio",
-    "Olivia"
+    {
+      "name": "Getulio",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Olivia",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "06-11": [
-    "Bernabé",
-    "Parisio"
+    {
+      "name": "Bernabé",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Parisio",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "06-12": [
-    "Juan de Sahagún",
-    "Onofre"
+    {
+      "name": "Juan de Sahagún",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Onofre",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "06-13": [
-    "Antonio de Padua"
+    {
+      "name": "Antonio de Padua",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "06-14": [
-    "Eliseo",
-    "Basilio"
+    {
+      "name": "Eliseo",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Basilio",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "06-15": [
-    "Vito",
-    "Modesto"
+    {
+      "name": "Vito",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Modesto",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "06-16": [
-    "Aureliano",
-    "Quirico"
+    {
+      "name": "Aureliano",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Quirico",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "06-17": [
-    "Ismael",
-    "Teresa"
+    {
+      "name": "Ismael",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Teresa",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "06-18": [
-    "Marcos",
-    "Marceliano"
+    {
+      "name": "Marcos",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Marceliano",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "06-19": [
-    "Romualdo",
-    "Gervasio"
+    {
+      "name": "Romualdo",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Gervasio",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "06-20": [
-    "Silverio",
-    "Florentina"
+    {
+      "name": "Silverio",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Florentina",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "06-21": [
-    "Luis Gonzaga",
-    "Ralf"
+    {
+      "name": "Luis Gonzaga",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Ralf",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "06-22": [
-    "Paulino",
-    "Tomás Moro",
-    "Juan Fisher"
+    {
+      "name": "Paulino",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Tomás Moro",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Juan Fisher",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "06-23": [
-    "Zenón",
-    "José Cafasso"
+    {
+      "name": "Zenón",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "José Cafasso",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "06-24": [
-    "Juan Bautista"
+    {
+      "name": "Juan Bautista",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "06-25": [
-    "Guillermo",
-    "Próspero"
+    {
+      "name": "Guillermo",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Próspero",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "06-26": [
-    "Pelayo",
-    "Juan",
-    "Pablo"
+    {
+      "name": "Pelayo",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Juan",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Pablo",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "06-27": [
-    "Cirilo",
-    "Ladislao"
+    {
+      "name": "Cirilo",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Ladislao",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "06-28": [
-    "Ireneo",
-    "Argimiro"
+    {
+      "name": "Ireneo",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Argimiro",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "06-29": [
-    "Pedro",
-    "Pablo"
+    {
+      "name": "Pedro",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Pablo",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "06-30": [
-    "Protomártires"
+    {
+      "name": "Protomártires",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "07-01": [
-    "Aarón",
-    "Simeón"
+    {
+      "name": "Aarón",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Simeón",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "07-02": [
-    "Martiniano",
-    "Proceso"
+    {
+      "name": "Martiniano",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Proceso",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "07-03": [
-    "Tomás Apóstol",
-    "Ramón"
+    {
+      "name": "Tomás Apóstol",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Ramón",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "07-04": [
-    "Isabel de Portugal",
-    "Laureano"
+    {
+      "name": "Isabel de Portugal",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Laureano",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "07-05": [
-    "Antonio María Zaccaria",
-    "Atanasio"
+    {
+      "name": "Antonio María Zaccaria",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Atanasio",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "07-06": [
-    "María Goretti",
-    "Isaías"
+    {
+      "name": "María Goretti",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Isaías",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "07-07": [
-    "Fermín",
-    "Claudio"
+    {
+      "name": "Fermín",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Claudio",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "07-08": [
-    "Edgar",
-    "Adriano"
+    {
+      "name": "Edgar",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Adriano",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "07-09": [
-    "Verónica",
-    "Cirilo"
+    {
+      "name": "Verónica",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Cirilo",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "07-10": [
-    "Cristóbal",
-    "Amelia"
+    {
+      "name": "Cristóbal",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Amelia",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "07-11": [
-    "Benito",
-    "Abundio"
+    {
+      "name": "Benito",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Abundio",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "07-12": [
-    "Juan Gualberto",
-    "Félix"
+    {
+      "name": "Juan Gualberto",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Félix",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "07-13": [
-    "Enrique",
-    "Joel"
+    {
+      "name": "Enrique",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Joel",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "07-14": [
-    "Camilo",
-    "Buenaventura"
+    {
+      "name": "Camilo",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Buenaventura",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "07-15": [
-    "Buenaventura",
-    "Enrique"
+    {
+      "name": "Buenaventura",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Enrique",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "07-16": [
-    "Carmen",
-    "Irmina"
+    {
+      "name": "Carmen",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Irmina",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "07-17": [
-    "Alejo",
-    "Marcelina"
+    {
+      "name": "Alejo",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Marcelina",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "07-18": [
-    "Federico",
-    "Sinforosa"
+    {
+      "name": "Federico",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Sinforosa",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "07-19": [
-    "Áurea",
-    "Arsenio"
+    {
+      "name": "Áurea",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Arsenio",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "07-20": [
-    "Margarita",
-    "Elías"
+    {
+      "name": "Margarita",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Elías",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "07-21": [
-    "Lorenzo",
-    "Daniel"
+    {
+      "name": "Lorenzo",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Daniel",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "07-22": [
-    "Magdalena",
-    "Cirila"
+    {
+      "name": "Magdalena",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Cirila",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "07-23": [
-    "Brígida",
-    "Apolinar"
+    {
+      "name": "Brígida",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Apolinar",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "07-24": [
-    "Cristina",
-    "Francisco"
+    {
+      "name": "Cristina",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Francisco",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "07-25": [
-    "Santiago",
-    "Cristóbal"
+    {
+      "name": "Santiago",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Cristóbal",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "07-26": [
-    "Joaquín",
-    "Ana"
+    {
+      "name": "Joaquín",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Ana",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "07-27": [
-    "Celestino",
-    "Pantaleón"
+    {
+      "name": "Celestino",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Pantaleón",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "07-28": [
-    "Nazario",
-    "Inocencio"
+    {
+      "name": "Nazario",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Inocencio",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "07-29": [
-    "Marta",
-    "Flora"
+    {
+      "name": "Marta",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Flora",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "07-30": [
-    "Pedro Crisólogo",
-    "Julita"
+    {
+      "name": "Pedro Crisólogo",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Julita",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "07-31": [
-    "Ignacio de Loyola"
+    {
+      "name": "Ignacio de Loyola",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "08-01": [
-    "Alfonso María",
-    "Pedro"
+    {
+      "name": "Alfonso María",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Pedro",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "08-02": [
-    "Eusebio",
-    "Esteban"
+    {
+      "name": "Eusebio",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Esteban",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "08-03": [
-    "Lidia",
-    "Asprenato"
+    {
+      "name": "Lidia",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Asprenato",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "08-04": [
-    "Juan María Vianney"
+    {
+      "name": "Juan María Vianney",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "08-05": [
-    "Emidio",
-    "Osvaldo"
+    {
+      "name": "Emidio",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Osvaldo",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "08-06": [
-    "Transfiguración",
-    "Salvador"
+    {
+      "name": "Transfiguración",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Salvador",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "08-07": [
-    "Cayetano",
-    "Sixto II",
-    "Donato"
+    {
+      "name": "Cayetano",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Sixto II",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Donato",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "08-08": [
-    "Domingo",
-    "Emiliano"
+    {
+      "name": "Domingo",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Emiliano",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "08-09": [
-    "Teresa Benedicta",
-    "Román"
+    {
+      "name": "Teresa Benedicta",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Román",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "08-10": [
-    "Lorenzo",
-    "Asteria"
+    {
+      "name": "Lorenzo",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Asteria",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "08-11": [
-    "Clara",
-    "Susana"
+    {
+      "name": "Clara",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Susana",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "08-12": [
-    "Porcario",
-    "Herculano"
+    {
+      "name": "Porcario",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Herculano",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "08-13": [
-    "Ponciano",
-    "Hipólito"
+    {
+      "name": "Ponciano",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Hipólito",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "08-14": [
-    "Maximiliano Kolbe"
+    {
+      "name": "Maximiliano Kolbe",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "08-15": [
-    "Asunción",
-    "María"
+    {
+      "name": "Asunción",
+      "source_type": "fete",
+      "type": "fete"
+    },
+    {
+      "name": "María",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "08-16": [
-    "Esteban",
-    "Roque"
+    {
+      "name": "Esteban",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Roque",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "08-17": [
-    "Jacinto",
-    "Beatriz"
+    {
+      "name": "Jacinto",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Beatriz",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "08-18": [
-    "Elena",
-    "Agapito"
+    {
+      "name": "Elena",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Agapito",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "08-19": [
-    "Juan Eudes",
-    "Luis"
+    {
+      "name": "Juan Eudes",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Luis",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "08-20": [
-    "Bernardo",
-    "Samuel"
+    {
+      "name": "Bernardo",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Samuel",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "08-21": [
-    "Pío X",
-    "Cristóbal"
+    {
+      "name": "Pío X",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Cristóbal",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "08-22": [
-    "María Reina",
-    "Timoteo"
+    {
+      "name": "María Reina",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Timoteo",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "08-23": [
-    "Rosa de Lima",
-    "Felipe"
+    {
+      "name": "Rosa de Lima",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Felipe",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "08-24": [
-    "Bartolomé",
-    "Audoeno"
+    {
+      "name": "Bartolomé",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Audoeno",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "08-25": [
-    "Luis",
-    "José de Calasanz",
-    "Patricia"
+    {
+      "name": "Luis",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "José de Calasanz",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Patricia",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "08-26": [
-    "Ceferino",
-    "Alejandro"
+    {
+      "name": "Ceferino",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Alejandro",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "08-27": [
-    "Mónica",
-    "César"
+    {
+      "name": "Mónica",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "César",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "08-28": [
-    "Agustín",
-    "Adelina"
+    {
+      "name": "Agustín",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Adelina",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "08-29": [
-    "Juan Bautista",
-    "Sabina"
+    {
+      "name": "Juan Bautista",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Sabina",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "08-30": [
-    "Rosa de Lima",
-    "Félix"
+    {
+      "name": "Rosa de Lima",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Félix",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "08-31": [
-    "Ramón Nonato"
+    {
+      "name": "Ramón Nonato",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "09-01": [
-    "Gil",
-    "Josué"
+    {
+      "name": "Gil",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Josué",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "09-02": [
-    "Antolín",
-    "Esteban"
+    {
+      "name": "Antolín",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Esteban",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "09-03": [
-    "Gregorio Magno",
-    "Sandalio"
+    {
+      "name": "Gregorio Magno",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Sandalio",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "09-04": [
-    "Rosalía",
-    "Moisés"
+    {
+      "name": "Rosalía",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Moisés",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "09-05": [
-    "Laurencio",
-    "Obdulio"
+    {
+      "name": "Laurencio",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Obdulio",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "09-06": [
-    "Zacarías",
-    "Eleuterio"
+    {
+      "name": "Zacarías",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Eleuterio",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "09-07": [
-    "Regina",
-    "Sofronio"
+    {
+      "name": "Regina",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Sofronio",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "09-08": [
-    "Natividad de María",
-    "Adrián"
+    {
+      "name": "Natividad de María",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Adrián",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "09-09": [
-    "Pedro Claver",
-    "Sergio"
+    {
+      "name": "Pedro Claver",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Sergio",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "09-10": [
-    "Nicolás",
-    "Pulqueria"
+    {
+      "name": "Nicolás",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Pulqueria",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "09-11": [
-    "Prot Serapión"
+    {
+      "name": "Prot Serapión",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "09-12": [
-    "Dulce Nombre de María"
+    {
+      "name": "Dulce Nombre de María",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "09-13": [
-    "Juan Crisóstomo",
-    "Maurilio"
+    {
+      "name": "Juan Crisóstomo",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Maurilio",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "09-14": [
-    "Exaltación de la Cruz"
+    {
+      "name": "Exaltación de la Cruz",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "09-15": [
-    "Dolores de María",
-    "Nicomedes"
+    {
+      "name": "Dolores de María",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Nicomedes",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "09-16": [
-    "Cornelio",
-    "Cipriano",
-    "Eufemia"
+    {
+      "name": "Cornelio",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Cipriano",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Eufemia",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "09-17": [
-    "Roberto Belarmino",
-    "Pedro"
+    {
+      "name": "Roberto Belarmino",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Pedro",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "09-18": [
-    "José de Cupertino",
-    "Sofía"
+    {
+      "name": "José de Cupertino",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Sofía",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "09-19": [
-    "Jenaro",
-    "Constancio"
+    {
+      "name": "Jenaro",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Constancio",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "09-20": [
-    "Eustaquio",
-    "Andrés Kim"
+    {
+      "name": "Eustaquio",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Andrés Kim",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "09-21": [
-    "Mateo",
-    "Jonás"
+    {
+      "name": "Mateo",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Jonás",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "09-22": [
-    "Mauricio",
-    "Emmeran"
+    {
+      "name": "Mauricio",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Emmeran",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "09-23": [
-    "Pío de Pietrelcina",
-    "Lino"
+    {
+      "name": "Pío de Pietrelcina",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Lino",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "09-24": [
-    "Mercedes",
-    "Gerardo"
+    {
+      "name": "Mercedes",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Gerardo",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "09-25": [
-    "Cleofás",
-    "Fermín"
+    {
+      "name": "Cleofás",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Fermín",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "09-26": [
-    "Cosme",
-    "Damián"
+    {
+      "name": "Cosme",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Damián",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "09-27": [
-    "Vicente de Paúl"
+    {
+      "name": "Vicente de Paúl",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "09-28": [
-    "Wenceslao",
-    "Exuperio"
+    {
+      "name": "Wenceslao",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Exuperio",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "09-29": [
-    "Miguel",
-    "Gabriel",
-    "Rafael"
+    {
+      "name": "Miguel",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Gabriel",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Rafael",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "09-30": [
-    "Jerónimo",
-    "Gregorio"
+    {
+      "name": "Jerónimo",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Gregorio",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "10-01": [
-    "Teresa del Niño Jesús",
-    "Remigio"
+    {
+      "name": "Teresa del Niño Jesús",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Remigio",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "10-02": [
-    "Ángeles Custodios"
+    {
+      "name": "Ángeles Custodios",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "10-03": [
-    "Dionisio",
-    "Cándido"
+    {
+      "name": "Dionisio",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Cándido",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "10-04": [
-    "Francisco de Asís"
+    {
+      "name": "Francisco de Asís",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "10-05": [
-    "Froilán",
-    "Plácido"
+    {
+      "name": "Froilán",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Plácido",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "10-06": [
-    "Bruno",
-    "María Francisca"
+    {
+      "name": "Bruno",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "María Francisca",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "10-07": [
-    "Rosario",
-    "Marcos"
+    {
+      "name": "Rosario",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Marcos",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "10-08": [
-    "Pelagia",
-    "Brígida"
+    {
+      "name": "Pelagia",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Brígida",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "10-09": [
-    "Dionisio",
-    "Luis"
+    {
+      "name": "Dionisio",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Luis",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "10-10": [
-    "Francisco Borja",
-    "Daniel"
+    {
+      "name": "Francisco Borja",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Daniel",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "10-11": [
-    "Soledad",
-    "Fermín"
+    {
+      "name": "Soledad",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Fermín",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "10-12": [
-    "Pilar",
-    "Serafín"
+    {
+      "name": "Pilar",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Serafín",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "10-13": [
-    "Eduardo",
-    "Teófilo"
+    {
+      "name": "Eduardo",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Teófilo",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "10-14": [
-    "Calixto",
-    "Fortunato"
+    {
+      "name": "Calixto",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Fortunato",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "10-15": [
-    "Teresa de Jesús"
+    {
+      "name": "Teresa de Jesús",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "10-16": [
-    "Eduvigis",
-    "Galo"
+    {
+      "name": "Eduvigis",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Galo",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "10-17": [
-    "Ignacio de Antioquía"
+    {
+      "name": "Ignacio de Antioquía",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "10-18": [
-    "Lucas",
-    "Justo"
+    {
+      "name": "Lucas",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Justo",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "10-19": [
-    "Pedro de Alcántara",
-    "Isaac"
+    {
+      "name": "Pedro de Alcántara",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Isaac",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "10-20": [
-    "Irene",
-    "Caprasio"
+    {
+      "name": "Irene",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Caprasio",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "10-21": [
-    "Ursula",
-    "Hilarión"
+    {
+      "name": "Ursula",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Hilarión",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "10-22": [
-    "María Salomé",
-    "Donato"
+    {
+      "name": "María Salomé",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Donato",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "10-23": [
-    "Juan de Capistrano",
-    "Severino"
+    {
+      "name": "Juan de Capistrano",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Severino",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "10-24": [
-    "Antonio María Claret",
-    "Rafael"
+    {
+      "name": "Antonio María Claret",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Rafael",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "10-25": [
-    "Daria",
-    "Crispín"
+    {
+      "name": "Daria",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Crispín",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "10-26": [
-    "Evaristo",
-    "Luciano"
+    {
+      "name": "Evaristo",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Luciano",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "10-27": [
-    "Vicente",
-    "Sabina"
+    {
+      "name": "Vicente",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Sabina",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "10-28": [
-    "Simón",
-    "Judas"
+    {
+      "name": "Simón",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Judas",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "10-29": [
-    "Narciso",
-    "Zenobio"
+    {
+      "name": "Narciso",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Zenobio",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "10-30": [
-    "Alonso",
-    "Claudio"
+    {
+      "name": "Alonso",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Claudio",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "10-31": [
-    "Quintín",
-    "Alfonso"
+    {
+      "name": "Quintín",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Alfonso",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "11-01": [
-    "Todos los Santos"
+    {
+      "name": "Todos los Santos",
+      "source_type": "fete",
+      "type": "fete"
+    }
   ],
   "11-02": [
-    "Fieles Difuntos"
+    {
+      "name": "Fieles Difuntos",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "11-03": [
-    "Martín de Porres",
-    "Silvia"
+    {
+      "name": "Martín de Porres",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Silvia",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "11-04": [
-    "Carlos Borromeo"
+    {
+      "name": "Carlos Borromeo",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "11-05": [
-    "Zacarías",
-    "Isabel"
+    {
+      "name": "Zacarías",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Isabel",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "11-06": [
-    "Leonardo",
-    "Severo"
+    {
+      "name": "Leonardo",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Severo",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "11-07": [
-    "Ernesto",
-    "Florencio"
+    {
+      "name": "Ernesto",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Florencio",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "11-08": [
-    "Severiano",
-    "Godofredo"
+    {
+      "name": "Severiano",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Godofredo",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "11-09": [
-    "Teodoro",
-    "Ursino"
+    {
+      "name": "Teodoro",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Ursino",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "11-10": [
-    "León Magno",
-    "Andrés"
+    {
+      "name": "León Magno",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Andrés",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "11-11": [
-    "Martín de Tours"
+    {
+      "name": "Martín de Tours",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "11-12": [
-    "Josafat",
-    "Diego"
+    {
+      "name": "Josafat",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Diego",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "11-13": [
-    "Estanislao",
-    "Leandro"
+    {
+      "name": "Estanislao",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Leandro",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "11-14": [
-    "Clementino",
-    "Serapio"
+    {
+      "name": "Clementino",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Serapio",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "11-15": [
-    "Alberto Magno",
-    "Leopoldo"
+    {
+      "name": "Alberto Magno",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Leopoldo",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "11-16": [
-    "Margarita",
-    "Gertrudis"
+    {
+      "name": "Margarita",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Gertrudis",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "11-17": [
-    "Isabel de Hungría",
-    "Acisclo"
+    {
+      "name": "Isabel de Hungría",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Acisclo",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "11-18": [
-    "Odón",
-    "Tomás"
+    {
+      "name": "Odón",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Tomás",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "11-19": [
-    "Isabel",
-    "Abdías"
+    {
+      "name": "Isabel",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Abdías",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "11-20": [
-    "Félix",
-    "Octavio"
+    {
+      "name": "Félix",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Octavio",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "11-21": [
-    "Presentación de María"
+    {
+      "name": "Presentación de María",
+      "source_type": "fete",
+      "type": "fete"
+    }
   ],
   "11-22": [
-    "Cecilia",
-    "Filemón"
+    {
+      "name": "Cecilia",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Filemón",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "11-23": [
-    "Clemente",
-    "Columbano"
+    {
+      "name": "Clemente",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Columbano",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "11-24": [
-    "Crisógono",
-    "Flora"
+    {
+      "name": "Crisógono",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Flora",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "11-25": [
-    "Catalina",
-    "Erasmo"
+    {
+      "name": "Catalina",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Erasmo",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "11-26": [
-    "Conrado",
-    "Leonardo"
+    {
+      "name": "Conrado",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Leonardo",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "11-27": [
-    "Facundo",
-    "Primitivo"
+    {
+      "name": "Facundo",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Primitivo",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "11-28": [
-    "Catalina Labouré",
-    "Gregorio III"
+    {
+      "name": "Catalina Labouré",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Gregorio III",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "11-29": [
-    "Saturnino",
-    "Iluminada"
+    {
+      "name": "Saturnino",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Iluminada",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "11-30": [
-    "Andrés Apóstol"
+    {
+      "name": "Andrés Apóstol",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "12-01": [
-    "Eloy",
-    "Natalia"
+    {
+      "name": "Eloy",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Natalia",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "12-02": [
-    "Bibiana",
-    "Viviana"
+    {
+      "name": "Bibiana",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Viviana",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "12-03": [
-    "Francisco Javier"
+    {
+      "name": "Francisco Javier",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "12-04": [
-    "Bárbara",
-    "Juan Damasceno"
+    {
+      "name": "Bárbara",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Juan Damasceno",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "12-05": [
-    "Sabas",
-    "Anastasio"
+    {
+      "name": "Sabas",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Anastasio",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "12-06": [
-    "Nicolás",
-    "Leoncio"
+    {
+      "name": "Nicolás",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Leoncio",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "12-07": [
-    "Ambrosio",
-    "María Josefa"
+    {
+      "name": "Ambrosio",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "María Josefa",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "12-08": [
-    "Inmaculada Concepción"
+    {
+      "name": "Inmaculada Concepción",
+      "source_type": "fete",
+      "type": "fete"
+    }
   ],
   "12-09": [
-    "Leocadia",
-    "Pedro Fourier"
+    {
+      "name": "Leocadia",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Pedro Fourier",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "12-10": [
-    "Melquíades",
-    "Eulalia"
+    {
+      "name": "Melquíades",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Eulalia",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "12-11": [
-    "Dámaso",
-    "Daniel"
+    {
+      "name": "Dámaso",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Daniel",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "12-12": [
-    "Guadalupe",
-    "Juana"
+    {
+      "name": "Guadalupe",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Juana",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "12-13": [
-    "Lucía",
-    "Otilia"
+    {
+      "name": "Lucía",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Otilia",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "12-14": [
-    "Juan de la Cruz"
+    {
+      "name": "Juan de la Cruz",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "12-15": [
-    "María Crucificada",
-    "Celso"
+    {
+      "name": "María Crucificada",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Celso",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "12-16": [
-    "Adelaida",
-    "Albina"
+    {
+      "name": "Adelaida",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Albina",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "12-17": [
-    "Lázaro",
-    "Judit"
+    {
+      "name": "Lázaro",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Judit",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "12-18": [
-    "Esperanza",
-    "Gaciano"
+    {
+      "name": "Esperanza",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Gaciano",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "12-19": [
-    "Nemesio",
-    "Urbano"
+    {
+      "name": "Nemesio",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Urbano",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "12-20": [
-    "Domingo",
-    "Teófilo"
+    {
+      "name": "Domingo",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Teófilo",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "12-21": [
-    "Pedro Canisio",
-    "Glicerio"
+    {
+      "name": "Pedro Canisio",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Glicerio",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "12-22": [
-    "Francisca",
-    "Zenón"
+    {
+      "name": "Francisca",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Zenón",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "12-23": [
-    "Victoria",
-    "Servulo"
+    {
+      "name": "Victoria",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Servulo",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "12-24": [
-    "Adán",
-    "Eva"
+    {
+      "name": "Adán",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Eva",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "12-25": [
-    "Navidad",
-    "Jesús"
+    {
+      "name": "Navidad",
+      "source_type": "fete",
+      "type": "fete"
+    },
+    {
+      "name": "Jesús",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "12-26": [
-    "Esteban",
-    "Dionisio"
+    {
+      "name": "Esteban",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Dionisio",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "12-27": [
-    "Juan Evangelista",
-    "Fabio"
+    {
+      "name": "Juan Evangelista",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Fabio",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "12-28": [
-    "Santos Inocentes"
+    {
+      "name": "Santos Inocentes",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "12-29": [
-    "Tomás Becket",
-    "David"
+    {
+      "name": "Tomás Becket",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "David",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "12-30": [
-    "Sabino",
-    "Raín"
+    {
+      "name": "Sabino",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Raín",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "12-31": [
-    "Silvestre",
-    "Melania"
+    {
+      "name": "Silvestre",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Melania",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ]
 }

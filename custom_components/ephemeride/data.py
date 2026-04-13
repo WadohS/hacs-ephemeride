@@ -14,6 +14,9 @@ from .const import (
     DATE_RELIGIEUSE_KEYWORDS,
     EXPLICIT_TYPE_ALIASES,
     FETE_KEYWORDS,
+    FEMALE_NAME_HINTS,
+    FEMALE_SUFFIX_HINTS,
+    MALE_SUFFIX_EXCEPTIONS,
     SAINT_PREFIX_KEYWORDS,
 )
 
@@ -34,6 +37,8 @@ def normalize_entry(raw_entry: object, language: str) -> dict[str, str | None]:
         raw_type = raw_entry.get("type")
         if raw_type is not None:
             raw_type = str(raw_type).strip()
+        if raw_type == CATEGORY_AUTRE and raw_entry.get("source_type") in (None, "autre", "other"):
+            raw_type = None
     elif isinstance(raw_entry, list):
         if raw_entry:
             name = str(raw_entry[0]).strip()
@@ -71,7 +76,7 @@ def classify_entry(name: str, raw_type: str | None, language: str) -> str:
             return category
 
     if raw_type is None:
-        return CATEGORY_AUTRE
+        return guess_untyped_category(name, language)
 
     return CATEGORY_AUTRE
 
@@ -79,6 +84,22 @@ def classify_entry(name: str, raw_type: str | None, language: str) -> str:
 def matches_keywords(value: str, keywords: Iterable[str]) -> bool:
     """Return True if one of the normalized keywords is present."""
     return any(keyword in value for keyword in keywords)
+
+
+def guess_untyped_category(name: str, language: str) -> str:
+    """Infer a category for plain country-specific entries."""
+    normalized_name = strip_accents(name)
+    first_token = normalized_name.split()[0] if normalized_name.split() else ""
+
+    if first_token in FEMALE_NAME_HINTS.get(language, set()):
+        return CATEGORY_SAINTE
+
+    suffixes = FEMALE_SUFFIX_HINTS.get(language, ())
+    male_exceptions = MALE_SUFFIX_EXCEPTIONS.get(language, set())
+    if first_token and first_token not in male_exceptions and first_token.endswith(suffixes):
+        return CATEGORY_SAINTE
+
+    return CATEGORY_SAINT
 
 
 def build_day_payload(raw_entries: list[object], language: str) -> dict[str, object]:

@@ -128,8 +128,13 @@ automation:
 - Convert one file to explicit objects: `python3 scripts/migrate_language_file.py fr`
 - Write the converted file back: `python3 scripts/migrate_language_file.py fr --write`
 - Converted entries use `name` and `type`, and keep `source_type` when the original file already carried a business-specific label
+- All shipped language files are now stored as explicit typed objects
 
 ## Changelog
+
+### Version 1.3.3
+- Fully convert all shipped language files to explicit typed objects
+- Improve automatic typing heuristics so saints, saintes and feasts are populated across all supported languages
 
 ### Version 1.3.2
 - Add progressive migration tools to audit and type language files without losing country-specific calendars

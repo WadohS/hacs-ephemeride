@@ -40,7 +40,8 @@ Le coordinator normalise tous les formats avant d'exposer les donnees du capteur
 - Audit de couverture : `python3 scripts/report_language_typing.py`
 - Conversion d'un fichier : `python3 scripts/migrate_language_file.py <lang>`
 - Ecriture reelle : `python3 scripts/migrate_language_file.py <lang> --write`
+- Les fichiers de langue fournis utilisent maintenant partout des objets typés explicites
 
 ## Version
 
-Version actuelle du composant : `1.3.2`
+Version actuelle du composant : `1.3.3`

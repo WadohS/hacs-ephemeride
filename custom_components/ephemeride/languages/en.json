@@ -1,1147 +1,2799 @@
 {
   "01-01": [
-    "Mary",
-    "Mother of God"
+    {
+      "name": "Mary",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Mother of God",
+      "source_type": "fete",
+      "type": "fete"
+    }
   ],
   "01-02": [
-    "Basil",
-    "Gregory"
+    {
+      "name": "Basil",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Gregory",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "01-03": [
-    "Genevieve"
+    {
+      "name": "Genevieve",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "01-04": [
-    "Elizabeth"
+    {
+      "name": "Elizabeth",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "01-05": [
-    "John"
+    {
+      "name": "John",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "01-06": [
-    "Epiphany"
+    {
+      "name": "Epiphany",
+      "source_type": "fete",
+      "type": "fete"
+    }
   ],
   "01-07": [
-    "Raymond"
+    {
+      "name": "Raymond",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "01-08": [
-    "Severinus"
+    {
+      "name": "Severinus",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "01-09": [
-    "Adrian"
+    {
+      "name": "Adrian",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "01-10": [
-    "William"
+    {
+      "name": "William",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "01-11": [
-    "Theodosious"
+    {
+      "name": "Theodosious",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "01-12": [
-    "Marguerite"
+    {
+      "name": "Marguerite",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "01-13": [
-    "Hilary"
+    {
+      "name": "Hilary",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "01-14": [
-    "Felix"
+    {
+      "name": "Felix",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "01-15": [
-    "Paul"
+    {
+      "name": "Paul",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "01-16": [
-    "Marcellus"
+    {
+      "name": "Marcellus",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "01-17": [
-    "Anthony",
-    "Abbot"
+    {
+      "name": "Anthony",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Abbot",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "01-18": [
-    "Prisca"
+    {
+      "name": "Prisca",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "01-19": [
-    "Marius",
-    "Martha"
+    {
+      "name": "Marius",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Martha",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "01-20": [
-    "Fabian",
-    "Sebastian"
+    {
+      "name": "Fabian",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Sebastian",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "01-21": [
-    "Agnes"
+    {
+      "name": "Agnes",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "01-22": [
-    "Vincent"
+    {
+      "name": "Vincent",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "01-23": [
-    "Ildefonsus"
+    {
+      "name": "Ildefonsus",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "01-24": [
-    "Francis de Sales"
+    {
+      "name": "Francis de Sales",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "01-25": [
-    "Paul",
-    "Conversion"
+    {
+      "name": "Paul",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Conversion",
+      "source_type": "fete",
+      "type": "fete"
+    }
   ],
   "01-26": [
-    "Timothy",
-    "Titus"
+    {
+      "name": "Timothy",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Titus",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "01-27": [
-    "Angela"
+    {
+      "name": "Angela",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "01-28": [
-    "Thomas Aquinas"
+    {
+      "name": "Thomas Aquinas",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "01-29": [
-    "Gildas"
+    {
+      "name": "Gildas",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "01-30": [
-    "Martina"
+    {
+      "name": "Martina",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "01-31": [
-    "John Bosco"
+    {
+      "name": "John Bosco",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "02-01": [
-    "Brigid"
+    {
+      "name": "Brigid",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "02-02": [
-    "Candlemas"
+    {
+      "name": "Candlemas",
+      "source_type": "fete",
+      "type": "fete"
+    }
   ],
   "02-03": [
-    "Blaise",
-    "Ansgar"
+    {
+      "name": "Blaise",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Ansgar",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "02-04": [
-    "Gilbert"
+    {
+      "name": "Gilbert",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "02-05": [
-    "Agatha"
+    {
+      "name": "Agatha",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "02-06": [
-    "Paul Miki",
-    "Dorothy"
+    {
+      "name": "Paul Miki",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Dorothy",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "02-07": [
-    "Richard"
+    {
+      "name": "Richard",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "02-08": [
-    "Jerome"
+    {
+      "name": "Jerome",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "02-09": [
-    "Apollonia"
+    {
+      "name": "Apollonia",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "02-10": [
-    "Scholastica"
+    {
+      "name": "Scholastica",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "02-11": [
-    "Our Lady of Lourdes"
+    {
+      "name": "Our Lady of Lourdes",
+      "source_type": "fete",
+      "type": "fete"
+    }
   ],
   "02-12": [
-    "Meletius"
+    {
+      "name": "Meletius",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "02-13": [
-    "Catherine"
+    {
+      "name": "Catherine",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "02-14": [
-    "Valentine",
-    "Cyril",
-    "Methodius"
+    {
+      "name": "Valentine",
+      "source_type": "date_religieuse",
+      "type": "date_religieuse"
+    },
+    {
+      "name": "Cyril",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Methodius",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "02-15": [
-    "Claude"
+    {
+      "name": "Claude",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "02-16": [
-    "Juliana"
+    {
+      "name": "Juliana",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "02-17": [
-    "Seven Founders"
+    {
+      "name": "Seven Founders",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "02-18": [
-    "Colman"
+    {
+      "name": "Colman",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "02-19": [
-    "Conrad"
+    {
+      "name": "Conrad",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "02-20": [
-    "Eucherius"
+    {
+      "name": "Eucherius",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "02-21": [
-    "Peter Damian"
+    {
+      "name": "Peter Damian",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "02-22": [
-    "Chair of Peter"
+    {
+      "name": "Chair of Peter",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "02-23": [
-    "Polycarp"
+    {
+      "name": "Polycarp",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "02-24": [
-    "Matthias"
+    {
+      "name": "Matthias",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "02-25": [
-    "Walburga"
+    {
+      "name": "Walburga",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "02-26": [
-    "Alexander"
+    {
+      "name": "Alexander",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "02-27": [
-    "Gabriel"
+    {
+      "name": "Gabriel",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "02-28": [
-    "Oswald"
+    {
+      "name": "Oswald",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "02-29": [
-    "Augustus"
+    {
+      "name": "Augustus",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "03-01": [
-    "David"
+    {
+      "name": "David",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "03-02": [
-    "Chad"
+    {
+      "name": "Chad",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "03-03": [
-    "Katharine"
+    {
+      "name": "Katharine",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "03-04": [
-    "Casimir"
+    {
+      "name": "Casimir",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "03-05": [
-    "Adrian"
+    {
+      "name": "Adrian",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "03-06": [
-    "Colette"
+    {
+      "name": "Colette",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "03-07": [
-    "Perpetua",
-    "Felicity"
+    {
+      "name": "Perpetua",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Felicity",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "03-08": [
-    "John of God"
+    {
+      "name": "John of God",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "03-09": [
-    "Frances"
+    {
+      "name": "Frances",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "03-10": [
-    "John"
+    {
+      "name": "John",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "03-11": [
-    "Constantine"
+    {
+      "name": "Constantine",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "03-12": [
-    "Gregory the Great"
+    {
+      "name": "Gregory the Great",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "03-13": [
-    "Euphrasia"
+    {
+      "name": "Euphrasia",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "03-14": [
-    "Matilda"
+    {
+      "name": "Matilda",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "03-15": [
-    "Louise"
+    {
+      "name": "Louise",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "03-16": [
-    "Abraham"
+    {
+      "name": "Abraham",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "03-17": [
-    "Patrick"
+    {
+      "name": "Patrick",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "03-18": [
-    "Cyril of Jerusalem"
+    {
+      "name": "Cyril of Jerusalem",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "03-19": [
-    "Joseph"
+    {
+      "name": "Joseph",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "03-20": [
-    "Cuthbert"
+    {
+      "name": "Cuthbert",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "03-21": [
-    "Benedict"
+    {
+      "name": "Benedict",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "03-22": [
-    "Lea"
+    {
+      "name": "Lea",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "03-23": [
-    "Turibius"
+    {
+      "name": "Turibius",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "03-24": [
-    "Catherine of Sweden"
+    {
+      "name": "Catherine of Sweden",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "03-25": [
-    "Annunciation"
+    {
+      "name": "Annunciation",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "03-26": [
-    "Margaret"
+    {
+      "name": "Margaret",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "03-27": [
-    "Rupert"
+    {
+      "name": "Rupert",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "03-28": [
-    "Gontran"
+    {
+      "name": "Gontran",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "03-29": [
-    "Gwladys"
+    {
+      "name": "Gwladys",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "03-30": [
-    "John"
+    {
+      "name": "John",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "03-31": [
-    "Benjamin"
+    {
+      "name": "Benjamin",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "04-01": [
-    "Hugh"
+    {
+      "name": "Hugh",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "04-02": [
-    "Francis of Paola"
+    {
+      "name": "Francis of Paola",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "04-03": [
-    "Richard"
+    {
+      "name": "Richard",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "04-04": [
-    "Isidore"
+    {
+      "name": "Isidore",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "04-05": [
-    "Vincent Ferrer"
+    {
+      "name": "Vincent Ferrer",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "04-06": [
-    "William"
+    {
+      "name": "William",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "04-07": [
-    "John Baptist de la Salle"
+    {
+      "name": "John Baptist de la Salle",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "04-08": [
-    "Walter"
+    {
+      "name": "Walter",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "04-09": [
-    "Mary Cleophas"
+    {
+      "name": "Mary Cleophas",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "04-10": [
-    "Fulbert"
+    {
+      "name": "Fulbert",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "04-11": [
-    "Stanislaus"
+    {
+      "name": "Stanislaus",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "04-12": [
-    "Julius"
+    {
+      "name": "Julius",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "04-13": [
-    "Martin I"
+    {
+      "name": "Martin I",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "04-14": [
-    "Tiburtius"
+    {
+      "name": "Tiburtius",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "04-15": [
-    "Anastasia"
+    {
+      "name": "Anastasia",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "04-16": [
-    "Benedict Joseph"
+    {
+      "name": "Benedict Joseph",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "04-17": [
-    "Stephen"
+    {
+      "name": "Stephen",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "04-18": [
-    "Apollonius"
+    {
+      "name": "Apollonius",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "04-19": [
-    "Leo"
+    {
+      "name": "Leo",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "04-20": [
-    "Agnes"
+    {
+      "name": "Agnes",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "04-21": [
-    "Anselm"
+    {
+      "name": "Anselm",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "04-22": [
-    "Theodore"
+    {
+      "name": "Theodore",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "04-23": [
-    "George"
+    {
+      "name": "George",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "04-24": [
-    "Fidelis"
+    {
+      "name": "Fidelis",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "04-25": [
-    "Mark"
+    {
+      "name": "Mark",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "04-26": [
-    "Cletus"
+    {
+      "name": "Cletus",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "04-27": [
-    "Zita"
+    {
+      "name": "Zita",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "04-28": [
-    "Peter Chanel"
+    {
+      "name": "Peter Chanel",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "04-29": [
-    "Catherine of Siena"
+    {
+      "name": "Catherine of Siena",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "04-30": [
-    "Pius V"
+    {
+      "name": "Pius V",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "05-01": [
-    "Joseph the Worker"
+    {
+      "name": "Joseph the Worker",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "05-02": [
-    "Athanasius"
+    {
+      "name": "Athanasius",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "05-03": [
-    "Philip",
-    "James"
+    {
+      "name": "Philip",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "James",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "05-04": [
-    "Florian"
+    {
+      "name": "Florian",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "05-05": [
-    "Judith"
+    {
+      "name": "Judith",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "05-06": [
-    "John"
+    {
+      "name": "John",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "05-07": [
-    "Giselle"
+    {
+      "name": "Giselle",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "05-08": [
-    "Victor"
+    {
+      "name": "Victor",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "05-09": [
-    "Pachomius"
+    {
+      "name": "Pachomius",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "05-10": [
-    "Antoninus"
+    {
+      "name": "Antoninus",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "05-11": [
-    "Ignatius"
+    {
+      "name": "Ignatius",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "05-12": [
-    "Nereus",
-    "Achilleus",
-    "Pancras"
+    {
+      "name": "Nereus",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Achilleus",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Pancras",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "05-13": [
-    "Servatius"
+    {
+      "name": "Servatius",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "05-14": [
-    "Matthias"
+    {
+      "name": "Matthias",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "05-15": [
-    "Isidore"
+    {
+      "name": "Isidore",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "05-16": [
-    "Simon Stock"
+    {
+      "name": "Simon Stock",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "05-17": [
-    "Paschal"
+    {
+      "name": "Paschal",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "05-18": [
-    "John I"
+    {
+      "name": "John I",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "05-19": [
-    "Dunstan"
+    {
+      "name": "Dunstan",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "05-20": [
-    "Bernardine"
+    {
+      "name": "Bernardine",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "05-21": [
-    "Christopher"
+    {
+      "name": "Christopher",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "05-22": [
-    "Rita"
+    {
+      "name": "Rita",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "05-23": [
-    "William"
+    {
+      "name": "William",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "05-24": [
-    "David"
+    {
+      "name": "David",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "05-25": [
-    "Bede",
-    "Gregory VII",
-    "Mary Magdalene de Pazzi"
+    {
+      "name": "Bede",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Gregory VII",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Mary Magdalene de Pazzi",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "05-26": [
-    "Philip Neri"
+    {
+      "name": "Philip Neri",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "05-27": [
-    "Augustine of Canterbury"
+    {
+      "name": "Augustine of Canterbury",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "05-28": [
-    "Bernard"
+    {
+      "name": "Bernard",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "05-29": [
-    "Maximinus"
+    {
+      "name": "Maximinus",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "05-30": [
-    "Joan of Arc"
+    {
+      "name": "Joan of Arc",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "05-31": [
-    "Visitation"
+    {
+      "name": "Visitation",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "06-01": [
-    "Justin"
+    {
+      "name": "Justin",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "06-02": [
-    "Marcellinus",
-    "Peter"
+    {
+      "name": "Marcellinus",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Peter",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "06-03": [
-    "Charles Lwanga"
+    {
+      "name": "Charles Lwanga",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "06-04": [
-    "Petroc"
+    {
+      "name": "Petroc",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "06-05": [
-    "Boniface"
+    {
+      "name": "Boniface",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "06-06": [
-    "Norbert"
+    {
+      "name": "Norbert",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "06-07": [
-    "Colman"
+    {
+      "name": "Colman",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "06-08": [
-    "William"
+    {
+      "name": "William",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "06-09": [
-    "Ephrem",
-    "Columba"
+    {
+      "name": "Ephrem",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Columba",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "06-10": [
-    "Margaret"
+    {
+      "name": "Margaret",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "06-11": [
-    "Barnabas"
+    {
+      "name": "Barnabas",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "06-12": [
-    "John"
+    {
+      "name": "John",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "06-13": [
-    "Anthony of Padua"
+    {
+      "name": "Anthony of Padua",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "06-14": [
-    "Basil the Great"
+    {
+      "name": "Basil the Great",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "06-15": [
-    "Vitus"
+    {
+      "name": "Vitus",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "06-16": [
-    "Richard"
+    {
+      "name": "Richard",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "06-17": [
-    "Botulph"
+    {
+      "name": "Botulph",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "06-18": [
-    "Elizabeth"
+    {
+      "name": "Elizabeth",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "06-19": [
-    "Romuald",
-    "Jude"
+    {
+      "name": "Romuald",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Jude",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "06-20": [
-    "Alban"
+    {
+      "name": "Alban",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "06-21": [
-    "Aloysius"
+    {
+      "name": "Aloysius",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "06-22": [
-    "Paulinus",
-    "John Fisher",
-    "Thomas More"
+    {
+      "name": "Paulinus",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "John Fisher",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Thomas More",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "06-23": [
-    "Etheldreda"
+    {
+      "name": "Etheldreda",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "06-24": [
-    "John the Baptist"
+    {
+      "name": "John the Baptist",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "06-25": [
-    "William"
+    {
+      "name": "William",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "06-26": [
-    "John",
-    "Paul"
+    {
+      "name": "John",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Paul",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "06-27": [
-    "Cyril of Alexandria"
+    {
+      "name": "Cyril of Alexandria",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "06-28": [
-    "Irenaeus"
+    {
+      "name": "Irenaeus",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "06-29": [
-    "Peter",
-    "Paul"
+    {
+      "name": "Peter",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Paul",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "06-30": [
-    "First Martyrs"
+    {
+      "name": "First Martyrs",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "07-01": [
-    "Oliver"
+    {
+      "name": "Oliver",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "07-02": [
-    "Otto"
+    {
+      "name": "Otto",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "07-03": [
-    "Thomas"
+    {
+      "name": "Thomas",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "07-04": [
-    "Elizabeth of Portugal"
+    {
+      "name": "Elizabeth of Portugal",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "07-05": [
-    "Anthony Zaccaria"
+    {
+      "name": "Anthony Zaccaria",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "07-06": [
-    "Maria Goretti"
+    {
+      "name": "Maria Goretti",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "07-07": [
-    "Palladius"
+    {
+      "name": "Palladius",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "07-08": [
-    "Edgar"
+    {
+      "name": "Edgar",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "07-09": [
-    "Augustine"
+    {
+      "name": "Augustine",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "07-10": [
-    "Amalburga"
+    {
+      "name": "Amalburga",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "07-11": [
-    "Benedict"
+    {
+      "name": "Benedict",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "07-12": [
-    "John Gualbert"
+    {
+      "name": "John Gualbert",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "07-13": [
-    "Henry",
-    "Mildred"
+    {
+      "name": "Henry",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Mildred",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "07-14": [
-    "Camillus"
+    {
+      "name": "Camillus",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "07-15": [
-    "Bonaventure",
-    "Swithin"
+    {
+      "name": "Bonaventure",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Swithin",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "07-16": [
-    "Our Lady of Mount Carmel"
+    {
+      "name": "Our Lady of Mount Carmel",
+      "source_type": "fete",
+      "type": "fete"
+    }
   ],
   "07-17": [
-    "Leo"
+    {
+      "name": "Leo",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "07-18": [
-    "Frederick"
+    {
+      "name": "Frederick",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "07-19": [
-    "Macrina"
+    {
+      "name": "Macrina",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "07-20": [
-    "Margaret"
+    {
+      "name": "Margaret",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "07-21": [
-    "Lawrence of Brindisi"
+    {
+      "name": "Lawrence of Brindisi",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "07-22": [
-    "Mary Magdalene"
+    {
+      "name": "Mary Magdalene",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "07-23": [
-    "Bridget"
+    {
+      "name": "Bridget",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "07-24": [
-    "Christina"
+    {
+      "name": "Christina",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "07-25": [
-    "James"
+    {
+      "name": "James",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "07-26": [
-    "Joachim",
-    "Ann"
+    {
+      "name": "Joachim",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Ann",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "07-27": [
-    "Pantaleon"
+    {
+      "name": "Pantaleon",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "07-28": [
-    "Samson"
+    {
+      "name": "Samson",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "07-29": [
-    "Martha",
-    "Mary",
-    "Lazarus"
+    {
+      "name": "Martha",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Mary",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Lazarus",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "07-30": [
-    "Peter Chrysologus"
+    {
+      "name": "Peter Chrysologus",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "07-31": [
-    "Ignatius of Loyola"
+    {
+      "name": "Ignatius of Loyola",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "08-01": [
-    "Alphonsus"
+    {
+      "name": "Alphonsus",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "08-02": [
-    "Eusebius"
+    {
+      "name": "Eusebius",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "08-03": [
-    "Lydia"
+    {
+      "name": "Lydia",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "08-04": [
-    "John Vianney"
+    {
+      "name": "John Vianney",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "08-05": [
-    "Dedication of St. Mary Major"
+    {
+      "name": "Dedication of St. Mary Major",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "08-06": [
-    "Transfiguration"
+    {
+      "name": "Transfiguration",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "08-07": [
-    "Sixtus II",
-    "Cajetan"
+    {
+      "name": "Sixtus II",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Cajetan",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "08-08": [
-    "Dominic"
+    {
+      "name": "Dominic",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "08-09": [
-    "Teresa Benedicta"
+    {
+      "name": "Teresa Benedicta",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "08-10": [
-    "Lawrence"
+    {
+      "name": "Lawrence",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "08-11": [
-    "Clare"
+    {
+      "name": "Clare",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "08-12": [
-    "Porcarius"
+    {
+      "name": "Porcarius",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "08-13": [
-    "Pontian",
-    "Hippolytus"
+    {
+      "name": "Pontian",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Hippolytus",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "08-14": [
-    "Maximilian Kolbe"
+    {
+      "name": "Maximilian Kolbe",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "08-15": [
-    "Assumption"
+    {
+      "name": "Assumption",
+      "source_type": "fete",
+      "type": "fete"
+    }
   ],
   "08-16": [
-    "Stephen of Hungary"
+    {
+      "name": "Stephen of Hungary",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "08-17": [
-    "Hyacinth"
+    {
+      "name": "Hyacinth",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "08-18": [
-    "Helena"
+    {
+      "name": "Helena",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "08-19": [
-    "John Eudes"
+    {
+      "name": "John Eudes",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "08-20": [
-    "Bernard"
+    {
+      "name": "Bernard",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "08-21": [
-    "Pius X"
+    {
+      "name": "Pius X",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "08-22": [
-    "Queenship of Mary"
+    {
+      "name": "Queenship of Mary",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "08-23": [
-    "Rose of Lima"
+    {
+      "name": "Rose of Lima",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "08-24": [
-    "Bartholomew"
+    {
+      "name": "Bartholomew",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "08-25": [
-    "Louis",
-    "Joseph Calasanz"
+    {
+      "name": "Louis",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Joseph Calasanz",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "08-26": [
-    "Zephyrinus"
+    {
+      "name": "Zephyrinus",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "08-27": [
-    "Monica"
+    {
+      "name": "Monica",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "08-28": [
-    "Augustine"
+    {
+      "name": "Augustine",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "08-29": [
-    "John the Baptist"
+    {
+      "name": "John the Baptist",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "08-30": [
-    "Margaret"
+    {
+      "name": "Margaret",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "08-31": [
-    "Aidan"
+    {
+      "name": "Aidan",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "09-01": [
-    "Giles"
+    {
+      "name": "Giles",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "09-02": [
-    "Ingrid"
+    {
+      "name": "Ingrid",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "09-03": [
-    "Gregory the Great"
+    {
+      "name": "Gregory the Great",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "09-04": [
-    "Rose"
+    {
+      "name": "Rose",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "09-05": [
-    "Teresa"
+    {
+      "name": "Teresa",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "09-06": [
-    "Zachary"
+    {
+      "name": "Zachary",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "09-07": [
-    "Regina"
+    {
+      "name": "Regina",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "09-08": [
-    "Birth of Mary"
+    {
+      "name": "Birth of Mary",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "09-09": [
-    "Peter Claver"
+    {
+      "name": "Peter Claver",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "09-10": [
-    "Nicholas"
+    {
+      "name": "Nicholas",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "09-11": [
-    "Deiniol"
+    {
+      "name": "Deiniol",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "09-12": [
-    "Holy Name of Mary"
+    {
+      "name": "Holy Name of Mary",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "09-13": [
-    "John Chrysostom"
+    {
+      "name": "John Chrysostom",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "09-14": [
-    "Exaltation of the Cross"
+    {
+      "name": "Exaltation of the Cross",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "09-15": [
-    "Our Lady of Sorrows"
+    {
+      "name": "Our Lady of Sorrows",
+      "source_type": "fete",
+      "type": "fete"
+    }
   ],
   "09-16": [
-    "Cornelius",
-    "Cyprian"
+    {
+      "name": "Cornelius",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Cyprian",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "09-17": [
-    "Robert Bellarmine"
+    {
+      "name": "Robert Bellarmine",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "09-18": [
-    "Joseph"
+    {
+      "name": "Joseph",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "09-19": [
-    "Januarius"
+    {
+      "name": "Januarius",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "09-20": [
-    "Andrew Kim"
+    {
+      "name": "Andrew Kim",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "09-21": [
-    "Matthew"
+    {
+      "name": "Matthew",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "09-22": [
-    "Maurice"
+    {
+      "name": "Maurice",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "09-23": [
-    "Pio of Pietrelcina"
+    {
+      "name": "Pio of Pietrelcina",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "09-24": [
-    "Gerard"
+    {
+      "name": "Gerard",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "09-25": [
-    "Finbarr"
+    {
+      "name": "Finbarr",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "09-26": [
-    "Cosmas",
-    "Damian"
+    {
+      "name": "Cosmas",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Damian",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "09-27": [
-    "Vincent de Paul"
+    {
+      "name": "Vincent de Paul",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "09-28": [
-    "Wenceslaus",
-    "Lawrence Ruiz"
+    {
+      "name": "Wenceslaus",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Lawrence Ruiz",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "09-29": [
-    "Michael",
-    "Gabriel",
-    "Raphael"
+    {
+      "name": "Michael",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Gabriel",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Raphael",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "09-30": [
-    "Jerome"
+    {
+      "name": "Jerome",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "10-01": [
-    "Theresa of the Child Jesus"
+    {
+      "name": "Theresa of the Child Jesus",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "10-02": [
-    "Guardian Angels"
+    {
+      "name": "Guardian Angels",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "10-03": [
-    "Gerard"
+    {
+      "name": "Gerard",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "10-04": [
-    "Francis of Assisi"
+    {
+      "name": "Francis of Assisi",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "10-05": [
-    "Faustina"
+    {
+      "name": "Faustina",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "10-06": [
-    "Bruno"
+    {
+      "name": "Bruno",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "10-07": [
-    "Our Lady of the Rosary"
+    {
+      "name": "Our Lady of the Rosary",
+      "source_type": "fete",
+      "type": "fete"
+    }
   ],
   "10-08": [
-    "Pelagia"
+    {
+      "name": "Pelagia",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "10-09": [
-    "Denis",
-    "John Leonardi"
+    {
+      "name": "Denis",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "John Leonardi",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "10-10": [
-    "Francis Borgia"
+    {
+      "name": "Francis Borgia",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "10-11": [
-    "Kenneth"
+    {
+      "name": "Kenneth",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "10-12": [
-    "Wilfrid"
+    {
+      "name": "Wilfrid",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "10-13": [
-    "Edward"
+    {
+      "name": "Edward",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "10-14": [
-    "Callistus"
+    {
+      "name": "Callistus",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "10-15": [
-    "Teresa of Avila"
+    {
+      "name": "Teresa of Avila",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "10-16": [
-    "Hedwig",
-    "Margaret Mary"
+    {
+      "name": "Hedwig",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Margaret Mary",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "10-17": [
-    "Ignatius of Antioch"
+    {
+      "name": "Ignatius of Antioch",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "10-18": [
-    "Luke"
+    {
+      "name": "Luke",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "10-19": [
-    "Isaac Jogues",
-    "Paul of the Cross"
+    {
+      "name": "Isaac Jogues",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Paul of the Cross",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "10-20": [
-    "Bertilla"
+    {
+      "name": "Bertilla",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "10-21": [
-    "Hilarion"
+    {
+      "name": "Hilarion",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "10-22": [
-    "Philip"
+    {
+      "name": "Philip",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "10-23": [
-    "John of Capistrano"
+    {
+      "name": "John of Capistrano",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "10-24": [
-    "Anthony Mary Claret"
+    {
+      "name": "Anthony Mary Claret",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "10-25": [
-    "Crispin",
-    "Crispinian"
+    {
+      "name": "Crispin",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Crispinian",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "10-26": [
-    "Cedd"
+    {
+      "name": "Cedd",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "10-27": [
-    "Frumentius"
+    {
+      "name": "Frumentius",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "10-28": [
-    "Simon",
-    "Jude"
+    {
+      "name": "Simon",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Jude",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "10-29": [
-    "Narcissus"
+    {
+      "name": "Narcissus",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "10-30": [
-    "Marcellus"
+    {
+      "name": "Marcellus",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "10-31": [
-    "Wolfgang"
+    {
+      "name": "Wolfgang",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "11-01": [
-    "All Saints"
+    {
+      "name": "All Saints",
+      "source_type": "fete",
+      "type": "fete"
+    }
   ],
   "11-02": [
-    "All Souls"
+    {
+      "name": "All Souls",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "11-03": [
-    "Martin de Porres"
+    {
+      "name": "Martin de Porres",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "11-04": [
-    "Charles Borromeo"
+    {
+      "name": "Charles Borromeo",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "11-05": [
-    "Elizabeth"
+    {
+      "name": "Elizabeth",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "11-06": [
-    "Leonard"
+    {
+      "name": "Leonard",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "11-07": [
-    "Willibrord"
+    {
+      "name": "Willibrord",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "11-08": [
-    "Godfrey"
+    {
+      "name": "Godfrey",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "11-09": [
-    "Dedication of St. John Lateran"
+    {
+      "name": "Dedication of St. John Lateran",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "11-10": [
-    "Leo the Great"
+    {
+      "name": "Leo the Great",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "11-11": [
-    "Martin of Tours"
+    {
+      "name": "Martin of Tours",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "11-12": [
-    "Josaphat"
+    {
+      "name": "Josaphat",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "11-13": [
-    "Frances Xavier Cabrini"
+    {
+      "name": "Frances Xavier Cabrini",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "11-14": [
-    "Lawrence"
+    {
+      "name": "Lawrence",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "11-15": [
-    "Albert the Great"
+    {
+      "name": "Albert the Great",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "11-16": [
-    "Margaret of Scotland",
-    "Gertrude"
+    {
+      "name": "Margaret of Scotland",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Gertrude",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "11-17": [
-    "Elizabeth of Hungary"
+    {
+      "name": "Elizabeth of Hungary",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "11-18": [
-    "Rose Philippine"
+    {
+      "name": "Rose Philippine",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "11-19": [
-    "Mechthilde"
+    {
+      "name": "Mechthilde",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "11-20": [
-    "Edmund"
+    {
+      "name": "Edmund",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "11-21": [
-    "Presentation of Mary"
+    {
+      "name": "Presentation of Mary",
+      "source_type": "fete",
+      "type": "fete"
+    }
   ],
   "11-22": [
-    "Cecilia"
+    {
+      "name": "Cecilia",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "11-23": [
-    "Clement",
-    "Columban"
+    {
+      "name": "Clement",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Columban",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "11-24": [
-    "Andrew Dung-Lac"
+    {
+      "name": "Andrew Dung-Lac",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "11-25": [
-    "Catherine of Alexandria"
+    {
+      "name": "Catherine of Alexandria",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "11-26": [
-    "Leonard"
+    {
+      "name": "Leonard",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "11-27": [
-    "Virgil"
+    {
+      "name": "Virgil",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "11-28": [
-    "Catherine Laboure"
+    {
+      "name": "Catherine Laboure",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "11-29": [
-    "Saturninus"
+    {
+      "name": "Saturninus",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "11-30": [
-    "Andrew"
+    {
+      "name": "Andrew",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "12-01": [
-    "Edmund"
+    {
+      "name": "Edmund",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "12-02": [
-    "Chromatius"
+    {
+      "name": "Chromatius",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "12-03": [
-    "Francis Xavier"
+    {
+      "name": "Francis Xavier",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "12-04": [
-    "John Damascene"
+    {
+      "name": "John Damascene",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "12-05": [
-    "Sabas"
+    {
+      "name": "Sabas",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "12-06": [
-    "Nicholas"
+    {
+      "name": "Nicholas",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "12-07": [
-    "Ambrose"
+    {
+      "name": "Ambrose",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "12-08": [
-    "Immaculate Conception"
+    {
+      "name": "Immaculate Conception",
+      "source_type": "fete",
+      "type": "fete"
+    }
   ],
   "12-09": [
-    "Juan Diego"
+    {
+      "name": "Juan Diego",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "12-10": [
-    "Our Lady of Loreto"
+    {
+      "name": "Our Lady of Loreto",
+      "source_type": "fete",
+      "type": "fete"
+    }
   ],
   "12-11": [
-    "Damasus"
+    {
+      "name": "Damasus",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "12-12": [
-    "Our Lady of Guadalupe"
+    {
+      "name": "Our Lady of Guadalupe",
+      "source_type": "fete",
+      "type": "fete"
+    }
   ],
   "12-13": [
-    "Lucy"
+    {
+      "name": "Lucy",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "12-14": [
-    "John of the Cross"
+    {
+      "name": "John of the Cross",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "12-15": [
-    "Nino"
+    {
+      "name": "Nino",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "12-16": [
-    "Adelaide"
+    {
+      "name": "Adelaide",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "12-17": [
-    "Olympias"
+    {
+      "name": "Olympias",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "12-18": [
-    "Gatian"
+    {
+      "name": "Gatian",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "12-19": [
-    "Urban"
+    {
+      "name": "Urban",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "12-20": [
-    "Dominic"
+    {
+      "name": "Dominic",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "12-21": [
-    "Peter Canisius"
+    {
+      "name": "Peter Canisius",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "12-22": [
-    "Chaeremon"
+    {
+      "name": "Chaeremon",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "12-23": [
-    "John of Kanty"
+    {
+      "name": "John of Kanty",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "12-24": [
-    "Adam",
-    "Eve"
+    {
+      "name": "Adam",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Eve",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "12-25": [
-    "Christmas",
-    "Jesus"
+    {
+      "name": "Christmas",
+      "source_type": "fete",
+      "type": "fete"
+    },
+    {
+      "name": "Jesus",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "12-26": [
-    "Stephen"
+    {
+      "name": "Stephen",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "12-27": [
-    "John",
-    "Apostle"
+    {
+      "name": "John",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Apostle",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "12-28": [
-    "Holy Innocents"
+    {
+      "name": "Holy Innocents",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "12-29": [
-    "Thomas Becket"
+    {
+      "name": "Thomas Becket",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "12-30": [
-    "Egwin"
+    {
+      "name": "Egwin",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "12-31": [
-    "Sylvester"
+    {
+      "name": "Sylvester",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ]
 }

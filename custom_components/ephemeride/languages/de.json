@@ -1,1497 +1,4549 @@
 {
   "01-01": [
-    "Maria",
-    "Neujahr"
+    {
+      "name": "Maria",
+      "source_type": "fete",
+      "type": "fete"
+    },
+    {
+      "name": "Neujahr",
+      "source_type": "fete",
+      "type": "fete"
+    }
   ],
   "01-02": [
-    "Makarius",
-    "Gregor",
-    "Otfried",
-    "Dietmar"
+    {
+      "name": "Makarius",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Gregor",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Otfried",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Dietmar",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "01-03": [
-    "Genoveva",
-    "Odilo",
-    "Irma"
+    {
+      "name": "Genoveva",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Odilo",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Irma",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "01-04": [
-    "Angelika",
-    "Christiane"
+    {
+      "name": "Angelika",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Christiane",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "01-05": [
-    "Emilia",
-    "Johann Nepomuk"
+    {
+      "name": "Emilia",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Johann Nepomuk",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "01-06": [
-    "Heilige Drei Könige",
-    "Raimund"
+    {
+      "name": "Heilige Drei Könige",
+      "source_type": "fete",
+      "type": "fete"
+    },
+    {
+      "name": "Raimund",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "01-07": [
-    "Reinhold",
-    "Valentin"
+    {
+      "name": "Reinhold",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Valentin",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "01-08": [
-    "Severin",
-    "Erhard",
-    "Gudula"
+    {
+      "name": "Severin",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Erhard",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Gudula",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "01-09": [
-    "Adrian",
-    "Julian",
-    "Alice"
+    {
+      "name": "Adrian",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Julian",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Alice",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "01-10": [
-    "Paul",
-    "Leonie"
+    {
+      "name": "Paul",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Leonie",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "01-11": [
-    "Thomas"
+    {
+      "name": "Thomas",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "01-12": [
-    "Ernst",
-    "Tatjana"
+    {
+      "name": "Ernst",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Tatjana",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "01-13": [
-    "Jutta",
-    "Hilarius"
+    {
+      "name": "Jutta",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Hilarius",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "01-14": [
-    "Felix",
-    "Rainer"
+    {
+      "name": "Felix",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Rainer",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "01-15": [
-    "Arnold",
-    "Romedius",
-    "Arno"
+    {
+      "name": "Arnold",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Romedius",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Arno",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "01-16": [
-    "Marcel",
-    "Tilman"
+    {
+      "name": "Marcel",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Tilman",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "01-17": [
-    "Anton",
-    "Rosalind"
+    {
+      "name": "Anton",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Rosalind",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "01-18": [
-    "Ulfried",
-    "Margitta"
+    {
+      "name": "Ulfried",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Margitta",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "01-19": [
-    "Mario",
-    "Martha"
+    {
+      "name": "Mario",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Martha",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "01-20": [
-    "Fabian",
-    "Sebastian",
-    "Ursula"
+    {
+      "name": "Fabian",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Sebastian",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Ursula",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "01-21": [
-    "Agnes",
-    "Meinrad",
-    "Ines"
+    {
+      "name": "Agnes",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Meinrad",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Ines",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "01-22": [
-    "Vinzenz",
-    "Dietlinde"
+    {
+      "name": "Vinzenz",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Dietlinde",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "01-23": [
-    "Hartmut",
-    "Emerentia"
+    {
+      "name": "Hartmut",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Emerentia",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "01-24": [
-    "Franz von Sales",
-    "Vera"
+    {
+      "name": "Franz von Sales",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Vera",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "01-25": [
-    "Pauli Bekehrung",
-    "Wolfram"
+    {
+      "name": "Pauli Bekehrung",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Wolfram",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "01-26": [
-    "Timotheus",
-    "Titus",
-    "Paula"
+    {
+      "name": "Timotheus",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Titus",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Paula",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "01-27": [
-    "Angela",
-    "Alrun"
+    {
+      "name": "Angela",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Alrun",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "01-28": [
-    "Thomas von Aquin",
-    "Manfred"
+    {
+      "name": "Thomas von Aquin",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Manfred",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "01-29": [
-    "Gerhard",
-    "Josef"
+    {
+      "name": "Gerhard",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Josef",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "01-30": [
-    "Martina",
-    "Adelgunde"
+    {
+      "name": "Martina",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Adelgunde",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "01-31": [
-    "Johannes Bosco",
-    "Marcella"
+    {
+      "name": "Johannes Bosco",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Marcella",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "02-01": [
-    "Brigitta",
-    "Brigitte",
-    "Reginald"
+    {
+      "name": "Brigitta",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Brigitte",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Reginald",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "02-02": [
-    "Mariä Lichtmess",
-    "Bodo"
+    {
+      "name": "Mariä Lichtmess",
+      "source_type": "fete",
+      "type": "fete"
+    },
+    {
+      "name": "Bodo",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "02-03": [
-    "Blasius",
-    "Ansgar",
-    "Oskar"
+    {
+      "name": "Blasius",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Ansgar",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Oskar",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "02-04": [
-    "Andreas",
-    "Veronika"
+    {
+      "name": "Andreas",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Veronika",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "02-05": [
-    "Agatha",
-    "Albuin"
+    {
+      "name": "Agatha",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Albuin",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "02-06": [
-    "Dorothea",
-    "Doris",
-    "Paul"
+    {
+      "name": "Dorothea",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Doris",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Paul",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "02-07": [
-    "Richard",
-    "Ronan"
+    {
+      "name": "Richard",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Ronan",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "02-08": [
-    "Hieronymus",
-    "Elfrieda"
+    {
+      "name": "Hieronymus",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Elfrieda",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "02-09": [
-    "Apollonia",
-    "Anna",
-    "Katharina"
+    {
+      "name": "Apollonia",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Anna",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Katharina",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "02-10": [
-    "Scholastika",
-    "Bruno"
+    {
+      "name": "Scholastika",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Bruno",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "02-11": [
-    "Maria von Lourdes",
-    "Theodora"
+    {
+      "name": "Maria von Lourdes",
+      "source_type": "fete",
+      "type": "fete"
+    },
+    {
+      "name": "Theodora",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "02-12": [
-    "Benedikt",
-    "Eulalia"
+    {
+      "name": "Benedikt",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Eulalia",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "02-13": [
-    "Christina",
-    "Adolf"
+    {
+      "name": "Christina",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Adolf",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "02-14": [
-    "Valentin",
-    "Cyrill",
-    "Method"
+    {
+      "name": "Valentin",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Cyrill",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Method",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "02-15": [
-    "Siegfried",
-    "Georgia"
+    {
+      "name": "Siegfried",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Georgia",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "02-16": [
-    "Juliana"
+    {
+      "name": "Juliana",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "02-17": [
-    "Alexis",
-    "Benignus"
+    {
+      "name": "Alexis",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Benignus",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "02-18": [
-    "Constanze",
-    "Simon"
+    {
+      "name": "Constanze",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Simon",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "02-19": [
-    "Irmgard"
+    {
+      "name": "Irmgard",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "02-20": [
-    "Corona",
-    "Falko"
+    {
+      "name": "Corona",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Falko",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "02-21": [
-    "Petrus Damian",
-    "Peter"
+    {
+      "name": "Petrus Damian",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Peter",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "02-22": [
-    "Petri Stuhlfeier",
-    "Isabella"
+    {
+      "name": "Petri Stuhlfeier",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Isabella",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "02-23": [
-    "Polykarp",
-    "Romana"
+    {
+      "name": "Polykarp",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Romana",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "02-24": [
-    "Matthias"
+    {
+      "name": "Matthias",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "02-25": [
-    "Walburga",
-    "Edeltraud"
+    {
+      "name": "Walburga",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Edeltraud",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "02-26": [
-    "Mechthild",
-    "Gerlinde"
+    {
+      "name": "Mechthild",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Gerlinde",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "02-27": [
-    "Gabriel",
-    "Markus"
+    {
+      "name": "Gabriel",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Markus",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "02-28": [
-    "Roman",
-    "Oswald"
+    {
+      "name": "Roman",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Oswald",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "02-29": [
-    "Oswald"
+    {
+      "name": "Oswald",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "03-01": [
-    "Albin",
-    "Roger"
+    {
+      "name": "Albin",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Roger",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "03-02": [
-    "Volker",
-    "Agnes"
+    {
+      "name": "Volker",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Agnes",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "03-03": [
-    "Kunigunde",
-    "Friedrich"
+    {
+      "name": "Kunigunde",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Friedrich",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "03-04": [
-    "Kasimir",
-    "Edwin"
+    {
+      "name": "Kasimir",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Edwin",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "03-05": [
-    "Gerda",
-    "Olivia"
+    {
+      "name": "Gerda",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Olivia",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "03-06": [
-    "Fridolin",
-    "Nicole"
+    {
+      "name": "Fridolin",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Nicole",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "03-07": [
-    "Reinhard",
-    "Felicitas",
-    "Perpetua"
+    {
+      "name": "Reinhard",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Felicitas",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Perpetua",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "03-08": [
-    "Johannes von Gott"
+    {
+      "name": "Johannes von Gott",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "03-09": [
-    "Franziska",
-    "Bruno",
-    "Dominik"
+    {
+      "name": "Franziska",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Bruno",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Dominik",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "03-10": [
-    "Emil",
-    "Gustav"
+    {
+      "name": "Emil",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Gustav",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "03-11": [
-    "Rosina",
-    "Ulrich"
+    {
+      "name": "Rosina",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Ulrich",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "03-12": [
-    "Beatrix",
-    "Almut"
+    {
+      "name": "Beatrix",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Almut",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "03-13": [
-    "Judith",
-    "Pauline"
+    {
+      "name": "Judith",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Pauline",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "03-14": [
-    "Mathilde",
-    "Eva"
+    {
+      "name": "Mathilde",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Eva",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "03-15": [
-    "Klemens",
-    "Louise"
+    {
+      "name": "Klemens",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Louise",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "03-16": [
-    "Herbert",
-    "Rüdiger"
+    {
+      "name": "Herbert",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Rüdiger",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "03-17": [
-    "Gertrud",
-    "Patrick"
+    {
+      "name": "Gertrud",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Patrick",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "03-18": [
-    "Edward",
-    "Cyrill"
+    {
+      "name": "Edward",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Cyrill",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "03-19": [
-    "Josef",
-    "Josefa",
-    "Josefine"
+    {
+      "name": "Josef",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Josefa",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Josefine",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "03-20": [
-    "Claudia",
-    "Wolfram"
+    {
+      "name": "Claudia",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Wolfram",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "03-21": [
-    "Christian",
-    "Axel"
+    {
+      "name": "Christian",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Axel",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "03-22": [
-    "Lea",
-    "Elmar"
+    {
+      "name": "Lea",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Elmar",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "03-23": [
-    "Otto",
-    "Rebekka"
+    {
+      "name": "Otto",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Rebekka",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "03-24": [
-    "Karin",
-    "Elias"
+    {
+      "name": "Karin",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Elias",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "03-25": [
-    "Verkündigung des Herrn",
-    "Lucia"
+    {
+      "name": "Verkündigung des Herrn",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Lucia",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "03-26": [
-    "Ludger",
-    "Manuel",
-    "Lara"
+    {
+      "name": "Ludger",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Manuel",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Lara",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "03-27": [
-    "Augusta",
-    "Ernst"
+    {
+      "name": "Augusta",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Ernst",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "03-28": [
-    "Guntram",
-    "Willy"
+    {
+      "name": "Guntram",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Willy",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "03-29": [
-    "Helmut",
-    "Berthold"
+    {
+      "name": "Helmut",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Berthold",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "03-30": [
-    "Amadeus",
-    "Diemut"
+    {
+      "name": "Amadeus",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Diemut",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "03-31": [
-    "Cornelia",
-    "Benjamin"
+    {
+      "name": "Cornelia",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Benjamin",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "04-01": [
-    "Irene",
-    "Hugo"
+    {
+      "name": "Irene",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Hugo",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "04-02": [
-    "Franz von Paola",
-    "Mirjam",
-    "Sandra"
+    {
+      "name": "Franz von Paola",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Mirjam",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Sandra",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "04-03": [
-    "Richard",
-    "Lisa"
+    {
+      "name": "Richard",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Lisa",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "04-04": [
-    "Isidor",
-    "Konrad"
+    {
+      "name": "Isidor",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Konrad",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "04-05": [
-    "Crescentia",
-    "Vinzenz",
-    "Juliane"
+    {
+      "name": "Crescentia",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Vinzenz",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Juliane",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "04-06": [
-    "Sixtus",
-    "William"
+    {
+      "name": "Sixtus",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "William",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "04-07": [
-    "Johann Baptist de la Salle"
+    {
+      "name": "Johann Baptist de la Salle",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "04-08": [
-    "Walter",
-    "Beate"
+    {
+      "name": "Walter",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Beate",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "04-09": [
-    "Waltraud",
-    "Hugo"
+    {
+      "name": "Waltraud",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Hugo",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "04-10": [
-    "Engelbert",
-    "Ezechiel"
+    {
+      "name": "Engelbert",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Ezechiel",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "04-11": [
-    "Stanislaus",
-    "Reiner"
+    {
+      "name": "Stanislaus",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Reiner",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "04-12": [
-    "Herta",
-    "Julius"
+    {
+      "name": "Herta",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Julius",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "04-13": [
-    "Ida",
-    "Martin"
+    {
+      "name": "Ida",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Martin",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "04-14": [
-    "Ernestine"
+    {
+      "name": "Ernestine",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "04-15": [
-    "Anastasia",
-    "Damian"
+    {
+      "name": "Anastasia",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Damian",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "04-16": [
-    "Bernadette",
-    "Magnus"
+    {
+      "name": "Bernadette",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Magnus",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "04-17": [
-    "Eberhard",
-    "Wanda"
+    {
+      "name": "Eberhard",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Wanda",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "04-18": [
-    "Werner"
+    {
+      "name": "Werner",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "04-19": [
-    "Gerold",
-    "Emma",
-    "Leo"
+    {
+      "name": "Gerold",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Emma",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Leo",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "04-20": [
-    "Hildegund"
+    {
+      "name": "Hildegund",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "04-21": [
-    "Alexandra",
-    "Anselm"
+    {
+      "name": "Alexandra",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Anselm",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "04-22": [
-    "Alfred",
-    "Leonidas"
+    {
+      "name": "Alfred",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Leonidas",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "04-23": [
-    "Georg",
-    "Jörg",
-    "Jürgen"
+    {
+      "name": "Georg",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Jörg",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Jürgen",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "04-24": [
-    "Wilfried",
-    "Egbert"
+    {
+      "name": "Wilfried",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Egbert",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "04-25": [
-    "Markus",
-    "Erwin"
+    {
+      "name": "Markus",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Erwin",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "04-26": [
-    "Helene"
+    {
+      "name": "Helene",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "04-27": [
-    "Zita",
-    "Petrus"
+    {
+      "name": "Zita",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Petrus",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "04-28": [
-    "Hugo",
-    "Ludwig"
+    {
+      "name": "Hugo",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Ludwig",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "04-29": [
-    "Katharina von Siena",
-    "Katja"
+    {
+      "name": "Katharina von Siena",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Katja",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "04-30": [
-    "Pauline",
-    "Pius"
+    {
+      "name": "Pauline",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Pius",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "05-01": [
-    "Josef der Arbeiter",
-    "Arnold"
+    {
+      "name": "Josef der Arbeiter",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Arnold",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "05-02": [
-    "Siegmund",
-    "Boris"
+    {
+      "name": "Siegmund",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Boris",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "05-03": [
-    "Philipp",
-    "Jakob",
-    "Alexander"
+    {
+      "name": "Philipp",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Jakob",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Alexander",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "05-04": [
-    "Florian",
-    "Valeria"
+    {
+      "name": "Florian",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Valeria",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "05-05": [
-    "Gotthard",
-    "Sigrid",
-    "Jutta"
+    {
+      "name": "Gotthard",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Sigrid",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Jutta",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "05-06": [
-    "Gundula",
-    "Antonia"
+    {
+      "name": "Gundula",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Antonia",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "05-07": [
-    "Gisela",
-    "Notker"
+    {
+      "name": "Gisela",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Notker",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "05-08": [
-    "Ida",
-    "Ulrike"
+    {
+      "name": "Ida",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Ulrike",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "05-09": [
-    "Beat",
-    "Caroline",
-    "Theresia"
+    {
+      "name": "Beat",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Caroline",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Theresia",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "05-10": [
-    "Isidor",
-    "Damian"
+    {
+      "name": "Isidor",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Damian",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "05-11": [
-    "Joachim",
-    "Mamertus"
+    {
+      "name": "Joachim",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Mamertus",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "05-12": [
-    "Pankratius",
-    "Imelda"
+    {
+      "name": "Pankratius",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Imelda",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "05-13": [
-    "Servatius",
-    "Rolanda"
+    {
+      "name": "Servatius",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Rolanda",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "05-14": [
-    "Bonifatius",
-    "Christian"
+    {
+      "name": "Bonifatius",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Christian",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "05-15": [
-    "Sophie",
-    "Sonja"
+    {
+      "name": "Sophie",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Sonja",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "05-16": [
-    "Johann Nepomuk",
-    "Adolf"
+    {
+      "name": "Johann Nepomuk",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Adolf",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "05-17": [
-    "Dietmar",
-    "Pascal"
+    {
+      "name": "Dietmar",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Pascal",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "05-18": [
-    "Erich",
-    "Erika",
-    "Felix"
+    {
+      "name": "Erich",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Erika",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Felix",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "05-19": [
-    "Ivo",
-    "Yvonne"
+    {
+      "name": "Ivo",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Yvonne",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "05-20": [
-    "Bernhardin",
-    "Elfriede"
+    {
+      "name": "Bernhardin",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Elfriede",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "05-21": [
-    "Hermann",
-    "Konstantin"
+    {
+      "name": "Hermann",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Konstantin",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "05-22": [
-    "Julia",
-    "Rita",
-    "Renate"
+    {
+      "name": "Julia",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Rita",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Renate",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "05-23": [
-    "Renate",
-    "Désirée"
+    {
+      "name": "Renate",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Désirée",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "05-24": [
-    "Dagmar",
-    "Esther"
+    {
+      "name": "Dagmar",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Esther",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "05-25": [
-    "Urban",
-    "Beda",
-    "Magdalena"
+    {
+      "name": "Urban",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Beda",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Magdalena",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "05-26": [
-    "Marianne",
-    "Philipp Neri"
+    {
+      "name": "Marianne",
+      "source_type": "fete",
+      "type": "fete"
+    },
+    {
+      "name": "Philipp Neri",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "05-27": [
-    "August",
-    "Bruno"
+    {
+      "name": "August",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Bruno",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "05-28": [
-    "Wilhelm",
-    "German"
+    {
+      "name": "Wilhelm",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "German",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "05-29": [
-    "Erwin",
-    "Maximin"
+    {
+      "name": "Erwin",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Maximin",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "05-30": [
-    "Ferdinand",
-    "Johanna"
+    {
+      "name": "Ferdinand",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Johanna",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "05-31": [
-    "Petra",
-    "Mechthild"
+    {
+      "name": "Petra",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Mechthild",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "06-01": [
-    "Simeon",
-    "Silvana"
+    {
+      "name": "Simeon",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Silvana",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "06-02": [
-    "Armin",
-    "Erasmus"
+    {
+      "name": "Armin",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Erasmus",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "06-03": [
-    "Karl",
-    "Silvia"
+    {
+      "name": "Karl",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Silvia",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "06-04": [
-    "Christa",
-    "Eva"
+    {
+      "name": "Christa",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Eva",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "06-05": [
-    "Bonifatius",
-    "Erika"
+    {
+      "name": "Bonifatius",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Erika",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "06-06": [
-    "Norbert",
-    "Kevin"
+    {
+      "name": "Norbert",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Kevin",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "06-07": [
-    "Robert",
-    "Gottlieb"
+    {
+      "name": "Robert",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Gottlieb",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "06-08": [
-    "Medardus",
-    "Chlodwig"
+    {
+      "name": "Medardus",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Chlodwig",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "06-09": [
-    "Ephrem",
-    "Diana"
+    {
+      "name": "Ephrem",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Diana",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "06-10": [
-    "Diana",
-    "Heinrich",
-    "Olivia"
+    {
+      "name": "Diana",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Heinrich",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Olivia",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "06-11": [
-    "Paula",
-    "Barnabas"
+    {
+      "name": "Paula",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Barnabas",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "06-12": [
-    "Guido",
-    "Leo"
+    {
+      "name": "Guido",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Leo",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "06-13": [
-    "Antonius von Padua",
-    "Bernhard"
+    {
+      "name": "Antonius von Padua",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Bernhard",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "06-14": [
-    "Hartwig",
-    "Meinrad"
+    {
+      "name": "Hartwig",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Meinrad",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "06-15": [
-    "Veit",
-    "Lothar",
-    "Bernhard"
+    {
+      "name": "Veit",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Lothar",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Bernhard",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "06-16": [
-    "Benno",
-    "Luitgard"
+    {
+      "name": "Benno",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Luitgard",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "06-17": [
-    "Adolf",
-    "Volker"
+    {
+      "name": "Adolf",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Volker",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "06-18": [
-    "Elisabeth",
-    "Marina"
+    {
+      "name": "Elisabeth",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Marina",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "06-19": [
-    "Juliana",
-    "Romuald"
+    {
+      "name": "Juliana",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Romuald",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "06-20": [
-    "Adalbert",
-    "Margot"
+    {
+      "name": "Adalbert",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Margot",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "06-21": [
-    "Alois",
-    "Alban"
+    {
+      "name": "Alois",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Alban",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "06-22": [
-    "Thomas Morus"
+    {
+      "name": "Thomas Morus",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "06-23": [
-    "Edeltraud",
-    "Marion"
+    {
+      "name": "Edeltraud",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Marion",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "06-24": [
-    "Johannes der Täufer"
+    {
+      "name": "Johannes der Täufer",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "06-25": [
-    "Eleonora",
-    "Dorothea"
+    {
+      "name": "Eleonora",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Dorothea",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "06-26": [
-    "David",
-    "Konstantin"
+    {
+      "name": "David",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Konstantin",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "06-27": [
-    "Hemma",
-    "Cyrill"
+    {
+      "name": "Hemma",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Cyrill",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "06-28": [
-    "Harald",
-    "Irenäus"
+    {
+      "name": "Harald",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Irenäus",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "06-29": [
-    "Peter",
-    "Paul"
+    {
+      "name": "Peter",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Paul",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "06-30": [
-    "Otto",
-    "Bertram"
+    {
+      "name": "Otto",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Bertram",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "07-01": [
-    "Dietrich",
-    "Aaron",
-    "Regina"
+    {
+      "name": "Dietrich",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Aaron",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Regina",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "07-02": [
-    "Mariä Heimsuchung",
-    "Jakob"
+    {
+      "name": "Mariä Heimsuchung",
+      "source_type": "fete",
+      "type": "fete"
+    },
+    {
+      "name": "Jakob",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "07-03": [
-    "Thomas",
-    "Ramon"
+    {
+      "name": "Thomas",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Ramon",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "07-04": [
-    "Ulrich",
-    "Berta",
-    "Elisabeth"
+    {
+      "name": "Ulrich",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Berta",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Elisabeth",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "07-05": [
-    "Albrecht",
-    "Letizia"
+    {
+      "name": "Albrecht",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Letizia",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "07-06": [
-    "Marietta",
-    "Isaias"
+    {
+      "name": "Marietta",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Isaias",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "07-07": [
-    "Willibald",
-    "Edda"
+    {
+      "name": "Willibald",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Edda",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "07-08": [
-    "Kilian",
-    "Amalia",
-    "Edgar"
+    {
+      "name": "Kilian",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Amalia",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Edgar",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "07-09": [
-    "Veronika",
-    "Hermine"
+    {
+      "name": "Veronika",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Hermine",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "07-10": [
-    "Engelbert",
-    "Raphael"
+    {
+      "name": "Engelbert",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Raphael",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "07-11": [
-    "Olga",
-    "Oliver",
-    "Benedikt"
+    {
+      "name": "Olga",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Oliver",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Benedikt",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "07-12": [
-    "Siegbert",
-    "Henriette",
-    "Felix"
+    {
+      "name": "Siegbert",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Henriette",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Felix",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "07-13": [
-    "Heinrich",
-    "Sarah"
+    {
+      "name": "Heinrich",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Sarah",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "07-14": [
-    "Roland",
-    "Camillo"
+    {
+      "name": "Roland",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Camillo",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "07-15": [
-    "Bonaventura",
-    "Egon"
+    {
+      "name": "Bonaventura",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Egon",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "07-16": [
-    "Carmen",
-    "Irmgard"
+    {
+      "name": "Carmen",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Irmgard",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "07-17": [
-    "Gabriella",
-    "Charlotte"
+    {
+      "name": "Gabriella",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Charlotte",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "07-18": [
-    "Arnulf",
-    "Friedrich"
+    {
+      "name": "Arnulf",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Friedrich",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "07-19": [
-    "Marina",
-    "Reto"
+    {
+      "name": "Marina",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Reto",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "07-20": [
-    "Margaretha",
-    "Elias"
+    {
+      "name": "Margaretha",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Elias",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "07-21": [
-    "Daniel",
-    "Stella",
-    "Julia"
+    {
+      "name": "Daniel",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Stella",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Julia",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "07-22": [
-    "Magdalena",
-    "Marlene",
-    "Verena"
+    {
+      "name": "Magdalena",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Marlene",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Verena",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "07-23": [
-    "Birgitta",
-    "Birgit"
+    {
+      "name": "Birgitta",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Birgit",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "07-24": [
-    "Christoph",
-    "Luise"
+    {
+      "name": "Christoph",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Luise",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "07-25": [
-    "Jakob",
-    "Valentina"
+    {
+      "name": "Jakob",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Valentina",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "07-26": [
-    "Anna",
-    "Joachim"
+    {
+      "name": "Anna",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Joachim",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "07-27": [
-    "Rudolf",
-    "Pantaleon",
-    "Natalie"
+    {
+      "name": "Rudolf",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Pantaleon",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Natalie",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "07-28": [
-    "Adele",
-    "Innozenz"
+    {
+      "name": "Adele",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Innozenz",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "07-29": [
-    "Martha",
-    "Olaf",
-    "Flora"
+    {
+      "name": "Martha",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Olaf",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Flora",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "07-30": [
-    "Ingeborg",
-    "Petrus"
+    {
+      "name": "Ingeborg",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Petrus",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "07-31": [
-    "Ignatius",
-    "Joseph"
+    {
+      "name": "Ignatius",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Joseph",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "08-01": [
-    "Alfons",
-    "Peter"
+    {
+      "name": "Alfons",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Peter",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "08-02": [
-    "Eusebius",
-    "Adriana"
+    {
+      "name": "Eusebius",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Adriana",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "08-03": [
-    "Lydia",
-    "August"
+    {
+      "name": "Lydia",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "August",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "08-04": [
-    "Johannes",
-    "Rainer"
+    {
+      "name": "Johannes",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Rainer",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "08-05": [
-    "Oswald",
-    "Maria Schnee"
+    {
+      "name": "Oswald",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Maria Schnee",
+      "source_type": "fete",
+      "type": "fete"
+    }
   ],
   "08-06": [
-    "Christi Verklärung",
-    "Gilbert"
+    {
+      "name": "Christi Verklärung",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Gilbert",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "08-07": [
-    "Cajetan",
-    "Afra",
-    "Albert"
+    {
+      "name": "Cajetan",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Afra",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Albert",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "08-08": [
-    "Dominik",
-    "Cyriak"
+    {
+      "name": "Dominik",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Cyriak",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "08-09": [
-    "Edith",
-    "Roman"
+    {
+      "name": "Edith",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Roman",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "08-10": [
-    "Laurenz",
-    "Lars",
-    "Astrid"
+    {
+      "name": "Laurenz",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Lars",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Astrid",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "08-11": [
-    "Klara",
-    "Philomena"
+    {
+      "name": "Klara",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Philomena",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "08-12": [
-    "Radegunde",
-    "Andreas"
+    {
+      "name": "Radegunde",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Andreas",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "08-13": [
-    "Hippolyt",
-    "Markus"
+    {
+      "name": "Hippolyt",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Markus",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "08-14": [
-    "Maximilian Kolbe"
+    {
+      "name": "Maximilian Kolbe",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "08-15": [
-    "Mariä Himmelfahrt"
+    {
+      "name": "Mariä Himmelfahrt",
+      "source_type": "fete",
+      "type": "fete"
+    }
   ],
   "08-16": [
-    "Stefan",
-    "Stephanie"
+    {
+      "name": "Stefan",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Stephanie",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "08-17": [
-    "Gudrun",
-    "Hyazinth"
+    {
+      "name": "Gudrun",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Hyazinth",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "08-18": [
-    "Helena",
-    "Claudia"
+    {
+      "name": "Helena",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Claudia",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "08-19": [
-    "Sebald",
-    "Johann"
+    {
+      "name": "Sebald",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Johann",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "08-20": [
-    "Bernhard",
-    "Samuel"
+    {
+      "name": "Bernhard",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Samuel",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "08-21": [
-    "Pius",
-    "Maximilian"
+    {
+      "name": "Pius",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Maximilian",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "08-22": [
-    "Regina",
-    "Maria Regina"
+    {
+      "name": "Regina",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Maria Regina",
+      "source_type": "fete",
+      "type": "fete"
+    }
   ],
   "08-23": [
-    "Rosa",
-    "Isolde"
+    {
+      "name": "Rosa",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Isolde",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "08-24": [
-    "Bartholomäus",
-    "Michaela"
+    {
+      "name": "Bartholomäus",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Michaela",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "08-25": [
-    "Ludwig",
-    "Patricia"
+    {
+      "name": "Ludwig",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Patricia",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "08-26": [
-    "Patricia",
-    "Teresa"
+    {
+      "name": "Patricia",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Teresa",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "08-27": [
-    "Monika",
-    "Gebhard"
+    {
+      "name": "Monika",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Gebhard",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "08-28": [
-    "Augustin",
-    "Adelinde"
+    {
+      "name": "Augustin",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Adelinde",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "08-29": [
-    "Johannes",
-    "Beatrice"
+    {
+      "name": "Johannes",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Beatrice",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "08-30": [
-    "Felix",
-    "Rebekka"
+    {
+      "name": "Felix",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Rebekka",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "08-31": [
-    "Raimund",
-    "Paulinus"
+    {
+      "name": "Raimund",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Paulinus",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "09-01": [
-    "Verena",
-    "Ruth",
-    "Ägidius"
+    {
+      "name": "Verena",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Ruth",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Ägidius",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "09-02": [
-    "Ingrid",
-    "René"
+    {
+      "name": "Ingrid",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "René",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "09-03": [
-    "Gregor",
-    "Silvia"
+    {
+      "name": "Gregor",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Silvia",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "09-04": [
-    "Rosalie",
-    "Ida",
-    "Iris"
+    {
+      "name": "Rosalie",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Ida",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Iris",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "09-05": [
-    "Roswitha",
-    "Urs"
+    {
+      "name": "Roswitha",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Urs",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "09-06": [
-    "Magnus",
-    "Beate"
+    {
+      "name": "Magnus",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Beate",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "09-07": [
-    "Regina",
-    "Otto"
+    {
+      "name": "Regina",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Otto",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "09-08": [
-    "Mariä Geburt",
-    "Adrian"
+    {
+      "name": "Mariä Geburt",
+      "source_type": "fete",
+      "type": "fete"
+    },
+    {
+      "name": "Adrian",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "09-09": [
-    "Otmar",
-    "Edgar"
+    {
+      "name": "Otmar",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Edgar",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "09-10": [
-    "Diethard",
-    "Isabella"
+    {
+      "name": "Diethard",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Isabella",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "09-11": [
-    "Helga",
-    "Felix"
+    {
+      "name": "Helga",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Felix",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "09-12": [
-    "Maria Namen"
+    {
+      "name": "Maria Namen",
+      "source_type": "fete",
+      "type": "fete"
+    }
   ],
   "09-13": [
-    "Notburga",
-    "Tobias"
+    {
+      "name": "Notburga",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Tobias",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "09-14": [
-    "Kreuzerhöhung",
-    "Albert"
+    {
+      "name": "Kreuzerhöhung",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Albert",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "09-15": [
-    "Dolores",
-    "Melitta"
+    {
+      "name": "Dolores",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Melitta",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "09-16": [
-    "Edith",
-    "Ludmilla",
-    "Cornelius"
+    {
+      "name": "Edith",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Ludmilla",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Cornelius",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "09-17": [
-    "Hildegard",
-    "Robert"
+    {
+      "name": "Hildegard",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Robert",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "09-18": [
-    "Lambert",
-    "Rica"
+    {
+      "name": "Lambert",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Rica",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "09-19": [
-    "Wilhelmine",
-    "Januarius"
+    {
+      "name": "Wilhelmine",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Januarius",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "09-20": [
-    "Hertha",
-    "Susanna"
+    {
+      "name": "Hertha",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Susanna",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "09-21": [
-    "Matthäus",
-    "Deborah"
+    {
+      "name": "Matthäus",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Deborah",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "09-22": [
-    "Mauritius",
-    "Gundula"
+    {
+      "name": "Mauritius",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Gundula",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "09-23": [
-    "Linus",
-    "Thekla"
+    {
+      "name": "Linus",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Thekla",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "09-24": [
-    "Rupert",
-    "Gerhard"
+    {
+      "name": "Rupert",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Gerhard",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "09-25": [
-    "Klaus",
-    "Irmfried"
+    {
+      "name": "Klaus",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Irmfried",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "09-26": [
-    "Kosmas",
-    "Damian"
+    {
+      "name": "Kosmas",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Damian",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "09-27": [
-    "Vinzenz",
-    "Dietrich"
+    {
+      "name": "Vinzenz",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Dietrich",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "09-28": [
-    "Wenzel",
-    "Lioba"
+    {
+      "name": "Wenzel",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Lioba",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "09-29": [
-    "Michael",
-    "Gabriel",
-    "Raphael"
+    {
+      "name": "Michael",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Gabriel",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Raphael",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "09-30": [
-    "Hieronymus",
-    "Victor"
+    {
+      "name": "Hieronymus",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Victor",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "10-01": [
-    "Theresia",
-    "Werner"
+    {
+      "name": "Theresia",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Werner",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "10-02": [
-    "Schutzengel"
+    {
+      "name": "Schutzengel",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "10-03": [
-    "Ewald",
-    "Udo"
+    {
+      "name": "Ewald",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Udo",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "10-04": [
-    "Franz von Assisi",
-    "Edwin"
+    {
+      "name": "Franz von Assisi",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Edwin",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "10-05": [
-    "Herwig",
-    "Meinolf"
+    {
+      "name": "Herwig",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Meinolf",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "10-06": [
-    "Bruno",
-    "Melanie"
+    {
+      "name": "Bruno",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Melanie",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "10-07": [
-    "Rosa Maria",
-    "Justina"
+    {
+      "name": "Rosa Maria",
+      "source_type": "fete",
+      "type": "fete"
+    },
+    {
+      "name": "Justina",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "10-08": [
-    "Günther",
-    "Laura"
+    {
+      "name": "Günther",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Laura",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "10-09": [
-    "Sibylle",
-    "Sara",
-    "Dionys"
+    {
+      "name": "Sibylle",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Sara",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Dionys",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "10-10": [
-    "Viktor",
-    "Samuel"
+    {
+      "name": "Viktor",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Samuel",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "10-11": [
-    "Alexander",
-    "Georg"
+    {
+      "name": "Alexander",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Georg",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "10-12": [
-    "Maximilian",
-    "Horst"
+    {
+      "name": "Maximilian",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Horst",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "10-13": [
-    "Edward",
-    "Koloman"
+    {
+      "name": "Edward",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Koloman",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "10-14": [
-    "Burkhard",
-    "Calixtus"
+    {
+      "name": "Burkhard",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Calixtus",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "10-15": [
-    "Theresia von Avila",
-    "Aurelia"
+    {
+      "name": "Theresia von Avila",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Aurelia",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "10-16": [
-    "Hedwig",
-    "Gallus"
+    {
+      "name": "Hedwig",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Gallus",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "10-17": [
-    "Rudolf",
-    "Adelheid"
+    {
+      "name": "Rudolf",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Adelheid",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "10-18": [
-    "Lukas",
-    "Justus"
+    {
+      "name": "Lukas",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Justus",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "10-19": [
-    "Frieda",
-    "Isaak",
-    "Paul"
+    {
+      "name": "Frieda",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Isaak",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Paul",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "10-20": [
-    "Wendelin",
-    "Ira"
+    {
+      "name": "Wendelin",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Ira",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "10-21": [
-    "Ursula",
-    "Celina"
+    {
+      "name": "Ursula",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Celina",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "10-22": [
-    "Cordula",
-    "Salome"
+    {
+      "name": "Cordula",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Salome",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "10-23": [
-    "Johannes",
-    "Severin"
+    {
+      "name": "Johannes",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Severin",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "10-24": [
-    "Anton",
-    "Alois"
+    {
+      "name": "Anton",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Alois",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "10-25": [
-    "Ludwig"
+    {
+      "name": "Ludwig",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "10-26": [
-    "Amandus",
-    "Albin"
+    {
+      "name": "Amandus",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Albin",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "10-27": [
-    "Sabina",
-    "Christa"
+    {
+      "name": "Sabina",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Christa",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "10-28": [
-    "Simon",
-    "Thaddäus"
+    {
+      "name": "Simon",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Thaddäus",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "10-29": [
-    "Ermelinda",
-    "Franco"
+    {
+      "name": "Ermelinda",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Franco",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "10-30": [
-    "Dieter",
-    "Alfons"
+    {
+      "name": "Dieter",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Alfons",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "10-31": [
-    "Wolfgang",
-    "Melanie"
+    {
+      "name": "Wolfgang",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Melanie",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "11-01": [
-    "Allerheiligen",
-    "Harald"
+    {
+      "name": "Allerheiligen",
+      "source_type": "fete",
+      "type": "fete"
+    },
+    {
+      "name": "Harald",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "11-02": [
-    "Allerseelen",
-    "Angela"
+    {
+      "name": "Allerseelen",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Angela",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "11-03": [
-    "Hubert",
-    "Martin",
-    "Silvia"
+    {
+      "name": "Hubert",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Martin",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Silvia",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "11-04": [
-    "Karl",
-    "Karla"
+    {
+      "name": "Karl",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Karla",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "11-05": [
-    "Emmerich",
-    "Zacharias"
+    {
+      "name": "Emmerich",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Zacharias",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "11-06": [
-    "Leonhard",
-    "Christine"
+    {
+      "name": "Leonhard",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Christine",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "11-07": [
-    "Engelbert",
-    "Carina"
+    {
+      "name": "Engelbert",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Carina",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "11-08": [
-    "Gottfried",
-    "Willehad"
+    {
+      "name": "Gottfried",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Willehad",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "11-09": [
-    "Theodor",
-    "Roland"
+    {
+      "name": "Theodor",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Roland",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "11-10": [
-    "Leo",
-    "Andrea",
-    "Andreas"
+    {
+      "name": "Leo",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Andrea",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Andreas",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "11-11": [
-    "Martin",
-    "Mennas"
+    {
+      "name": "Martin",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Mennas",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "11-12": [
-    "Christian",
-    "Kunibert"
+    {
+      "name": "Christian",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Kunibert",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "11-13": [
-    "Eugen",
-    "Stanislaus"
+    {
+      "name": "Eugen",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Stanislaus",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "11-14": [
-    "Sidonia",
-    "Nikolaus"
+    {
+      "name": "Sidonia",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Nikolaus",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "11-15": [
-    "Leopold",
-    "Albert"
+    {
+      "name": "Leopold",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Albert",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "11-16": [
-    "Margarita",
-    "Otmar"
+    {
+      "name": "Margarita",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Otmar",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "11-17": [
-    "Gertrud",
-    "Hilda"
+    {
+      "name": "Gertrud",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Hilda",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "11-18": [
-    "Odo",
-    "Roman"
+    {
+      "name": "Odo",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Roman",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "11-19": [
-    "Elisabeth",
-    "Lisa"
+    {
+      "name": "Elisabeth",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Lisa",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "11-20": [
-    "Edmund",
-    "Felix"
+    {
+      "name": "Edmund",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Felix",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "11-21": [
-    "Amalie",
-    "Rufus"
+    {
+      "name": "Amalie",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Rufus",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "11-22": [
-    "Cäcilia",
-    "Salvator"
+    {
+      "name": "Cäcilia",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Salvator",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "11-23": [
-    "Clemens",
-    "Detlef",
-    "Columban"
+    {
+      "name": "Clemens",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Detlef",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Columban",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "11-24": [
-    "Flora",
-    "Albert"
+    {
+      "name": "Flora",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Albert",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "11-25": [
-    "Katharina",
-    "Kathrin"
+    {
+      "name": "Katharina",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Kathrin",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "11-26": [
-    "Konrad",
-    "Kurt"
+    {
+      "name": "Konrad",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Kurt",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "11-27": [
-    "Uta",
-    "Brunhilde"
+    {
+      "name": "Uta",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Brunhilde",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "11-28": [
-    "Jakob",
-    "Berta"
+    {
+      "name": "Jakob",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Berta",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "11-29": [
-    "Friedrich",
-    "Friederike"
+    {
+      "name": "Friedrich",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Friederike",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "11-30": [
-    "Andreas",
-    "Andrea"
+    {
+      "name": "Andreas",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Andrea",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "12-01": [
-    "Blanka",
-    "Natalie"
+    {
+      "name": "Blanka",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Natalie",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "12-02": [
-    "Bibiana",
-    "Lucius"
+    {
+      "name": "Bibiana",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Lucius",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "12-03": [
-    "Franz Xaver",
-    "Jason"
+    {
+      "name": "Franz Xaver",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Jason",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "12-04": [
-    "Barbara",
-    "Johannes"
+    {
+      "name": "Barbara",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Johannes",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "12-05": [
-    "Gerald",
-    "Reinhard"
+    {
+      "name": "Gerald",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Reinhard",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "12-06": [
-    "Nikolaus",
-    "Denise"
+    {
+      "name": "Nikolaus",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Denise",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "12-07": [
-    "Ambros",
-    "Benedikte"
+    {
+      "name": "Ambros",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Benedikte",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "12-08": [
-    "Mariä Empfängnis",
-    "Edith"
+    {
+      "name": "Mariä Empfängnis",
+      "source_type": "fete",
+      "type": "fete"
+    },
+    {
+      "name": "Edith",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "12-09": [
-    "Valerie",
-    "Liborius"
+    {
+      "name": "Valerie",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Liborius",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "12-10": [
-    "Emma",
-    "Loretta"
+    {
+      "name": "Emma",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Loretta",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "12-11": [
-    "Arthur",
-    "Damasus"
+    {
+      "name": "Arthur",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Damasus",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "12-12": [
-    "Johanna",
-    "Hartmann"
+    {
+      "name": "Johanna",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Hartmann",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "12-13": [
-    "Lucia",
-    "Ottilia"
+    {
+      "name": "Lucia",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Ottilia",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "12-14": [
-    "Berthold",
-    "Johannes"
+    {
+      "name": "Berthold",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Johannes",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "12-15": [
-    "Christiane",
-    "Nina"
+    {
+      "name": "Christiane",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Nina",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "12-16": [
-    "Adelheid",
-    "Heidi"
+    {
+      "name": "Adelheid",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Heidi",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "12-17": [
-    "Lazarus",
-    "Jolanda"
+    {
+      "name": "Lazarus",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Jolanda",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "12-18": [
-    "Esperanza",
-    "Luise"
+    {
+      "name": "Esperanza",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Luise",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "12-19": [
-    "Susanna",
-    "Benjamin"
+    {
+      "name": "Susanna",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Benjamin",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "12-20": [
-    "Julius",
-    "Holger"
+    {
+      "name": "Julius",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Holger",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "12-21": [
-    "Ingmar",
-    "Hagar"
+    {
+      "name": "Ingmar",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Hagar",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "12-22": [
-    "Jutta",
-    "Francesca"
+    {
+      "name": "Jutta",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Francesca",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "12-23": [
-    "Victoria",
-    "Johannes"
+    {
+      "name": "Victoria",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Johannes",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "12-24": [
-    "Adam",
-    "Eva"
+    {
+      "name": "Adam",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Eva",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "12-25": [
-    "Weihnachten",
-    "Christfest"
+    {
+      "name": "Weihnachten",
+      "source_type": "fete",
+      "type": "fete"
+    },
+    {
+      "name": "Christfest",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "12-26": [
-    "Stephan",
-    "Stephanie"
+    {
+      "name": "Stephan",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Stephanie",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "12-27": [
-    "Johannes",
-    "Fabiola"
+    {
+      "name": "Johannes",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Fabiola",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "12-28": [
-    "Unschuldige Kinder"
+    {
+      "name": "Unschuldige Kinder",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ],
   "12-29": [
-    "David",
-    "Tamara"
+    {
+      "name": "David",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Tamara",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "12-30": [
-    "Hermine",
-    "Minna"
+    {
+      "name": "Hermine",
+      "source_type": "sainte",
+      "type": "sainte"
+    },
+    {
+      "name": "Minna",
+      "source_type": "sainte",
+      "type": "sainte"
+    }
   ],
   "12-31": [
-    "Silvester",
-    "Melanie"
+    {
+      "name": "Silvester",
+      "source_type": "saint",
+      "type": "saint"
+    },
+    {
+      "name": "Melanie",
+      "source_type": "saint",
+      "type": "saint"
+    }
   ]
 }

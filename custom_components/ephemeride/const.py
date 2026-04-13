@@ -133,6 +133,9 @@ FETE_KEYWORDS = {
     "en": [
         "epiphany",
         "mother of god",
+        "our lady",
+        "candlemas",
+        "name of jesus",
         "christmas",
         "assumption",
         "all saints",
@@ -143,6 +146,8 @@ FETE_KEYWORDS = {
     "de": [
         "neujahr",
         "heilige drei konige",
+        "maria namen",
+        "maria",
         "weihnacht",
         "erscheinung des herrn",
         "allerheiligen",
@@ -151,6 +156,9 @@ FETE_KEYWORDS = {
     "es": [
         "epifania",
         "madre de dios",
+        "nuestra senora",
+        "nombre de jesus",
+        "candelaria",
         "navidad",
         "asuncion",
         "todos los santos",
@@ -160,6 +168,9 @@ FETE_KEYWORDS = {
     "it": [
         "epifania",
         "madre di dio",
+        "madonna",
+        "nome di gesu",
+        "befana",
         "capodanno",
         "natale",
         "assunzione",
@@ -169,6 +180,9 @@ FETE_KEYWORDS = {
     "pt": [
         "epifania",
         "mae de deus",
+        "nossa senhora",
+        "nome de jesus",
+        "candelaria",
         "natal",
         "assuncao",
         "todos os santos",
@@ -185,6 +199,49 @@ SAINT_PREFIX_KEYWORDS = {
     "es": {"san ": CATEGORY_SAINT, "santa": CATEGORY_SAINTE, "santo": CATEGORY_SAINT},
     "it": {"san ": CATEGORY_SAINT, "santa": CATEGORY_SAINTE, "santo": CATEGORY_SAINT},
     "pt": {"santa": CATEGORY_SAINTE, "santo": CATEGORY_SAINT, "sao ": CATEGORY_SAINT},
+}
+
+FEMALE_NAME_HINTS = {
+    "en": {
+        "mary", "genevieve", "elizabeth", "marguerite", "prisca", "martha", "agnes", "angela",
+        "martina", "brigid", "agatha", "scholastica", "bernadette", "juliana", "isabella",
+        "catherine", "teresa", "lucy", "clare", "monica", "cecilia", "barbara", "agnes",
+        "anne", "anna", "joan", "jane", "helena", "rosa", "rose", "margaret", "magdalene",
+    },
+    "de": {
+        "maria", "genoveva", "irma", "angelika", "christiane", "emilia", "gudula", "alice",
+        "leonie", "tatjana", "jutta", "rosalind", "margitta", "martha", "agnes", "katharina",
+        "theresia", "barbara", "elisabeth", "anna", "johanna", "margareta", "klara", "cecilia",
+    },
+    "es": {
+        "maria", "genoveva", "angela", "emiliana", "tatiana", "rosalina", "beatriz", "catalina",
+        "teresa", "lucia", "ana", "ines", "marta", "prisca", "eulalia", "agueda", "monica",
+        "clara", "isabel", "paula", "margarita", "magdalena", "dolores", "consuelo",
+    },
+    "it": {
+        "maria", "angela", "margherita", "prisca", "marta", "agnese", "emerenziana", "martina",
+        "aldegonda", "chiara", "teresa", "caterina", "barbara", "lucia", "monica", "rita",
+        "anna", "cecilia", "elisabetta", "paola", "rosalia", "scolastica",
+    },
+    "pt": {
+        "maria", "genoveva", "angela", "basilissa", "tatiana", "margarida", "marta", "ines",
+        "joana", "catarina", "teresa", "lucia", "ana", "paula", "eulalia", "agata", "beatriz",
+        "rosa", "cecilia", "isabel", "helena", "juliana", "monica",
+    },
+}
+
+FEMALE_SUFFIX_HINTS = {
+    "en": ("a", "ia", "ina", "ella", "ette", "ine", "ica", "tha", "trix", "ene", "eve"),
+    "de": ("a", "ia", "ina", "ika", "ine", "lind", "gund", "trud", "hild"),
+    "es": ("a",),
+    "it": ("a",),
+    "pt": ("a",),
+}
+
+MALE_SUFFIX_EXCEPTIONS = {
+    "es": {"elia", "eustaquia"},
+    "it": {"luca", "andrea", "elia", "nicola"},
+    "pt": {"elia", "nicola"},
 }
 
 UNKNOWN_STATE = {
@@ -247,4 +304,4 @@ ENTITY_TITLES = {
     },
 }
 
-INTEGRATION_VERSION = "1.3.2"
+INTEGRATION_VERSION = "1.3.3"
