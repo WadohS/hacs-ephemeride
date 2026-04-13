@@ -13,6 +13,7 @@ from homeassistant.helpers.update_coordinator import DataUpdateCoordinator, Upda
 from homeassistant.util import dt as dt_util
 
 from .const import CONF_LANGUAGE, DOMAIN
+from .data import build_day_payload
 
 _LOGGER = logging.getLogger(__name__)
 
@@ -70,19 +71,6 @@ class EphemerideDataUpdateCoordinator(DataUpdateCoordinator):
             update_interval=timedelta(hours=1),
         )
 
-    def _normalize_saint_data(self, saint_entry):
-        """Normalize saint data to handle both formats.
-
-        Format 1 (tuple): ["Marie", "Sainte"] -> returns "Marie"
-        Format 2 (string): "Marie" -> returns "Marie"
-        """
-        if isinstance(saint_entry, list):
-            # Format tuple: [nom, type]
-            return saint_entry[0] if saint_entry else "Inconnu"
-
-        # Format simple: "nom"
-        return saint_entry
-
     async def _async_update_data(self):
         """Fetch data from Ephemeride."""
         try:
@@ -105,17 +93,20 @@ class EphemerideDataUpdateCoordinator(DataUpdateCoordinator):
             today_saints_raw = data.get(today, [])
             tomorrow_saints_raw = data.get(tomorrow, [])
 
-            # Normalize data (handle both formats)
-            today_saints = [self._normalize_saint_data(s) for s in today_saints_raw[:5]]
-            tomorrow_saints = [self._normalize_saint_data(s) for s in tomorrow_saints_raw[:5]]
+            today_payload = build_day_payload(today_saints_raw, self.language)
+            tomorrow_payload = build_day_payload(tomorrow_saints_raw, self.language)
 
             return {
-                "saint_aujourdhui": today_saints[0] if today_saints else "Inconnu",
-                "saint_demain": tomorrow_saints[0] if tomorrow_saints else "Inconnu",
-                "tous_saints_aujourdhui": today_saints,
-                "tous_saints_demain": tomorrow_saints,
-                "nombre_saints_aujourdhui": len(today_saints_raw),
-                "nombre_saints_demain": len(tomorrow_saints_raw),
+                "saint_aujourdhui": today_payload["first"],
+                "saint_demain": tomorrow_payload["first"],
+                "type_aujourdhui": today_payload["first_type"],
+                "type_demain": tomorrow_payload["first_type"],
+                "tous_saints_aujourdhui": today_payload["names"],
+                "tous_saints_demain": tomorrow_payload["names"],
+                "nombre_saints_aujourdhui": today_payload["count"],
+                "nombre_saints_demain": tomorrow_payload["count"],
+                "details_aujourdhui": today_payload,
+                "details_demain": tomorrow_payload,
                 "langue": self.language,
                 "date": now.strftime("%Y-%m-%d"),
             }

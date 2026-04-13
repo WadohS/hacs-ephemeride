@@ -7,13 +7,13 @@
 
 [![Community Forum][forum-shield]][forum]
 
-_Intégration pour afficher le saint du jour et les festivités dans Home Assistant._
+_Intégration pour afficher le saint du jour, les saintes, les fêtes et les dates religieuses dans Home Assistant._
 
 **Cette intégration créera les plateformes suivantes.**
 
 Plateforme | Description
 -- | --
-`sensor` | Affiche le saint du jour avec attributs (saint de demain, liste complète, langue)
+`sensor` | Capteurs par catégorie : commémoration principale, saint, sainte, fête, date religieuse et autre
 
 {% if not installed %}
 ## Installation
@@ -33,6 +33,8 @@ Ou manuellement : allez dans "Configuration" -> "Intégrations", cliquez sur "+"
 La configuration se fait entièrement via l'interface graphique :
 - Sélectionnez votre langue parmi 6 langues disponibles
 - Changez la langue à tout moment via les options de l'intégration
+- Les données locales de chaque pays sont respectées
+- Les catégories sont séparées pour faciliter les cartes et automatisations
 
 ## Langues supportées 🌍
 
@@ -52,7 +54,7 @@ Si vous souhaitez contribuer, veuillez lire les [Directives de contribution](CON
 [releases-shield]: https://img.shields.io/github/release/WadohS/hacs-ephemeride.svg?style=for-the-badge
 [releases]: https://github.com/WadohS/hacs-ephemeride/releases
 [commits-shield]: https://img.shields.io/github/commit-activity/y/WadohS/hacs-ephemeride.svg?style=for-the-badge
-[commits]: https://github.com/WadohS/hacs-ephemeride/commits/master
+[commits]: https://github.com/WadohS/hacs-ephemeride/commits/main
 [license-shield]: https://img.shields.io/github/license/WadohS/hacs-ephemeride.svg?style=for-the-badge
 [hacsbadge]: https://img.shields.io/badge/HACS-Custom-orange.svg?style=for-the-badge
 [hacs]: https://github.com/hacs/integration

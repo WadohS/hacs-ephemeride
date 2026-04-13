@@ -9,7 +9,7 @@
 ![Project Maintenance][maintenance-shield]
 [![Community Forum][forum-shield]][forum]
 
-_Home Assistant integration that exposes the saint of the day and upcoming feast day with multilingual support._
+_Home Assistant integration that exposes the main commemoration of the day with dedicated sensors for saints, female saints, feasts, religious dates and other events._
 
 [![Open in HACS](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=WadohS&repository=hacs-ephemeride&category=integration)
 
@@ -21,11 +21,11 @@ This integration creates the following platform:
 
 Platform | Description
 -- | --
-`sensor` | Sensor exposing the main saint of the day and related attributes
+`sensor` | Sensors exposing the main commemoration plus dedicated category sensors
 
 ### `sensor.saint_du_jour`
 
-- State: main saint of the current day
+- State: main commemoration of the current day
 - Attributes:
   - `saint_demain`: tomorrow's main saint
   - `langue`: configured language
@@ -34,6 +34,16 @@ Platform | Description
   - `tous_saints_demain`: full list for tomorrow, limited to 5 items
   - `nombre_saints_aujourdhui`: total number of entries today
   - `nombre_saints_demain`: total number of entries tomorrow
+
+### Additional sensors
+
+- `sensor.saint_masculin_du_jour`
+- `sensor.sainte_du_jour`
+- `sensor.fete_du_jour`
+- `sensor.date_religieuse_du_jour`
+- `sensor.autre_du_jour`
+
+Each category sensor exposes today's first matching entry, tomorrow's first matching entry, the list of matching entries and their counts. Untyped entries remain in `sensor.autre_du_jour` until the corresponding language file provides explicit metadata.
 
 ## Supported Languages
 
@@ -108,9 +118,16 @@ automation:
 
 - Language data is stored in `custom_components/ephemeride/languages/`
 - UI translations are stored in `custom_components/ephemeride/translations/`
-- The integration supports both legacy tuple-like entries and plain string lists in language files
+- Local branding is shipped in `custom_components/ephemeride/brand/`
+- The integration supports plain string lists, tuple-like entries and object entries in language files
+- Country-specific calendars are preserved and classified at runtime without forcing a single shared dataset
 
 ## Changelog
+
+### Version 1.3.0
+- Added dedicated sensors for male saints, female saints, feasts, religious dates and other commemorations
+- Added local integration branding for recent Home Assistant versions
+- Added a language file validation script
 
 ### Version 1.2.5
 - Fixed option changes so switching language reloads the integration correctly

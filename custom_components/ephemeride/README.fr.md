@@ -7,6 +7,7 @@ Ce dossier contient le composant Home Assistant `ephemeride`.
 ## Ce qu'il fait
 
 - expose `sensor.saint_du_jour`
+- expose des capteurs par categorie pour les saints, saintes, fetes, dates religieuses et autres
 - prend en charge six jeux de données linguistiques
 - permet de changer la langue depuis l'interface
 - recharge automatiquement l'intégration après modification des options
@@ -30,9 +31,10 @@ Les fichiers de langue peuvent contenir :
 
 - des listes simples, par exemple `["Mary", "Joseph"]`
 - des listes type tuple, par exemple `[["Marie", "Sainte"], ["Jour de l'an", "Fete"]]`
+- des objets, par exemple `[{"name": "Damien", "type": "saint"}]`
 
-Le coordinator normalise les deux formats avant d'exposer les donnees du capteur.
+Le coordinator normalise tous les formats avant d'exposer les donnees du capteur et de classer chaque entree.
 
 ## Version
 
-Version actuelle du composant : `1.2.5`
+Version actuelle du composant : `1.3.0`
