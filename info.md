@@ -7,13 +7,13 @@
 
 [![Community Forum][forum-shield]][forum]
 
-_Intégration pour afficher le saint du jour, les saintes, les fêtes et les dates religieuses dans Home Assistant._
+_Intégration pour afficher les saints du jour, les saintes, les fêtes, les dates religieuses et les prénoms dans Home Assistant._
 
 **Cette intégration créera les plateformes suivantes.**
 
 Plateforme | Description
 -- | --
-`sensor` | Capteurs par catégorie : commémoration principale, saint, sainte, fête, date religieuse et autre
+`sensor` | Capteurs par catégorie : commémoration principale, saint, sainte, fête, date religieuse, prénom et autre
 
 {% if not installed %}
 ## Installation

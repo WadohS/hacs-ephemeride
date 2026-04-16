@@ -9,6 +9,11 @@
       "name": "Capodanno",
       "source_type": "fete",
       "type": "fete"
+    },
+    {
+      "name": "Maria",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "01-02": [
@@ -21,6 +26,11 @@
       "name": "Gregorio Nazianzeno",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Basilio",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "01-03": [
@@ -28,6 +38,11 @@
       "name": "Santissimo Nome di Gesù",
       "source_type": "fete",
       "type": "fete"
+    },
+    {
+      "name": "Genoveffa",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "01-04": [
@@ -35,6 +50,11 @@
       "name": "Angela da Foligno",
       "source_type": "sainte",
       "type": "sainte"
+    },
+    {
+      "name": "Fausta",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "01-05": [
@@ -42,6 +62,11 @@
       "name": "Giovanni Nepomuceno Neumann",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Amelia",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "01-06": [
@@ -61,6 +86,11 @@
       "name": "Raimondo di Peñafort",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Raimondo",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "01-08": [
@@ -68,6 +98,11 @@
       "name": "Lorenzo Giustiniani",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Severino",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "01-09": [
@@ -75,6 +110,11 @@
       "name": "Marcellino di Ancona",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Giuliano",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "01-10": [
@@ -82,6 +122,11 @@
       "name": "Gregorio X",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Aldo",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "01-11": [
@@ -101,6 +146,11 @@
       "name": "Margherita Bourgeoys",
       "source_type": "sainte",
       "type": "sainte"
+    },
+    {
+      "name": "Modesto",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "01-13": [
@@ -108,6 +158,16 @@
       "name": "Ilario di Poitiers",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Ilario",
+      "source_type": "prenom",
+      "type": "prenom"
+    },
+    {
+      "name": "Leonzio",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "01-14": [
@@ -115,6 +175,16 @@
       "name": "Felice da Nola",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Macrina",
+      "source_type": "prenom",
+      "type": "prenom"
+    },
+    {
+      "name": "Dazio",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "01-15": [
@@ -134,6 +204,11 @@
       "name": "Marcello I",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Marcello",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "01-17": [
@@ -141,6 +216,11 @@
       "name": "Antonio Abate",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Antonio",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "01-18": [
@@ -153,6 +233,11 @@
       "name": "Prisca",
       "source_type": "sainte",
       "type": "sainte"
+    },
+    {
+      "name": "Liberata",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "01-19": [
@@ -170,6 +255,11 @@
       "name": "Canuto IV",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Liberata",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "01-20": [
@@ -196,6 +286,11 @@
       "name": "Vincenzo di Saragozza",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Vincenzo",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "01-23": [
@@ -215,6 +310,11 @@
       "name": "Francesco di Sales",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Francesco",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "01-25": [
@@ -222,6 +322,11 @@
       "name": "Conversione di San Paolo",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Paolo",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "01-26": [
@@ -241,6 +346,11 @@
       "name": "Angela Merici",
       "source_type": "sainte",
       "type": "sainte"
+    },
+    {
+      "name": "Angela",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "01-28": [
@@ -248,6 +358,11 @@
       "name": "Tommaso d'Aquino",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Tommaso",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "01-29": [
@@ -255,6 +370,26 @@
       "name": "Costanzo di Perugia",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Aquilino",
+      "source_type": "prenom",
+      "type": "prenom"
+    },
+    {
+      "name": "Costanzo",
+      "source_type": "prenom",
+      "type": "prenom"
+    },
+    {
+      "name": "Valerio",
+      "source_type": "prenom",
+      "type": "prenom"
+    },
+    {
+      "name": "Vitale",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "01-30": [
@@ -274,6 +409,16 @@
       "name": "Giovanni Bosco",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Giovanni",
+      "source_type": "prenom",
+      "type": "prenom"
+    },
+    {
+      "name": "Geminiano",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "02-01": [
@@ -286,6 +431,16 @@
       "name": "Verdiana",
       "source_type": "sainte",
       "type": "sainte"
+    },
+    {
+      "name": "Brigitta",
+      "source_type": "prenom",
+      "type": "prenom"
+    },
+    {
+      "name": "Geminiano",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "02-02": [
@@ -312,6 +467,11 @@
       "name": "Gilberto di Sempringham",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Gilberto",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "02-05": [
@@ -331,6 +491,16 @@
       "name": "Dorothea",
       "source_type": "sainte",
       "type": "sainte"
+    },
+    {
+      "name": "Dorotea",
+      "source_type": "prenom",
+      "type": "prenom"
+    },
+    {
+      "name": "Paolo",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "02-07": [
@@ -338,6 +508,11 @@
       "name": "Riccardo del Wessex",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Teodoro",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "02-08": [
@@ -350,6 +525,11 @@
       "name": "Giuseppina Bakhita",
       "source_type": "sainte",
       "type": "sainte"
+    },
+    {
+      "name": "Girolamo",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "02-09": [
@@ -364,6 +544,11 @@
       "name": "Scolastica",
       "source_type": "sainte",
       "type": "sainte"
+    },
+    {
+      "name": "Arnaldo",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "02-11": [
@@ -371,6 +556,11 @@
       "name": "Madonna di Lourdes",
       "source_type": "fete",
       "type": "fete"
+    },
+    {
+      "name": "Lourdes",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "02-12": [
@@ -378,6 +568,16 @@
       "name": "Eulalia di Barcellona",
       "source_type": "sainte",
       "type": "sainte"
+    },
+    {
+      "name": "Eulalia",
+      "source_type": "prenom",
+      "type": "prenom"
+    },
+    {
+      "name": "Pilerio",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "02-13": [
@@ -385,6 +585,21 @@
       "name": "Benigno di Todi",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Bartolomeo",
+      "source_type": "prenom",
+      "type": "prenom"
+    },
+    {
+      "name": "Maura",
+      "source_type": "prenom",
+      "type": "prenom"
+    },
+    {
+      "name": "Archelao",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "02-14": [
@@ -426,6 +641,11 @@
       "name": "Giuliana di Nicomedia",
       "source_type": "sainte",
       "type": "sainte"
+    },
+    {
+      "name": "Giuliana",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "02-17": [
@@ -438,6 +658,11 @@
       "name": "Alessio Falconieri",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Donato",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "02-18": [
@@ -457,6 +682,11 @@
       "name": "Corrado Confalonieri",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Mansueto",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "02-20": [
@@ -464,6 +694,11 @@
       "name": "Eucherio di Orléans",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Silvano",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "02-21": [
@@ -471,6 +706,11 @@
       "name": "Pier Damiani",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Eleonora",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "02-22": [
@@ -478,6 +718,11 @@
       "name": "Cattedra di San Pietro",
       "source_type": "sainte",
       "type": "sainte"
+    },
+    {
+      "name": "Margherita",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "02-23": [
@@ -492,6 +737,11 @@
       "name": "Sergio di Cesarea",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Edilberto",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "02-25": [
@@ -504,6 +754,11 @@
       "name": "Tarasio",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Cesario",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "02-26": [
@@ -511,6 +766,11 @@
       "name": "Nestore di Magydos",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Arnoldo",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "02-27": [
@@ -518,6 +778,11 @@
       "name": "Gabriele dell'Addolorata",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Leandro",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "02-28": [
@@ -525,6 +790,11 @@
       "name": "Romano di Condat",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Romano",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "02-29": [
@@ -539,6 +809,11 @@
       "name": "Albino di Angers",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Albino",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "03-02": [
@@ -546,6 +821,11 @@
       "name": "Simplicio",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Basileo",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "03-03": [
@@ -572,6 +852,21 @@
       "name": "Adriano di Cesarea",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Adriano",
+      "source_type": "prenom",
+      "type": "prenom"
+    },
+    {
+      "name": "Giovanni",
+      "source_type": "prenom",
+      "type": "prenom"
+    },
+    {
+      "name": "Giuseppe",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "03-06": [
@@ -579,6 +874,11 @@
       "name": "Coletta da Corbie",
       "source_type": "sainte",
       "type": "sainte"
+    },
+    {
+      "name": "Giordano",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "03-07": [
@@ -591,6 +891,16 @@
       "name": "Felicita",
       "source_type": "sainte",
       "type": "sainte"
+    },
+    {
+      "name": "Tommaso",
+      "source_type": "prenom",
+      "type": "prenom"
+    },
+    {
+      "name": "Quintilio",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "03-08": [
@@ -598,6 +908,11 @@
       "name": "Giovanni di Dio",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Severino",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "03-09": [
@@ -605,6 +920,11 @@
       "name": "Francesca Romana",
       "source_type": "sainte",
       "type": "sainte"
+    },
+    {
+      "name": "Francesca",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "03-10": [
@@ -624,6 +944,11 @@
       "name": "Costantino di Scozia",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Costantino",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "03-12": [
@@ -631,6 +956,11 @@
       "name": "Massimiliano di Tebessa",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Massimiliano",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "03-13": [
@@ -643,6 +973,11 @@
       "name": "Salomone",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Arrigo",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "03-14": [
@@ -650,6 +985,11 @@
       "name": "Matilde di Germania",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Matilde",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "03-15": [
@@ -657,6 +997,16 @@
       "name": "Clemente Maria Hofbauer",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Luisa",
+      "source_type": "prenom",
+      "type": "prenom"
+    },
+    {
+      "name": "Mauro",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "03-16": [
@@ -664,6 +1014,16 @@
       "name": "Eriberto",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Ilario",
+      "source_type": "prenom",
+      "type": "prenom"
+    },
+    {
+      "name": "Taziano",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "03-17": [
@@ -671,6 +1031,11 @@
       "name": "Patrizio d'Irlanda",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Patrizio",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "03-18": [
@@ -678,6 +1043,11 @@
       "name": "Cirillo di Gerusalemme",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Cirillo",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "03-19": [
@@ -697,6 +1067,11 @@
       "name": "Niceta di Apollonia",
       "source_type": "sainte",
       "type": "sainte"
+    },
+    {
+      "name": "Alessandra",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "03-21": [
@@ -704,6 +1079,11 @@
       "name": "Benedetto da Norcia",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Benedetto",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "03-22": [
@@ -711,6 +1091,11 @@
       "name": "Lea di Roma",
       "source_type": "sainte",
       "type": "sainte"
+    },
+    {
+      "name": "Lea",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "03-23": [
@@ -718,6 +1103,11 @@
       "name": "Turibio di Mogrovejo",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Turibio",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "03-24": [
@@ -725,6 +1115,11 @@
       "name": "Caterina di Svezia",
       "source_type": "sainte",
       "type": "sainte"
+    },
+    {
+      "name": "Flavio",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "03-25": [
@@ -746,6 +1141,11 @@
       "name": "Ruperto di Salisburgo",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Augusto",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "03-28": [
@@ -753,6 +1153,11 @@
       "name": "Sisto III",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Sisto",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "03-29": [
@@ -760,6 +1165,11 @@
       "name": "Bertoldo",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Secondo",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "03-30": [
@@ -767,6 +1177,11 @@
       "name": "Amideo",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Amedeo",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "03-31": [
@@ -781,6 +1196,11 @@
       "name": "Ugo di Grenoble",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Ugo",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "04-02": [
@@ -788,6 +1208,11 @@
       "name": "Francesco da Paola",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Francesco",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "04-03": [
@@ -795,6 +1220,11 @@
       "name": "Riccardo di Chichester",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Riccardo",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "04-04": [
@@ -802,6 +1232,11 @@
       "name": "Isidoro di Siviglia",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Isidoro",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "04-05": [
@@ -809,6 +1244,11 @@
       "name": "Vincenzo Ferrer",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Vincenzo",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "04-06": [
@@ -816,6 +1256,11 @@
       "name": "Pietro da Verona",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Guglielmo",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "04-07": [
@@ -823,6 +1268,11 @@
       "name": "Giovanni Battista de la Salle",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Ermanno",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "04-08": [
@@ -830,6 +1280,11 @@
       "name": "Dionigi di Corinto",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Dionigi",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "04-09": [
@@ -837,6 +1292,11 @@
       "name": "Maddalena di Canossa",
       "source_type": "sainte",
       "type": "sainte"
+    },
+    {
+      "name": "Demetrio",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "04-10": [
@@ -844,6 +1304,11 @@
       "name": "Ezechiele",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Terenzio",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "04-11": [
@@ -851,6 +1316,11 @@
       "name": "Stanislao di Cracovia",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Stanislao",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "04-12": [
@@ -858,6 +1328,16 @@
       "name": "Zenone di Verona",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Giulio",
+      "source_type": "prenom",
+      "type": "prenom"
+    },
+    {
+      "name": "Zenone",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "04-13": [
@@ -865,6 +1345,11 @@
       "name": "Martino I",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Martino",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "04-14": [
@@ -872,6 +1357,11 @@
       "name": "Valeriano",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Abbondio",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "04-15": [
@@ -879,6 +1369,11 @@
       "name": "Damiano de Veuster",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Annibale",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "04-16": [
@@ -886,6 +1381,16 @@
       "name": "Bernardetta Soubirous",
       "source_type": "sainte",
       "type": "sainte"
+    },
+    {
+      "name": "Bernadette",
+      "source_type": "prenom",
+      "type": "prenom"
+    },
+    {
+      "name": "Maria",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "04-17": [
@@ -893,6 +1398,11 @@
       "name": "Roberto di La Chaise-Dieu",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Roberto",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "04-18": [
@@ -900,6 +1410,11 @@
       "name": "Galdino della Sala",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Galdino",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "04-19": [
@@ -907,6 +1422,16 @@
       "name": "Leone IX",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Emma",
+      "source_type": "prenom",
+      "type": "prenom"
+    },
+    {
+      "name": "Ermogene",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "04-20": [
@@ -914,6 +1439,11 @@
       "name": "Adalberto di Praga",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Adalgisa",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "04-21": [
@@ -921,6 +1451,11 @@
       "name": "Anselmo d'Aosta",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Anselmo",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "04-22": [
@@ -928,6 +1463,16 @@
       "name": "Leonida di Alessandria",
       "source_type": "sainte",
       "type": "sainte"
+    },
+    {
+      "name": "Caio",
+      "source_type": "prenom",
+      "type": "prenom"
+    },
+    {
+      "name": "Sotero",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "04-23": [
@@ -947,6 +1492,11 @@
       "name": "Fedele da Sigmaringen",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Fedele",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "04-25": [
@@ -954,6 +1504,11 @@
       "name": "Marco Evangelista",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Marco",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "04-26": [
@@ -961,6 +1516,11 @@
       "name": "Cleto",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Marcellino",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "04-27": [
@@ -975,6 +1535,11 @@
       "name": "Luigi Maria Grignion de Montfort",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Valeria",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "04-29": [
@@ -982,6 +1547,11 @@
       "name": "Caterina da Siena",
       "source_type": "sainte",
       "type": "sainte"
+    },
+    {
+      "name": "Cristino",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "04-30": [
@@ -989,6 +1559,11 @@
       "name": "Pio V",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Pio",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "05-01": [
@@ -996,6 +1571,16 @@
       "name": "Giuseppe Lavoratore",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Efisio",
+      "source_type": "prenom",
+      "type": "prenom"
+    },
+    {
+      "name": "Giuseppe",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "05-02": [
@@ -1003,6 +1588,11 @@
       "name": "Atanasio",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Efisio",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "05-03": [
@@ -1015,6 +1605,16 @@
       "name": "Giacomo il Minore",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Efisio",
+      "source_type": "prenom",
+      "type": "prenom"
+    },
+    {
+      "name": "Giacomo",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "05-04": [
@@ -1027,6 +1627,21 @@
       "name": "Silvano",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Ciriaco",
+      "source_type": "prenom",
+      "type": "prenom"
+    },
+    {
+      "name": "Efisio",
+      "source_type": "prenom",
+      "type": "prenom"
+    },
+    {
+      "name": "Porfirio",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "05-05": [
@@ -1034,6 +1649,11 @@
       "name": "Angelo",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Massimo",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "05-06": [
@@ -1041,6 +1661,11 @@
       "name": "Giudoco",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Giuditta",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "05-07": [
@@ -1048,6 +1673,16 @@
       "name": "Flavia Domitilla",
       "source_type": "sainte",
       "type": "sainte"
+    },
+    {
+      "name": "Flavia",
+      "source_type": "prenom",
+      "type": "prenom"
+    },
+    {
+      "name": "Maria",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "05-08": [
@@ -1055,6 +1690,26 @@
       "name": "Vittore il Moro",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Maria",
+      "source_type": "prenom",
+      "type": "prenom"
+    },
+    {
+      "name": "Michele",
+      "source_type": "prenom",
+      "type": "prenom"
+    },
+    {
+      "name": "Rosario",
+      "source_type": "prenom",
+      "type": "prenom"
+    },
+    {
+      "name": "Desiderato",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "05-09": [
@@ -1062,6 +1717,11 @@
       "name": "Pacomio",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Beato",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "05-10": [
@@ -1069,6 +1729,11 @@
       "name": "Antonino di Firenze",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Antonino",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "05-11": [
@@ -1076,6 +1741,11 @@
       "name": "Fabio",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Marziale",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "05-12": [
@@ -1100,6 +1770,11 @@
       "name": "Madonna di Fatima",
       "source_type": "fete",
       "type": "fete"
+    },
+    {
+      "name": "Emma",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "05-14": [
@@ -1107,6 +1782,21 @@
       "name": "Mattia Apostolo",
       "source_type": "sainte",
       "type": "sainte"
+    },
+    {
+      "name": "Corona",
+      "source_type": "prenom",
+      "type": "prenom"
+    },
+    {
+      "name": "Costanzo",
+      "source_type": "prenom",
+      "type": "prenom"
+    },
+    {
+      "name": "Mattia",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "05-15": [
@@ -1114,6 +1804,16 @@
       "name": "Isidoro l'Agricoltore",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Mattia",
+      "source_type": "prenom",
+      "type": "prenom"
+    },
+    {
+      "name": "Torquato",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "05-16": [
@@ -1121,6 +1821,11 @@
       "name": "Ubaldo di Gubbio",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Ubaldo",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "05-17": [
@@ -1128,6 +1833,16 @@
       "name": "Pasquale Baylon",
       "source_type": "date_religieuse",
       "type": "date_religieuse"
+    },
+    {
+      "name": "Pasquale",
+      "source_type": "prenom",
+      "type": "prenom"
+    },
+    {
+      "name": "Restituta",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "05-18": [
@@ -1135,6 +1850,11 @@
       "name": "Giovanni I",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Giovanni",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "05-19": [
@@ -1147,6 +1867,11 @@
       "name": "Ivo",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Pietro",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "05-20": [
@@ -1154,6 +1879,11 @@
       "name": "Bernardino da Siena",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Bernardino",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "05-21": [
@@ -1161,6 +1891,11 @@
       "name": "Cristoforo Magallanes",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Vittorio",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "05-22": [
@@ -1168,6 +1903,11 @@
       "name": "Rita da Cascia",
       "source_type": "sainte",
       "type": "sainte"
+    },
+    {
+      "name": "Rita",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "05-23": [
@@ -1175,6 +1915,11 @@
       "name": "Desiderio di Langres",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Desiderio",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "05-24": [
@@ -1182,6 +1927,11 @@
       "name": "Maria Ausiliatrice",
       "source_type": "sainte",
       "type": "sainte"
+    },
+    {
+      "name": "Maria",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "05-25": [
@@ -1194,6 +1944,11 @@
       "name": "Gregorio VII",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Basileo",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "05-26": [
@@ -1201,6 +1956,16 @@
       "name": "Filippo Neri",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Filippo",
+      "source_type": "prenom",
+      "type": "prenom"
+    },
+    {
+      "name": "Pellegrino",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "05-27": [
@@ -1208,6 +1973,11 @@
       "name": "Agostino di Canterbury",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Agostino",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "05-28": [
@@ -1215,6 +1985,11 @@
       "name": "Emilio di Treviri",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Emilio",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "05-29": [
@@ -1222,6 +1997,11 @@
       "name": "Massimino di Treviri",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Massimino",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "05-30": [
@@ -1229,6 +2009,11 @@
       "name": "Giovanna d'Arco",
       "source_type": "sainte",
       "type": "sainte"
+    },
+    {
+      "name": "Ferdinando",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "05-31": [
@@ -1243,6 +2028,11 @@
       "name": "Giustino",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Benedetto",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "06-02": [
@@ -1255,6 +2045,11 @@
       "name": "Pietro",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Erasmo",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "06-03": [
@@ -1269,6 +2064,11 @@
       "name": "Quirino di Siscia",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Quirino",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "06-05": [
@@ -1276,6 +2076,11 @@
       "name": "Bonifacio",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Irene",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "06-06": [
@@ -1283,6 +2088,11 @@
       "name": "Norberto di Xanten",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Norberto",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "06-07": [
@@ -1290,6 +2100,16 @@
       "name": "Antonio Maria Gianelli",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Geremia",
+      "source_type": "prenom",
+      "type": "prenom"
+    },
+    {
+      "name": "Sabiniano",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "06-08": [
@@ -1297,6 +2117,11 @@
       "name": "Medardo di Noyon",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Medardo",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "06-09": [
@@ -1309,6 +2134,16 @@
       "name": "Colomba di Iona",
       "source_type": "sainte",
       "type": "sainte"
+    },
+    {
+      "name": "Efrem",
+      "source_type": "prenom",
+      "type": "prenom"
+    },
+    {
+      "name": "Primo",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "06-10": [
@@ -1316,6 +2151,16 @@
       "name": "Diana degli Andalò",
       "source_type": "sainte",
       "type": "sainte"
+    },
+    {
+      "name": "Massimo",
+      "source_type": "prenom",
+      "type": "prenom"
+    },
+    {
+      "name": "Asterio",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "06-11": [
@@ -1330,6 +2175,11 @@
       "name": "Onofrio",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Guido",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "06-13": [
@@ -1337,6 +2187,11 @@
       "name": "Antonio di Padova",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Antonio",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "06-14": [
@@ -1361,6 +2216,11 @@
       "name": "Crescenza",
       "source_type": "sainte",
       "type": "sainte"
+    },
+    {
+      "name": "Germana",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "06-16": [
@@ -1373,6 +2233,11 @@
       "name": "Giulitta",
       "source_type": "sainte",
       "type": "sainte"
+    },
+    {
+      "name": "Aureliano",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "06-17": [
@@ -1380,6 +2245,16 @@
       "name": "Ranieri di Pisa",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Sofia",
+      "source_type": "prenom",
+      "type": "prenom"
+    },
+    {
+      "name": "Ranieri",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "06-18": [
@@ -1392,6 +2267,11 @@
       "name": "Gregorio Barbarigo",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Gregorio",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "06-19": [
@@ -1399,6 +2279,16 @@
       "name": "Romualdo",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Gervasio",
+      "source_type": "prenom",
+      "type": "prenom"
+    },
+    {
+      "name": "Protasio",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "06-20": [
@@ -1406,6 +2296,11 @@
       "name": "Silverio",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Ettore",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "06-21": [
@@ -1413,6 +2308,11 @@
       "name": "Luigi Gonzaga",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Luigi",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "06-22": [
@@ -1430,6 +2330,11 @@
       "name": "Tommaso Moro",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Paolino",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "06-23": [
@@ -1437,6 +2342,11 @@
       "name": "Giuseppe Cafasso",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Agrippina",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "06-24": [
@@ -1444,6 +2354,11 @@
       "name": "Natività di San Giovanni Battista",
       "source_type": "sainte",
       "type": "sainte"
+    },
+    {
+      "name": "Giovanni",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "06-25": [
@@ -1451,6 +2366,16 @@
       "name": "Guglielmo di Vercelli",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Agato",
+      "source_type": "prenom",
+      "type": "prenom"
+    },
+    {
+      "name": "Diogene",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "06-26": [
@@ -1458,6 +2383,16 @@
       "name": "Vigilio di Trento",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Rodolfo",
+      "source_type": "prenom",
+      "type": "prenom"
+    },
+    {
+      "name": "Vigilio",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "06-27": [
@@ -1465,6 +2400,16 @@
       "name": "Cirillo di Alessandria",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Andrea",
+      "source_type": "prenom",
+      "type": "prenom"
+    },
+    {
+      "name": "Cirillo",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "06-28": [
@@ -1472,6 +2417,11 @@
       "name": "Ireneo di Lione",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Ireneo",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "06-29": [
@@ -1498,6 +2448,11 @@
       "name": "Aronne",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Caio",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "07-02": [
@@ -1510,6 +2465,16 @@
       "name": "Martinianus",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Bernardino",
+      "source_type": "prenom",
+      "type": "prenom"
+    },
+    {
+      "name": "Maria",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "07-03": [
@@ -1517,6 +2482,11 @@
       "name": "Tommaso Apostolo",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Tommaso",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "07-04": [
@@ -1524,6 +2494,16 @@
       "name": "Elisabetta di Portogallo",
       "source_type": "sainte",
       "type": "sainte"
+    },
+    {
+      "name": "Antonino",
+      "source_type": "prenom",
+      "type": "prenom"
+    },
+    {
+      "name": "Elisabetta",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "07-05": [
@@ -1531,6 +2511,11 @@
       "name": "Antonio Maria Zaccaria",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Filomena",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "07-06": [
@@ -1538,6 +2523,16 @@
       "name": "Maria Goretti",
       "source_type": "sainte",
       "type": "sainte"
+    },
+    {
+      "name": "Antonio",
+      "source_type": "prenom",
+      "type": "prenom"
+    },
+    {
+      "name": "Domenica",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "07-07": [
@@ -1545,6 +2540,16 @@
       "name": "Claudio",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Edda",
+      "source_type": "prenom",
+      "type": "prenom"
+    },
+    {
+      "name": "Apollonio",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "07-08": [
@@ -1552,6 +2557,11 @@
       "name": "Procopio di Cesarea",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Domenica",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "07-09": [
@@ -1559,6 +2569,11 @@
       "name": "Veronica Giuliani",
       "source_type": "sainte",
       "type": "sainte"
+    },
+    {
+      "name": "Letizia",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "07-10": [
@@ -1566,6 +2581,26 @@
       "name": "Benedetto da Norcia",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Armando",
+      "source_type": "prenom",
+      "type": "prenom"
+    },
+    {
+      "name": "Pietro",
+      "source_type": "prenom",
+      "type": "prenom"
+    },
+    {
+      "name": "Rufina",
+      "source_type": "prenom",
+      "type": "prenom"
+    },
+    {
+      "name": "Marziale",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "07-11": [
@@ -1573,6 +2608,11 @@
       "name": "Pio I",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Benedetto",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "07-12": [
@@ -1580,6 +2620,16 @@
       "name": "Giovanni Gualberto",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Ermacora",
+      "source_type": "prenom",
+      "type": "prenom"
+    },
+    {
+      "name": "Fortunato",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "07-13": [
@@ -1587,6 +2637,11 @@
       "name": "Enrico II",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Enrico",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "07-14": [
@@ -1594,6 +2649,16 @@
       "name": "Camillo de Lellis",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Camillo",
+      "source_type": "prenom",
+      "type": "prenom"
+    },
+    {
+      "name": "Giusto",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "07-15": [
@@ -1608,6 +2673,16 @@
       "name": "Madonna del Carmine",
       "source_type": "fete",
       "type": "fete"
+    },
+    {
+      "name": "Maria",
+      "source_type": "prenom",
+      "type": "prenom"
+    },
+    {
+      "name": "Vitaliano",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "07-17": [
@@ -1615,6 +2690,11 @@
       "name": "Alessio",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Marina",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "07-18": [
@@ -1622,6 +2702,16 @@
       "name": "Sinforosa",
       "source_type": "sainte",
       "type": "sainte"
+    },
+    {
+      "name": "Calogero",
+      "source_type": "prenom",
+      "type": "prenom"
+    },
+    {
+      "name": "Giusta",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "07-19": [
@@ -1641,6 +2731,16 @@
       "name": "Apollinare di Ravenna",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Elia",
+      "source_type": "prenom",
+      "type": "prenom"
+    },
+    {
+      "name": "Simmaco",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "07-21": [
@@ -1648,6 +2748,16 @@
       "name": "Lorenzo da Brindisi",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Lorenzo",
+      "source_type": "prenom",
+      "type": "prenom"
+    },
+    {
+      "name": "Vittore",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "07-22": [
@@ -1655,6 +2765,21 @@
       "name": "Maria Maddalena",
       "source_type": "sainte",
       "type": "sainte"
+    },
+    {
+      "name": "Lorenzo",
+      "source_type": "prenom",
+      "type": "prenom"
+    },
+    {
+      "name": "Maddalena",
+      "source_type": "prenom",
+      "type": "prenom"
+    },
+    {
+      "name": "Maria",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "07-23": [
@@ -1662,6 +2787,16 @@
       "name": "Brigida di Svezia",
       "source_type": "sainte",
       "type": "sainte"
+    },
+    {
+      "name": "Brigida",
+      "source_type": "prenom",
+      "type": "prenom"
+    },
+    {
+      "name": "Apollinare",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "07-24": [
@@ -1669,6 +2804,11 @@
       "name": "Cristina di Bolsena",
       "source_type": "sainte",
       "type": "sainte"
+    },
+    {
+      "name": "Cristina",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "07-25": [
@@ -1676,6 +2816,16 @@
       "name": "Giacomo il Maggiore",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Cristoforo",
+      "source_type": "prenom",
+      "type": "prenom"
+    },
+    {
+      "name": "Giacomo",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "07-26": [
@@ -1688,6 +2838,21 @@
       "name": "Anna",
       "source_type": "sainte",
       "type": "sainte"
+    },
+    {
+      "name": "Benigno",
+      "source_type": "prenom",
+      "type": "prenom"
+    },
+    {
+      "name": "Giacomo",
+      "source_type": "prenom",
+      "type": "prenom"
+    },
+    {
+      "name": "Caro",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "07-27": [
@@ -1695,6 +2860,16 @@
       "name": "Celestino I",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Celestino",
+      "source_type": "prenom",
+      "type": "prenom"
+    },
+    {
+      "name": "Pantaleone",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "07-28": [
@@ -1707,6 +2882,11 @@
       "name": "Celso",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Vittore",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "07-29": [
@@ -1714,6 +2894,11 @@
       "name": "Marta di Betania",
       "source_type": "sainte",
       "type": "sainte"
+    },
+    {
+      "name": "Marta",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "07-30": [
@@ -1721,6 +2906,11 @@
       "name": "Pietro Crisologo",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Pietro",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "07-31": [
@@ -1728,6 +2918,11 @@
       "name": "Ignazio di Loyola",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Barbara",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "08-01": [
@@ -1735,6 +2930,16 @@
       "name": "Alfonso Maria de' Liguori",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Alfonso",
+      "source_type": "prenom",
+      "type": "prenom"
+    },
+    {
+      "name": "Giacomo",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "08-02": [
@@ -1742,6 +2947,11 @@
       "name": "Eusebio di Vercelli",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Eusebio",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "08-03": [
@@ -1749,6 +2959,16 @@
       "name": "Lidia di Filippi",
       "source_type": "sainte",
       "type": "sainte"
+    },
+    {
+      "name": "Giovanni",
+      "source_type": "prenom",
+      "type": "prenom"
+    },
+    {
+      "name": "Lidia",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "08-04": [
@@ -1756,6 +2976,16 @@
       "name": "Giovanni Maria Vianney",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Francesco",
+      "source_type": "prenom",
+      "type": "prenom"
+    },
+    {
+      "name": "Nicodemo",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "08-05": [
@@ -1768,6 +2998,16 @@
       "name": "Osvaldo di Northumbria",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Osvaldo",
+      "source_type": "prenom",
+      "type": "prenom"
+    },
+    {
+      "name": "Vincenzo",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "08-06": [
@@ -1787,6 +3027,16 @@
       "name": "Donato di Arezzo",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Donato",
+      "source_type": "prenom",
+      "type": "prenom"
+    },
+    {
+      "name": "Gaetano",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "08-08": [
@@ -1801,6 +3051,26 @@
       "name": "Teresa Benedetta della Croce",
       "source_type": "sainte",
       "type": "sainte"
+    },
+    {
+      "name": "Maria",
+      "source_type": "prenom",
+      "type": "prenom"
+    },
+    {
+      "name": "Romano",
+      "source_type": "prenom",
+      "type": "prenom"
+    },
+    {
+      "name": "Fermo",
+      "source_type": "prenom",
+      "type": "prenom"
+    },
+    {
+      "name": "Rustico",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "08-10": [
@@ -1815,6 +3085,11 @@
       "name": "Chiara d'Assisi",
       "source_type": "sainte",
       "type": "sainte"
+    },
+    {
+      "name": "Chiara",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "08-12": [
@@ -1822,6 +3097,26 @@
       "name": "Giovanna Francesca de Chantal",
       "source_type": "sainte",
       "type": "sainte"
+    },
+    {
+      "name": "Chiara",
+      "source_type": "prenom",
+      "type": "prenom"
+    },
+    {
+      "name": "Onofrio",
+      "source_type": "prenom",
+      "type": "prenom"
+    },
+    {
+      "name": "Equizio",
+      "source_type": "prenom",
+      "type": "prenom"
+    },
+    {
+      "name": "Ercolano",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "08-13": [
@@ -1841,6 +3136,11 @@
       "name": "Massimiliano Maria Kolbe",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Alfredo",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "08-15": [
@@ -1848,6 +3148,16 @@
       "name": "Assunzione di Maria",
       "source_type": "fete",
       "type": "fete"
+    },
+    {
+      "name": "Assunta",
+      "source_type": "prenom",
+      "type": "prenom"
+    },
+    {
+      "name": "Maria",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "08-16": [
@@ -1855,6 +3165,11 @@
       "name": "Stefano d'Ungheria",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Rocco",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "08-17": [
@@ -1862,6 +3177,11 @@
       "name": "Giacinto di Cracovia",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Giacinto",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "08-18": [
@@ -1869,6 +3189,11 @@
       "name": "Elena Imperatrice",
       "source_type": "sainte",
       "type": "sainte"
+    },
+    {
+      "name": "Elena",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "08-19": [
@@ -1876,6 +3201,21 @@
       "name": "Giovanni Eudes",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Giovanni",
+      "source_type": "prenom",
+      "type": "prenom"
+    },
+    {
+      "name": "Mariano",
+      "source_type": "prenom",
+      "type": "prenom"
+    },
+    {
+      "name": "Magno",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "08-20": [
@@ -1883,6 +3223,11 @@
       "name": "Bernardo di Chiaravalle",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Bernardo",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "08-21": [
@@ -1890,6 +3235,16 @@
       "name": "Pio X",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Cristoforo",
+      "source_type": "prenom",
+      "type": "prenom"
+    },
+    {
+      "name": "Pio",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "08-22": [
@@ -1897,6 +3252,21 @@
       "name": "Maria Regina",
       "source_type": "sainte",
       "type": "sainte"
+    },
+    {
+      "name": "Fabrizio",
+      "source_type": "prenom",
+      "type": "prenom"
+    },
+    {
+      "name": "Maria",
+      "source_type": "prenom",
+      "type": "prenom"
+    },
+    {
+      "name": "Regina",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "08-23": [
@@ -1911,6 +3281,21 @@
       "name": "Bartolomeo Apostolo",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Bartolomeo",
+      "source_type": "prenom",
+      "type": "prenom"
+    },
+    {
+      "name": "Genesio",
+      "source_type": "prenom",
+      "type": "prenom"
+    },
+    {
+      "name": "Giuliano",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "08-25": [
@@ -1923,6 +3308,16 @@
       "name": "Giuseppe Calasanzio",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Ludovico",
+      "source_type": "prenom",
+      "type": "prenom"
+    },
+    {
+      "name": "Luigi",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "08-26": [
@@ -1930,6 +3325,16 @@
       "name": "Alessandro di Bergamo",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Alessandro",
+      "source_type": "prenom",
+      "type": "prenom"
+    },
+    {
+      "name": "Oronzo",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "08-27": [
@@ -1937,6 +3342,16 @@
       "name": "Monica",
       "source_type": "sainte",
       "type": "sainte"
+    },
+    {
+      "name": "Cesario",
+      "source_type": "prenom",
+      "type": "prenom"
+    },
+    {
+      "name": "Rocco",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "08-28": [
@@ -1944,6 +3359,16 @@
       "name": "Agostino d'Ippona",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Agostino",
+      "source_type": "prenom",
+      "type": "prenom"
+    },
+    {
+      "name": "Ermete",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "08-29": [
@@ -1951,6 +3376,21 @@
       "name": "Martirio di San Giovanni Battista",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Battista",
+      "source_type": "prenom",
+      "type": "prenom"
+    },
+    {
+      "name": "Giovanni",
+      "source_type": "prenom",
+      "type": "prenom"
+    },
+    {
+      "name": "Sabina",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "08-30": [
@@ -1958,6 +3398,16 @@
       "name": "Margherita Ward",
       "source_type": "sainte",
       "type": "sainte"
+    },
+    {
+      "name": "Donato",
+      "source_type": "prenom",
+      "type": "prenom"
+    },
+    {
+      "name": "Fantino",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "08-31": [
@@ -1965,6 +3415,11 @@
       "name": "Raimondo Nonnato",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Aristide",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "09-01": [
@@ -1972,6 +3427,21 @@
       "name": "Egidio abate",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Costanzo",
+      "source_type": "prenom",
+      "type": "prenom"
+    },
+    {
+      "name": "Egidio",
+      "source_type": "prenom",
+      "type": "prenom"
+    },
+    {
+      "name": "Cono",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "09-02": [
@@ -1986,6 +3456,41 @@
       "name": "Gregorio Magno",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Fausto",
+      "source_type": "prenom",
+      "type": "prenom"
+    },
+    {
+      "name": "Felice",
+      "source_type": "prenom",
+      "type": "prenom"
+    },
+    {
+      "name": "Gregorio",
+      "source_type": "prenom",
+      "type": "prenom"
+    },
+    {
+      "name": "Lorenzo",
+      "source_type": "prenom",
+      "type": "prenom"
+    },
+    {
+      "name": "Marino",
+      "source_type": "prenom",
+      "type": "prenom"
+    },
+    {
+      "name": "Rosa",
+      "source_type": "prenom",
+      "type": "prenom"
+    },
+    {
+      "name": "Teodoro",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "09-04": [
@@ -1993,6 +3498,11 @@
       "name": "Rosalia di Palermo",
       "source_type": "sainte",
       "type": "sainte"
+    },
+    {
+      "name": "Rosalia",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "09-05": [
@@ -2000,6 +3510,11 @@
       "name": "Teresa di Calcutta",
       "source_type": "sainte",
       "type": "sainte"
+    },
+    {
+      "name": "Vittorino",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "09-06": [
@@ -2007,6 +3522,11 @@
       "name": "Zaccaria",
       "source_type": "sainte",
       "type": "sainte"
+    },
+    {
+      "name": "Uberto",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "09-07": [
@@ -2014,6 +3534,11 @@
       "name": "Regina di Alise",
       "source_type": "sainte",
       "type": "sainte"
+    },
+    {
+      "name": "Grato",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "09-08": [
@@ -2021,6 +3546,16 @@
       "name": "Natività della Beata Vergine Maria",
       "source_type": "sainte",
       "type": "sainte"
+    },
+    {
+      "name": "Immacolata",
+      "source_type": "prenom",
+      "type": "prenom"
+    },
+    {
+      "name": "Maria",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "09-09": [
@@ -2028,6 +3563,16 @@
       "name": "Pietro Claver",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Pietro",
+      "source_type": "prenom",
+      "type": "prenom"
+    },
+    {
+      "name": "Sergio",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "09-10": [
@@ -2035,6 +3580,11 @@
       "name": "Nicola da Tolentino",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Nicola",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "09-11": [
@@ -2047,6 +3597,21 @@
       "name": "Giacinto",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Fausto",
+      "source_type": "prenom",
+      "type": "prenom"
+    },
+    {
+      "name": "Felice",
+      "source_type": "prenom",
+      "type": "prenom"
+    },
+    {
+      "name": "Diomede",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "09-12": [
@@ -2054,6 +3619,16 @@
       "name": "Santissimo Nome di Maria",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Maria",
+      "source_type": "prenom",
+      "type": "prenom"
+    },
+    {
+      "name": "Cesarea",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "09-13": [
@@ -2061,6 +3636,26 @@
       "name": "Giovanni Crisostomo",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Crisostomo",
+      "source_type": "prenom",
+      "type": "prenom"
+    },
+    {
+      "name": "Giovanni",
+      "source_type": "prenom",
+      "type": "prenom"
+    },
+    {
+      "name": "Regina",
+      "source_type": "prenom",
+      "type": "prenom"
+    },
+    {
+      "name": "Maurilio",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "09-14": [
@@ -2068,6 +3663,16 @@
       "name": "Esaltazione della Santa Croce",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Elena",
+      "source_type": "prenom",
+      "type": "prenom"
+    },
+    {
+      "name": "Crocifisso",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "09-15": [
@@ -2075,6 +3680,16 @@
       "name": "Beata Vergine Maria Addolorata",
       "source_type": "sainte",
       "type": "sainte"
+    },
+    {
+      "name": "Maria",
+      "source_type": "prenom",
+      "type": "prenom"
+    },
+    {
+      "name": "Mamiliano",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "09-16": [
@@ -2087,6 +3702,16 @@
       "name": "Cipriano",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Eufemia",
+      "source_type": "prenom",
+      "type": "prenom"
+    },
+    {
+      "name": "Dolcissima",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "09-17": [
@@ -2099,6 +3724,21 @@
       "name": "Stigmate di San Francesco",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Benedetto",
+      "source_type": "prenom",
+      "type": "prenom"
+    },
+    {
+      "name": "Roberto",
+      "source_type": "prenom",
+      "type": "prenom"
+    },
+    {
+      "name": "Ildegarda",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "09-18": [
@@ -2106,6 +3746,26 @@
       "name": "Giuseppe da Copertino",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Giuseppe",
+      "source_type": "prenom",
+      "type": "prenom"
+    },
+    {
+      "name": "Maria",
+      "source_type": "prenom",
+      "type": "prenom"
+    },
+    {
+      "name": "Sofia",
+      "source_type": "prenom",
+      "type": "prenom"
+    },
+    {
+      "name": "Eumenio",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "09-19": [
@@ -2125,6 +3785,16 @@
       "name": "Paolo Chong",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Candida",
+      "source_type": "prenom",
+      "type": "prenom"
+    },
+    {
+      "name": "Matteo",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "09-21": [
@@ -2132,6 +3802,11 @@
       "name": "Matteo Evangelista",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Matteo",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "09-22": [
@@ -2139,6 +3814,11 @@
       "name": "Maurizio",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Maria",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "09-23": [
@@ -2146,6 +3826,16 @@
       "name": "Pio da Pietrelcina",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Lino",
+      "source_type": "prenom",
+      "type": "prenom"
+    },
+    {
+      "name": "Pio",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "09-24": [
@@ -2153,6 +3843,16 @@
       "name": "Pacifico da San Severino",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Pacifico",
+      "source_type": "prenom",
+      "type": "prenom"
+    },
+    {
+      "name": "Terenzio",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "09-25": [
@@ -2160,6 +3860,16 @@
       "name": "Cleofa",
       "source_type": "sainte",
       "type": "sainte"
+    },
+    {
+      "name": "Aurelia",
+      "source_type": "prenom",
+      "type": "prenom"
+    },
+    {
+      "name": "Caterina",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "09-26": [
@@ -2172,6 +3882,11 @@
       "name": "Damiano",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Nilo",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "09-27": [
@@ -2179,6 +3894,21 @@
       "name": "Vincenzo de' Paoli",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Cosma",
+      "source_type": "prenom",
+      "type": "prenom"
+    },
+    {
+      "name": "Damiano",
+      "source_type": "prenom",
+      "type": "prenom"
+    },
+    {
+      "name": "Vincenzo",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "09-28": [
@@ -2203,6 +3933,11 @@
       "name": "Raffaele",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Nicolò",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "09-30": [
@@ -2210,6 +3945,11 @@
       "name": "Girolamo",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Gerolamo",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "10-01": [
@@ -2217,6 +3957,11 @@
       "name": "Teresa di Gesù Bambino",
       "source_type": "sainte",
       "type": "sainte"
+    },
+    {
+      "name": "Teresa",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "10-02": [
@@ -2224,6 +3969,11 @@
       "name": "Angeli Custodi",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Angelo",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "10-03": [
@@ -2231,6 +3981,11 @@
       "name": "Francesco Borgia",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Gerardo",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "10-04": [
@@ -2238,6 +3993,16 @@
       "name": "Francesco d'Assisi",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Francesco",
+      "source_type": "prenom",
+      "type": "prenom"
+    },
+    {
+      "name": "Petronio",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "10-05": [
@@ -2257,6 +4022,11 @@
       "name": "Bruno di Colonia",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Bruno",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "10-07": [
@@ -2264,6 +4034,16 @@
       "name": "Madonna del Rosario",
       "source_type": "fete",
       "type": "fete"
+    },
+    {
+      "name": "Maria",
+      "source_type": "prenom",
+      "type": "prenom"
+    },
+    {
+      "name": "Rosario",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "10-08": [
@@ -2271,6 +4051,11 @@
       "name": "Pelagia di Antiochia",
       "source_type": "sainte",
       "type": "sainte"
+    },
+    {
+      "name": "Pelagia",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "10-09": [
@@ -2283,6 +4068,16 @@
       "name": "Giovanni Leonardi",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Abramo",
+      "source_type": "prenom",
+      "type": "prenom"
+    },
+    {
+      "name": "Dionigi",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "10-10": [
@@ -2290,6 +4085,11 @@
       "name": "Daniele Comboni",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Daniele",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "10-11": [
@@ -2297,6 +4097,11 @@
       "name": "Giovanni XXIII",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Firmino",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "10-12": [
@@ -2304,6 +4109,11 @@
       "name": "Serafino da Montegranaro",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Serafino",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "10-13": [
@@ -2311,6 +4121,16 @@
       "name": "Edoardo il Confessore",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Benedetto",
+      "source_type": "prenom",
+      "type": "prenom"
+    },
+    {
+      "name": "Edoardo",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "10-14": [
@@ -2318,6 +4138,16 @@
       "name": "Callisto I",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Callisto",
+      "source_type": "prenom",
+      "type": "prenom"
+    },
+    {
+      "name": "Gaudenzo",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "10-15": [
@@ -2325,6 +4155,11 @@
       "name": "Teresa d'Avila",
       "source_type": "sainte",
       "type": "sainte"
+    },
+    {
+      "name": "Teresa",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "10-16": [
@@ -2337,6 +4172,21 @@
       "name": "Edvige",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Fortunato",
+      "source_type": "prenom",
+      "type": "prenom"
+    },
+    {
+      "name": "Irene",
+      "source_type": "prenom",
+      "type": "prenom"
+    },
+    {
+      "name": "Margherita",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "10-17": [
@@ -2344,6 +4194,11 @@
       "name": "Ignazio di Antiochia",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Ignazio",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "10-18": [
@@ -2351,6 +4206,11 @@
       "name": "Luca Evangelista",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Luca",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "10-19": [
@@ -2363,6 +4223,16 @@
       "name": "Paolo della Croce",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Isaac",
+      "source_type": "prenom",
+      "type": "prenom"
+    },
+    {
+      "name": "Laura",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "10-20": [
@@ -2370,6 +4240,11 @@
       "name": "Adeline",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Irene",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "10-21": [
@@ -2389,6 +4264,11 @@
       "name": "Giovanni Paolo II",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Donato",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "10-23": [
@@ -2396,6 +4276,11 @@
       "name": "Giovanni da Capestrano",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Giovanni",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "10-24": [
@@ -2403,6 +4288,11 @@
       "name": "Antonio Maria Claret",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Ponzia",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "10-25": [
@@ -2429,6 +4319,11 @@
       "name": "Fiorenzo di Strasburgo",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Fiorenzo",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "10-28": [
@@ -2441,6 +4336,11 @@
       "name": "Giuda Taddeo",
       "source_type": "sainte",
       "type": "sainte"
+    },
+    {
+      "name": "Giuda",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "10-29": [
@@ -2448,6 +4348,11 @@
       "name": "Gaetano Errico",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Ermelinda",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "10-30": [
@@ -2455,6 +4360,11 @@
       "name": "Germano di Capua",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Germano",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "10-31": [
@@ -2474,6 +4384,11 @@
       "name": "Ognissanti",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Egidio",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "11-02": [
@@ -2488,6 +4403,21 @@
       "name": "Martino de Porres",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Giusto",
+      "source_type": "prenom",
+      "type": "prenom"
+    },
+    {
+      "name": "Silvia",
+      "source_type": "prenom",
+      "type": "prenom"
+    },
+    {
+      "name": "Amico",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "11-04": [
@@ -2495,6 +4425,16 @@
       "name": "Carlo Borromeo",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Carlo",
+      "source_type": "prenom",
+      "type": "prenom"
+    },
+    {
+      "name": "Guido",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "11-05": [
@@ -2507,6 +4447,11 @@
       "name": "Elisabetta",
       "source_type": "sainte",
       "type": "sainte"
+    },
+    {
+      "name": "Cesareo",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "11-06": [
@@ -2514,6 +4459,11 @@
       "name": "Leonardo di Noblac",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Leonardo",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "11-07": [
@@ -2521,6 +4471,16 @@
       "name": "Ernesto di Zwiefalten",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Ernesto",
+      "source_type": "prenom",
+      "type": "prenom"
+    },
+    {
+      "name": "Prosdocimo",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "11-08": [
@@ -2528,6 +4488,11 @@
       "name": "Goffredo di Amiens",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Goffredo",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "11-09": [
@@ -2535,6 +4500,16 @@
       "name": "Dedicazione della Basilica Lateranense",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Oreste",
+      "source_type": "prenom",
+      "type": "prenom"
+    },
+    {
+      "name": "Teodoro",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "11-10": [
@@ -2542,6 +4517,26 @@
       "name": "Leone Magno",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Andrea",
+      "source_type": "prenom",
+      "type": "prenom"
+    },
+    {
+      "name": "Leone",
+      "source_type": "prenom",
+      "type": "prenom"
+    },
+    {
+      "name": "Baudolino",
+      "source_type": "prenom",
+      "type": "prenom"
+    },
+    {
+      "name": "Trifone",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "11-11": [
@@ -2549,6 +4544,11 @@
       "name": "Martino di Tours",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Martino",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "11-12": [
@@ -2556,6 +4556,16 @@
       "name": "Giosafat Kuncewicz",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Ninfa",
+      "source_type": "prenom",
+      "type": "prenom"
+    },
+    {
+      "name": "Renato",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "11-13": [
@@ -2563,6 +4573,26 @@
       "name": "Diego d'Alcalá",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Diego",
+      "source_type": "prenom",
+      "type": "prenom"
+    },
+    {
+      "name": "Brizio",
+      "source_type": "prenom",
+      "type": "prenom"
+    },
+    {
+      "name": "Omobono",
+      "source_type": "prenom",
+      "type": "prenom"
+    },
+    {
+      "name": "Paterniano",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "11-14": [
@@ -2570,6 +4600,16 @@
       "name": "Giocondo di Bologna",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Venera",
+      "source_type": "prenom",
+      "type": "prenom"
+    },
+    {
+      "name": "Giocondo",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "11-15": [
@@ -2577,6 +4617,11 @@
       "name": "Alberto Magno",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Alberto",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "11-16": [
@@ -2589,6 +4634,16 @@
       "name": "Gertrude",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Margherita",
+      "source_type": "prenom",
+      "type": "prenom"
+    },
+    {
+      "name": "Procolo",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "11-17": [
@@ -2596,6 +4651,16 @@
       "name": "Elisabetta d'Ungheria",
       "source_type": "sainte",
       "type": "sainte"
+    },
+    {
+      "name": "Elisabetta",
+      "source_type": "prenom",
+      "type": "prenom"
+    },
+    {
+      "name": "Gregorio",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "11-18": [
@@ -2622,6 +4687,16 @@
       "name": "Benigno di Milano",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Benigno",
+      "source_type": "prenom",
+      "type": "prenom"
+    },
+    {
+      "name": "Edmondo",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "11-21": [
@@ -2629,6 +4704,11 @@
       "name": "Presentazione della Beata Vergine Maria",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Maria",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "11-22": [
@@ -2648,6 +4728,11 @@
       "name": "Colombano",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Clemente",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "11-24": [
@@ -2655,6 +4740,31 @@
       "name": "Andrea Dung-Lac",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Flaviano",
+      "source_type": "prenom",
+      "type": "prenom"
+    },
+    {
+      "name": "Flora",
+      "source_type": "prenom",
+      "type": "prenom"
+    },
+    {
+      "name": "Prospero",
+      "source_type": "prenom",
+      "type": "prenom"
+    },
+    {
+      "name": "Cristo",
+      "source_type": "prenom",
+      "type": "prenom"
+    },
+    {
+      "name": "Firminia",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "11-25": [
@@ -2662,6 +4772,11 @@
       "name": "Caterina d'Alessandria",
       "source_type": "sainte",
       "type": "sainte"
+    },
+    {
+      "name": "Caterina",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "11-26": [
@@ -2669,6 +4784,16 @@
       "name": "Leonardo da Porto Maurizio",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Corrado",
+      "source_type": "prenom",
+      "type": "prenom"
+    },
+    {
+      "name": "Cristo",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "11-27": [
@@ -2676,6 +4801,21 @@
       "name": "Virgilio di Salisburgo",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Cosimo",
+      "source_type": "prenom",
+      "type": "prenom"
+    },
+    {
+      "name": "Massimo",
+      "source_type": "prenom",
+      "type": "prenom"
+    },
+    {
+      "name": "Virgilio",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "11-28": [
@@ -2683,6 +4823,11 @@
       "name": "Giacomo della Marca",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Fausta",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "11-29": [
@@ -2690,6 +4835,11 @@
       "name": "Saturnino di Tolosa",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Saturnino",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "11-30": [
@@ -2697,6 +4847,21 @@
       "name": "Andrea Apostolo",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Andrea",
+      "source_type": "prenom",
+      "type": "prenom"
+    },
+    {
+      "name": "Clemente",
+      "source_type": "prenom",
+      "type": "prenom"
+    },
+    {
+      "name": "Martino",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "12-01": [
@@ -2704,6 +4869,11 @@
       "name": "Eligio",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Ansano",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "12-02": [
@@ -2718,6 +4888,16 @@
       "name": "Francesco Saverio",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Francesco",
+      "source_type": "prenom",
+      "type": "prenom"
+    },
+    {
+      "name": "Saverio",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "12-04": [
@@ -2737,6 +4917,16 @@
       "name": "Saba",
       "source_type": "sainte",
       "type": "sainte"
+    },
+    {
+      "name": "Giulio",
+      "source_type": "prenom",
+      "type": "prenom"
+    },
+    {
+      "name": "Lucia",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "12-06": [
@@ -2744,6 +4934,11 @@
       "name": "Nicola di Bari",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Nicola",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "12-07": [
@@ -2758,6 +4953,11 @@
       "name": "Immacolata Concezione",
       "source_type": "fete",
       "type": "fete"
+    },
+    {
+      "name": "Immacolata",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "12-09": [
@@ -2765,6 +4965,11 @@
       "name": "Siro di Pavia",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Siro",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "12-10": [
@@ -2772,6 +4977,11 @@
       "name": "Madonna di Loreto",
       "source_type": "fete",
       "type": "fete"
+    },
+    {
+      "name": "Loreto",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "12-11": [
@@ -2779,6 +4989,11 @@
       "name": "Damaso I",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Damaso",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "12-12": [
@@ -2791,6 +5006,11 @@
       "name": "Madonna di Guadalupe",
       "source_type": "fete",
       "type": "fete"
+    },
+    {
+      "name": "Giovanna",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "12-13": [
@@ -2798,6 +5018,11 @@
       "name": "Lucia",
       "source_type": "sainte",
       "type": "sainte"
+    },
+    {
+      "name": "Antioco",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "12-14": [
@@ -2805,6 +5030,16 @@
       "name": "Giovanni della Croce",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Valeriano",
+      "source_type": "prenom",
+      "type": "prenom"
+    },
+    {
+      "name": "Venanzio",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "12-15": [
@@ -2812,6 +5047,11 @@
       "name": "Virginia Centurione Bracelli",
       "source_type": "sainte",
       "type": "sainte"
+    },
+    {
+      "name": "Cristiana",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "12-16": [
@@ -2819,6 +5059,11 @@
       "name": "Adelaide di Borgogna",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Albina",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "12-17": [
@@ -2840,6 +5085,11 @@
       "name": "Anania di Gerusalemme",
       "source_type": "sainte",
       "type": "sainte"
+    },
+    {
+      "name": "Dario",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "12-20": [
@@ -2847,6 +5097,16 @@
       "name": "Dominic of Silos",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Liberato",
+      "source_type": "prenom",
+      "type": "prenom"
+    },
+    {
+      "name": "Macario",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "12-21": [
@@ -2854,6 +5114,11 @@
       "name": "Pietro Canisio",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Pietro",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "12-22": [
@@ -2861,6 +5126,16 @@
       "name": "Francesca Saverio Cabrini",
       "source_type": "sainte",
       "type": "sainte"
+    },
+    {
+      "name": "Flaviano",
+      "source_type": "prenom",
+      "type": "prenom"
+    },
+    {
+      "name": "Francesca",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "12-23": [
@@ -2868,6 +5143,11 @@
       "name": "Giovanni da Kęty",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Giovanni",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "12-24": [
@@ -2875,6 +5155,11 @@
       "name": "Vigilia di Natale",
       "source_type": "fete",
       "type": "fete"
+    },
+    {
+      "name": "Adele",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "12-25": [
@@ -2899,6 +5184,11 @@
       "name": "Santo Stefano",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Santo",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "12-27": [
@@ -2906,6 +5196,11 @@
       "name": "Giovanni Evangelista",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Giovanni",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "12-28": [
@@ -2920,6 +5215,16 @@
       "name": "Tommaso Becket",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Davide",
+      "source_type": "prenom",
+      "type": "prenom"
+    },
+    {
+      "name": "Tommaso",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "12-30": [
@@ -2927,6 +5232,11 @@
       "name": "Eugenio di Milano",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Eugenio",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "12-31": [
@@ -2934,6 +5244,16 @@
       "name": "Silvestro I",
       "source_type": "saint",
       "type": "saint"
+    },
+    {
+      "name": "Paolina",
+      "source_type": "prenom",
+      "type": "prenom"
+    },
+    {
+      "name": "Silvestro",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ]
 }

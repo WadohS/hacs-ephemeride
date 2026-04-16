@@ -9,7 +9,7 @@ Français | [English](README.md)
 ![Project Maintenance][maintenance-shield]
 [![Community Forum][forum-shield]][forum]
 
-_Intégration Home Assistant qui expose les commémorations visibles du jour avec des capteurs dédiés pour les saints, saintes, fêtes, dates religieuses et autres événements._
+_Intégration Home Assistant qui expose les commémorations visibles du jour avec des capteurs dédiés pour les saints, saintes, fêtes, dates religieuses, prénoms et autres événements._
 
 [![Ouvrir dans HACS](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=WadohS&repository=hacs-ephemeride&category=integration)
 
@@ -23,7 +23,7 @@ Plateforme | Description
 -- | --
 `sensor` | Capteurs exposant les commémorations du jour et des capteurs dédiés par catégorie
 
-### `sensor.saint_du_jour`
+### `sensor.saints_du_jour`
 
 - État : liste des commémorations du jour, limitée à 5 entrées
 - Attributs :
@@ -39,13 +39,14 @@ Plateforme | Description
 
 ### Capteurs supplémentaires
 
-- `sensor.saint_masculin_du_jour`
+- `sensor.saint_du_jour`
 - `sensor.sainte_du_jour`
 - `sensor.fete_du_jour`
 - `sensor.date_religieuse_du_jour`
+- `sensor.prenom_du_jour`
 - `sensor.autre_du_jour`
 
-Chaque capteur de catégorie affiche la liste filtrée du jour, limitée à 5 entrées, et expose aussi l'élément principal du jour et du lendemain dans ses attributs. Les entrées non typées restent dans `sensor.autre_du_jour` tant que le fichier de langue n'apporte pas de métadonnées explicites.
+Chaque capteur de catégorie affiche la liste filtrée du jour, limitée à 5 entrées, et expose aussi l'élément principal du jour et du lendemain dans ses attributs. Les entrées non typées restent dans `sensor.autre_du_jour` tant que le fichier de langue n'apporte pas de métadonnées explicites. Les prénoms du jour peuvent maintenant être isolés dans `sensor.prenom_du_jour` sans les mélanger aux saints.
 
 ## Langues supportées
 
@@ -96,8 +97,8 @@ L'intégration se recharge automatiquement après changement de langue.
 
 ```yaml
 type: entity
-entity: sensor.saint_du_jour
-name: Saint du jour
+entity: sensor.saints_du_jour
+name: Saints du jour
 icon: mdi:calendar-star
 ```
 
@@ -112,8 +113,8 @@ automation:
     action:
       - service: notify.mobile_app
         data:
-          title: "Saint du jour"
-          message: "Nous fêtons {{ states('sensor.saint_du_jour') }} aujourd'hui"
+          title: "Saints du jour"
+          message: "Nous fêtons {{ states('sensor.saints_du_jour') }} aujourd'hui"
 ```
 
 ## Notes de développement

@@ -11,17 +11,19 @@ LANGUAGE_OPTIONS = {
     "it": "Italiano",
     "pt": "Português",
 }
-SENSOR_NAME = "saint_du_jour"
-SENSOR_SAINT_MASCULIN_NAME = "saint_masculin_du_jour"
+SENSOR_SAINTS_NAME = "saints_du_jour"
+SENSOR_SAINT_NAME = "saint_du_jour"
 SENSOR_SAINTE_NAME = "sainte_du_jour"
 SENSOR_FETE_NAME = "fete_du_jour"
 SENSOR_DATE_RELIGIEUSE_NAME = "date_religieuse_du_jour"
+SENSOR_PRENOM_NAME = "prenom_du_jour"
 SENSOR_AUTRE_NAME = "autre_du_jour"
 
 CATEGORY_SAINT = "saint"
 CATEGORY_SAINTE = "sainte"
 CATEGORY_FETE = "fete"
 CATEGORY_DATE_RELIGIEUSE = "date_religieuse"
+CATEGORY_PRENOM = "prenom"
 CATEGORY_AUTRE = "autre"
 
 CATEGORY_SENSOR_KEYS = [
@@ -29,6 +31,7 @@ CATEGORY_SENSOR_KEYS = [
     CATEGORY_SAINTE,
     CATEGORY_FETE,
     CATEGORY_DATE_RELIGIEUSE,
+    CATEGORY_PRENOM,
     CATEGORY_AUTRE,
 ]
 
@@ -45,6 +48,10 @@ EXPLICIT_TYPE_ALIASES = {
     "date religieuse": CATEGORY_DATE_RELIGIEUSE,
     CATEGORY_DATE_RELIGIEUSE: CATEGORY_DATE_RELIGIEUSE,
     "religious date": CATEGORY_DATE_RELIGIEUSE,
+    "prenom": CATEGORY_PRENOM,
+    CATEGORY_PRENOM: CATEGORY_PRENOM,
+    "name day": CATEGORY_PRENOM,
+    "given name": CATEGORY_PRENOM,
     CATEGORY_AUTRE: CATEGORY_AUTRE,
 }
 
@@ -255,51 +262,57 @@ UNKNOWN_STATE = {
 
 ENTITY_TITLES = {
     "fr": {
-        "general": "Saint du jour",
-        CATEGORY_SAINT: "Saint masculin du jour",
+        "general": "Saints du jour",
+        CATEGORY_SAINT: "Saint du jour",
         CATEGORY_SAINTE: "Sainte du jour",
         CATEGORY_FETE: "Fête du jour",
         CATEGORY_DATE_RELIGIEUSE: "Date religieuse du jour",
+        CATEGORY_PRENOM: "Prénom du jour",
         CATEGORY_AUTRE: "Autre du jour",
     },
     "en": {
-        "general": "Saint of the day",
-        CATEGORY_SAINT: "Male saint of the day",
+        "general": "Saints of the day",
+        CATEGORY_SAINT: "Saint of the day",
         CATEGORY_SAINTE: "Female saint of the day",
         CATEGORY_FETE: "Feast of the day",
         CATEGORY_DATE_RELIGIEUSE: "Religious date of the day",
+        CATEGORY_PRENOM: "Name of the day",
         CATEGORY_AUTRE: "Other commemoration of the day",
     },
     "de": {
-        "general": "Heiliger des Tages",
-        CATEGORY_SAINT: "Mannlicher Heiliger des Tages",
+        "general": "Heilige des Tages",
+        CATEGORY_SAINT: "Heiliger des Tages",
         CATEGORY_SAINTE: "Heilige des Tages",
         CATEGORY_FETE: "Fest des Tages",
         CATEGORY_DATE_RELIGIEUSE: "Religioses Datum des Tages",
+        CATEGORY_PRENOM: "Vorname des Tages",
         CATEGORY_AUTRE: "Andere Gedenkfeier des Tages",
     },
     "es": {
-        "general": "Santo del dia",
-        CATEGORY_SAINT: "Santo masculino del dia",
+        "general": "Santos del dia",
+        CATEGORY_SAINT: "Santo del dia",
         CATEGORY_SAINTE: "Santa del dia",
         CATEGORY_FETE: "Fiesta del dia",
         CATEGORY_DATE_RELIGIEUSE: "Fecha religiosa del dia",
+        CATEGORY_PRENOM: "Nombre del dia",
         CATEGORY_AUTRE: "Otro evento del dia",
     },
     "it": {
-        "general": "Santo del giorno",
-        CATEGORY_SAINT: "Santo maschile del giorno",
+        "general": "Santi del giorno",
+        CATEGORY_SAINT: "Santo del giorno",
         CATEGORY_SAINTE: "Santa del giorno",
         CATEGORY_FETE: "Festa del giorno",
         CATEGORY_DATE_RELIGIEUSE: "Data religiosa del giorno",
+        CATEGORY_PRENOM: "Nome del giorno",
         CATEGORY_AUTRE: "Altro evento del giorno",
     },
     "pt": {
-        "general": "Santo do dia",
-        CATEGORY_SAINT: "Santo masculino do dia",
+        "general": "Santos do dia",
+        CATEGORY_SAINT: "Santo do dia",
         CATEGORY_SAINTE: "Santa do dia",
         CATEGORY_FETE: "Festa do dia",
         CATEGORY_DATE_RELIGIEUSE: "Data religiosa do dia",
+        CATEGORY_PRENOM: "Nome do dia",
         CATEGORY_AUTRE: "Outro evento do dia",
     },
 }

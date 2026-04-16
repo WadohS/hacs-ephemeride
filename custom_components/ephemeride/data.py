@@ -35,9 +35,12 @@ def normalize_entry(raw_entry: object, language: str) -> dict[str, str | None]:
     if isinstance(raw_entry, dict):
         name = str(raw_entry.get("nom") or raw_entry.get("name") or "").strip()
         raw_type = raw_entry.get("type")
+        source_type = raw_entry.get("source_type")
+        if raw_type is None and source_type is not None:
+            raw_type = source_type
         if raw_type is not None:
             raw_type = str(raw_type).strip()
-        if raw_type == CATEGORY_AUTRE and raw_entry.get("source_type") in (None, "autre", "other"):
+        if raw_type == CATEGORY_AUTRE and source_type in (None, "autre", "other"):
             raw_type = None
     elif isinstance(raw_entry, list):
         if raw_entry:

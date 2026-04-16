@@ -6,8 +6,8 @@ This directory contains the Home Assistant custom component for `ephemeride`.
 
 ## What it does
 
-- exposes `sensor.saint_du_jour`
-- exposes category sensors for saints, female saints, feasts, religious dates and others
+- exposes `sensor.saints_du_jour`
+- exposes category sensors for saints, female saints, feasts, religious dates, given names and others
 - supports six language datasets
 - lets the user change language from the UI
 - reloads automatically after an options change

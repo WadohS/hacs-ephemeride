@@ -14,6 +14,7 @@ from .const import (
     CATEGORY_AUTRE,
     CATEGORY_DATE_RELIGIEUSE,
     CATEGORY_FETE,
+    CATEGORY_PRENOM,
     CATEGORY_SAINT,
     CATEGORY_SAINTE,
     CONF_LANGUAGE,
@@ -23,8 +24,9 @@ from .const import (
     SENSOR_AUTRE_NAME,
     SENSOR_DATE_RELIGIEUSE_NAME,
     SENSOR_FETE_NAME,
-    SENSOR_NAME,
-    SENSOR_SAINT_MASCULIN_NAME,
+    SENSOR_SAINTS_NAME,
+    SENSOR_PRENOM_NAME,
+    SENSOR_SAINT_NAME,
     SENSOR_SAINTE_NAME,
     UNKNOWN_STATE,
 )
@@ -32,8 +34,8 @@ from .const import (
 _LOGGER = logging.getLogger(__name__)
 
 SENSOR_DEFINITIONS = [
-    {"key": "general", "unique": SENSOR_NAME, "category": None},
-    {"key": CATEGORY_SAINT, "unique": SENSOR_SAINT_MASCULIN_NAME, "category": CATEGORY_SAINT},
+    {"key": "general", "unique": SENSOR_SAINTS_NAME, "category": None},
+    {"key": CATEGORY_SAINT, "unique": SENSOR_SAINT_NAME, "category": CATEGORY_SAINT},
     {"key": CATEGORY_SAINTE, "unique": SENSOR_SAINTE_NAME, "category": CATEGORY_SAINTE},
     {"key": CATEGORY_FETE, "unique": SENSOR_FETE_NAME, "category": CATEGORY_FETE},
     {
@@ -41,6 +43,7 @@ SENSOR_DEFINITIONS = [
         "unique": SENSOR_DATE_RELIGIEUSE_NAME,
         "category": CATEGORY_DATE_RELIGIEUSE,
     },
+    {"key": CATEGORY_PRENOM, "unique": SENSOR_PRENOM_NAME, "category": CATEGORY_PRENOM},
     {"key": CATEGORY_AUTRE, "unique": SENSOR_AUTRE_NAME, "category": CATEGORY_AUTRE},
 ]
 
@@ -79,6 +82,7 @@ class EphemerideSensor(CoordinatorEntity, SensorEntity):
         self._category = category
         self._attr_name = ENTITY_TITLES.get(lang, ENTITY_TITLES["fr"])[title_key]
         self._attr_unique_id = f"{DOMAIN}_{unique_name}"
+        self._attr_suggested_object_id = unique_name
         self._attr_icon = "mdi:calendar-star"
         self._attr_has_entity_name = True
 

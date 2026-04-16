@@ -14,9 +14,10 @@ LANG_DIR = ROOT / "custom_components" / "ephemeride" / "languages"
 
 def load_module(module_name: str, relative_path: str):
     spec = importlib.util.spec_from_file_location(module_name, ROOT / relative_path)
+    assert spec is not None
+    assert spec.loader is not None
     module = importlib.util.module_from_spec(spec)
     sys.modules[module_name] = module
-    assert spec.loader is not None
     spec.loader.exec_module(module)
     return module
 
@@ -37,7 +38,7 @@ def main() -> int:
     data = load_module("custom_components.ephemeride.data", "custom_components/ephemeride/data.py")
 
     categories = const.CATEGORY_SENSOR_KEYS
-    print("language,total,saint,sainte,fete,date_religieuse,autre")
+    print("language,total,saint,sainte,fete,date_religieuse,prenom,autre")
 
     for language in const.SUPPORTED_LANGUAGES:
         content = json.loads((LANG_DIR / f"{language}.json").read_text(encoding="utf-8"))

@@ -9,7 +9,7 @@
 ![Project Maintenance][maintenance-shield]
 [![Community Forum][forum-shield]][forum]
 
-_Home Assistant integration that exposes the visible commemorations of the day with dedicated sensors for saints, female saints, feasts, religious dates and other events._
+_Home Assistant integration that exposes the visible commemorations of the day with dedicated sensors for saints, female saints, feasts, religious dates, given names and other events._
 
 [![Open in HACS](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=WadohS&repository=hacs-ephemeride&category=integration)
 
@@ -23,7 +23,7 @@ Platform | Description
 -- | --
 `sensor` | Sensors exposing the day's commemorations plus dedicated category sensors
 
-### `sensor.saint_du_jour`
+### `sensor.saints_du_jour`
 
 - State: list of the day's commemorations, limited to 5 entries
 - Attributes:
@@ -39,13 +39,14 @@ Platform | Description
 
 ### Additional sensors
 
-- `sensor.saint_masculin_du_jour`
+- `sensor.saint_du_jour`
 - `sensor.sainte_du_jour`
 - `sensor.fete_du_jour`
 - `sensor.date_religieuse_du_jour`
+- `sensor.prenom_du_jour`
 - `sensor.autre_du_jour`
 
-Each category sensor displays the matching entries for today, limited to 5 items, and also exposes the primary entry for today and tomorrow in its attributes. Untyped entries remain in `sensor.autre_du_jour` until the corresponding language file provides explicit metadata.
+Each category sensor displays the matching entries for today, limited to 5 items, and also exposes the primary entry for today and tomorrow in its attributes. Untyped entries remain in `sensor.autre_du_jour` until the corresponding language file provides explicit metadata. Given names can now be isolated in `sensor.prenom_du_jour` instead of being mixed with saints.
 
 ## Supported Languages
 
@@ -96,8 +97,8 @@ The integration reloads automatically when the language is updated.
 
 ```yaml
 type: entity
-entity: sensor.saint_du_jour
-name: Saint of the day
+entity: sensor.saints_du_jour
+name: Saints of the day
 icon: mdi:calendar-star
 ```
 
@@ -112,8 +113,8 @@ automation:
     action:
       - service: notify.mobile_app
         data:
-          title: "Saint of the day"
-          message: "Today we celebrate {{ states('sensor.saint_du_jour') }}"
+          title: "Saints of the day"
+          message: "Today we celebrate {{ states('sensor.saints_du_jour') }}"
 ```
 
 ## Development Notes
