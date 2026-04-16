@@ -9,7 +9,7 @@ Français | [English](README.md)
 ![Project Maintenance][maintenance-shield]
 [![Community Forum][forum-shield]][forum]
 
-_Intégration Home Assistant qui expose la commémoration principale du jour avec des capteurs dédiés pour les saints, saintes, fêtes, dates religieuses et autres événements._
+_Intégration Home Assistant qui expose les commémorations visibles du jour avec des capteurs dédiés pour les saints, saintes, fêtes, dates religieuses et autres événements._
 
 [![Ouvrir dans HACS](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=WadohS&repository=hacs-ephemeride&category=integration)
 
@@ -21,13 +21,15 @@ Cette intégration crée la plateforme suivante :
 
 Plateforme | Description
 -- | --
-`sensor` | Capteurs exposant la commémoration principale et des capteurs dédiés par catégorie
+`sensor` | Capteurs exposant les commémorations du jour et des capteurs dédiés par catégorie
 
 ### `sensor.saint_du_jour`
 
-- État : commémoration principale du jour
+- État : liste des commémorations du jour, limitée à 5 entrées
 - Attributs :
   - `saint_demain` : saint principal du lendemain
+  - `commemoration_principale_aujourdhui` : premier élément du jour
+  - `commemoration_principale_demain` : premier élément du lendemain
   - `langue` : langue configurée
   - `date` : date locale courante selon le fuseau Home Assistant
   - `tous_saints_aujourdhui` : liste complète du jour, limitée à 5 entrées
@@ -43,7 +45,7 @@ Plateforme | Description
 - `sensor.date_religieuse_du_jour`
 - `sensor.autre_du_jour`
 
-Chaque capteur de catégorie expose le premier élément du jour, celui du lendemain, la liste filtrée et le nombre d'éléments correspondants. Les entrées non typées restent dans `sensor.autre_du_jour` tant que le fichier de langue n'apporte pas de métadonnées explicites.
+Chaque capteur de catégorie affiche la liste filtrée du jour, limitée à 5 entrées, et expose aussi l'élément principal du jour et du lendemain dans ses attributs. Les entrées non typées restent dans `sensor.autre_du_jour` tant que le fichier de langue n'apporte pas de métadonnées explicites.
 
 ## Langues supportées
 

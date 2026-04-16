@@ -97,13 +97,13 @@ class EphemerideSensor(CoordinatorEntity, SensorEntity):
             return UNKNOWN_STATE.get(self._lang, UNKNOWN_STATE["fr"])
 
         if self._category is None:
-            return self.coordinator.data.get(
-                "saint_aujourdhui",
-                UNKNOWN_STATE.get(self._lang, UNKNOWN_STATE["fr"]),
+            return self._format_state(
+                self.coordinator.data.get("tous_saints_aujourdhui", []),
+                self.coordinator.data.get("saint_aujourdhui"),
             )
 
         category_data = self._today_category_data
-        return category_data.get("first") or UNKNOWN_STATE.get(self._lang, UNKNOWN_STATE["fr"])
+        return self._format_state(category_data.get("names", []), category_data.get("first"))
 
     @property
     def extra_state_attributes(self):
@@ -115,6 +115,14 @@ class EphemerideSensor(CoordinatorEntity, SensorEntity):
         if self._category is None:
             return {
                 "saint_demain": data.get("saint_demain", UNKNOWN_STATE.get(self._lang, UNKNOWN_STATE["fr"])),
+                "commemoration_principale_aujourdhui": data.get(
+                    "saint_aujourdhui",
+                    UNKNOWN_STATE.get(self._lang, UNKNOWN_STATE["fr"]),
+                ),
+                "commemoration_principale_demain": data.get(
+                    "saint_demain",
+                    UNKNOWN_STATE.get(self._lang, UNKNOWN_STATE["fr"]),
+                ),
                 "type_aujourdhui": data.get("type_aujourdhui"),
                 "type_demain": data.get("type_demain"),
                 "langue": data.get("langue", self._lang),
@@ -132,6 +140,11 @@ class EphemerideSensor(CoordinatorEntity, SensorEntity):
             "langue": data.get("langue", self._lang),
             "date": data.get("date", ""),
             "element_demain": tomorrow.get("first", UNKNOWN_STATE.get(self._lang, UNKNOWN_STATE["fr"])),
+            "element_principal_aujourdhui": today.get("first", UNKNOWN_STATE.get(self._lang, UNKNOWN_STATE["fr"])),
+            "element_principal_demain": tomorrow.get(
+                "first",
+                UNKNOWN_STATE.get(self._lang, UNKNOWN_STATE["fr"]),
+            ),
             "type_aujourdhui": today.get("first_type"),
             "type_demain": tomorrow.get("first_type"),
             "elements_aujourdhui": today.get("names", []),
@@ -139,6 +152,17 @@ class EphemerideSensor(CoordinatorEntity, SensorEntity):
             "nombre_aujourdhui": today.get("count", 0),
             "nombre_demain": tomorrow.get("count", 0),
         }
+
+    def _format_state(self, names: list[str], fallback: str | None) -> str:
+        """Formater l'etat avec tous les noms visibles du jour."""
+        visible_names = [name for name in names if isinstance(name, str) and name]
+        if visible_names:
+            return ", ".join(visible_names)
+
+        if fallback:
+            return fallback
+
+        return UNKNOWN_STATE.get(self._lang, UNKNOWN_STATE["fr"])
 
     @property
     def _today_category_data(self) -> dict:

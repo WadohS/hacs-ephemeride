@@ -9,7 +9,7 @@
 ![Project Maintenance][maintenance-shield]
 [![Community Forum][forum-shield]][forum]
 
-_Home Assistant integration that exposes the main commemoration of the day with dedicated sensors for saints, female saints, feasts, religious dates and other events._
+_Home Assistant integration that exposes the visible commemorations of the day with dedicated sensors for saints, female saints, feasts, religious dates and other events._
 
 [![Open in HACS](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=WadohS&repository=hacs-ephemeride&category=integration)
 
@@ -21,13 +21,15 @@ This integration creates the following platform:
 
 Platform | Description
 -- | --
-`sensor` | Sensors exposing the main commemoration plus dedicated category sensors
+`sensor` | Sensors exposing the day's commemorations plus dedicated category sensors
 
 ### `sensor.saint_du_jour`
 
-- State: main commemoration of the current day
+- State: list of the day's commemorations, limited to 5 entries
 - Attributes:
   - `saint_demain`: tomorrow's main saint
+  - `commemoration_principale_aujourdhui`: today's first entry
+  - `commemoration_principale_demain`: tomorrow's first entry
   - `langue`: configured language
   - `date`: current local date in Home Assistant timezone
   - `tous_saints_aujourdhui`: full list for today, limited to 5 items
@@ -43,7 +45,7 @@ Platform | Description
 - `sensor.date_religieuse_du_jour`
 - `sensor.autre_du_jour`
 
-Each category sensor exposes today's first matching entry, tomorrow's first matching entry, the list of matching entries and their counts. Untyped entries remain in `sensor.autre_du_jour` until the corresponding language file provides explicit metadata.
+Each category sensor displays the matching entries for today, limited to 5 items, and also exposes the primary entry for today and tomorrow in its attributes. Untyped entries remain in `sensor.autre_du_jour` until the corresponding language file provides explicit metadata.
 
 ## Supported Languages
 
