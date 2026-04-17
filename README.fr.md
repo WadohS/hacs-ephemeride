@@ -135,9 +135,10 @@ automation:
 
 ## Changelog
 
-### Version 1.3.1
-- Ajout du calcul annuel des dates liturgiques mobiles avec fusion au runtime avec les calendriers par pays
-- Amelioration de la detection des categories pour mieux alimenter les capteurs de fetes et de dates religieuses
+### Version 1.4.0
+- Ajout d'une categorie de capteur `prenom` et enrichissement des jeux de donnees de prenoms du jour dans toutes les langues supportees
+- Renommage des entites saints pour coller a leur role reel avec migration automatique des anciens `entity_id` Home Assistant au rechargement
+- Affichage de toutes les commemorations visibles du jour dans l'etat des capteurs au lieu de n'exposer que le premier element
 
 ### Version 1.3.3
 - Conversion complete de tous les fichiers de langue fournis vers des objets typés explicites
@@ -145,6 +146,10 @@ automation:
 
 ### Version 1.3.2
 - Ajout d'outils de migration progressive pour auditer et typer les fichiers de langue sans perdre les spécificités pays
+
+### Version 1.3.1
+- Ajout du calcul annuel des dates liturgiques mobiles avec fusion au runtime avec les calendriers par pays
+- Amelioration de la detection des categories pour mieux alimenter les capteurs de fetes et de dates religieuses
 
 ### Version 1.3.0
 - Ajout de capteurs dédiés pour saint masculin, sainte, fête, date religieuse et autre commémoration

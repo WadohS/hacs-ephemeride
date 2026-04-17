@@ -135,6 +135,11 @@ automation:
 
 ## Changelog
 
+### Version 1.4.0
+- Add a dedicated `prenom` sensor category and expand shipped name-day datasets across all supported languages
+- Rename the main saint entities to match their real role and migrate legacy Home Assistant entity ids on reload
+- Show all visible commemorations in sensor states instead of collapsing each day to the first entry only
+
 ### Version 1.3.3
 - Fully convert all shipped language files to explicit typed objects
 - Improve automatic typing heuristics so saints, saintes and feasts are populated across all supported languages
