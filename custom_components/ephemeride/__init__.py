@@ -9,10 +9,11 @@ import os
 from homeassistant.config_entries import ConfigEntry
 from homeassistant.const import Platform
 from homeassistant.core import HomeAssistant
+from homeassistant.helpers import entity_registry as er
 from homeassistant.helpers.update_coordinator import DataUpdateCoordinator, UpdateFailed
 from homeassistant.util import dt as dt_util
 
-from .const import CONF_LANGUAGE, DOMAIN
+from .const import CONF_LANGUAGE, DOMAIN, SENSOR_SAINTS_NAME, SENSOR_SAINT_NAME
 from .data import build_day_payload
 from .liturgical import get_movable_liturgical_days
 
@@ -20,10 +21,27 @@ _LOGGER = logging.getLogger(__name__)
 
 PLATFORMS: list[Platform] = [Platform.SENSOR]
 
+LEGACY_ENTITY_MIGRATIONS = [
+    {
+        "old_unique_id": f"{DOMAIN}_saint_du_jour",
+        "new_unique_id": f"{DOMAIN}_{SENSOR_SAINTS_NAME}",
+        "old_entity_id": "sensor.saint_du_jour",
+        "new_entity_id": f"sensor.{SENSOR_SAINTS_NAME}",
+    },
+    {
+        "old_unique_id": f"{DOMAIN}_saint_masculin_du_jour",
+        "new_unique_id": f"{DOMAIN}_{SENSOR_SAINT_NAME}",
+        "old_entity_id": "sensor.saint_masculin_du_jour",
+        "new_entity_id": f"sensor.{SENSOR_SAINT_NAME}",
+    },
+]
+
 
 async def async_setup_entry(hass: HomeAssistant, entry: ConfigEntry) -> bool:
     """Set up Ephemeride from a config entry."""
     hass.data.setdefault(DOMAIN, {})
+
+    await async_migrate_entity_registry(hass, entry)
 
     coordinator = EphemerideDataUpdateCoordinator(hass, entry)
     await coordinator.async_config_entry_first_refresh()
@@ -45,6 +63,31 @@ async def async_unload_entry(hass: HomeAssistant, entry: ConfigEntry) -> bool:
         entry_data["update_listener"]()
 
     return unload_ok
+
+
+async def async_migrate_entity_registry(hass: HomeAssistant, entry: ConfigEntry) -> None:
+    """Migrate legacy entity ids to the current naming scheme."""
+    entity_registry = er.async_get(hass)
+
+    for migration in LEGACY_ENTITY_MIGRATIONS:
+        current_entry = next(
+            (
+                registry_entry
+                for registry_entry in er.async_entries_for_config_entry(entity_registry, entry.entry_id)
+                if registry_entry.unique_id == migration["old_unique_id"]
+            ),
+            None,
+        )
+        if current_entry is None:
+            continue
+
+        update_data: dict[str, str] = {"new_unique_id": migration["new_unique_id"]}
+        if current_entry.entity_id == migration["old_entity_id"]:
+            target_entry = entity_registry.async_get(migration["new_entity_id"])
+            if target_entry is None:
+                update_data["new_entity_id"] = migration["new_entity_id"]
+
+        entity_registry.async_update_entity(current_entry.entity_id, **update_data)
 
 
 async def async_update_options(hass: HomeAssistant, entry: ConfigEntry) -> None:
