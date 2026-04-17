@@ -70,16 +70,29 @@ async def async_migrate_entity_registry(hass: HomeAssistant, entry: ConfigEntry)
     entity_registry = er.async_get(hass)
 
     for migration in LEGACY_ENTITY_MIGRATIONS:
+        registry_entries = er.async_entries_for_config_entry(entity_registry, entry.entry_id)
         current_entry = next(
             (
                 registry_entry
-                for registry_entry in er.async_entries_for_config_entry(entity_registry, entry.entry_id)
+                for registry_entry in registry_entries
                 if registry_entry.unique_id == migration["old_unique_id"]
             ),
             None,
         )
         if current_entry is None:
             continue
+
+        duplicate_target = next(
+            (
+                registry_entry
+                for registry_entry in registry_entries
+                if registry_entry.unique_id == migration["new_unique_id"]
+                and registry_entry.entity_id != current_entry.entity_id
+            ),
+            None,
+        )
+        if duplicate_target is not None:
+            entity_registry.async_remove(duplicate_target.entity_id)
 
         update_data: dict[str, str] = {"new_unique_id": migration["new_unique_id"]}
         if current_entry.entity_id == migration["old_entity_id"]:
