@@ -8,6 +8,7 @@ from homeassistant.config_entries import ConfigEntry
 from homeassistant.core import HomeAssistant
 from homeassistant.helpers.entity import DeviceInfo
 from homeassistant.helpers.entity_platform import AddEntitiesCallback
+from homeassistant.helpers.restore_state import RestoreEntity
 from homeassistant.helpers.update_coordinator import CoordinatorEntity, DataUpdateCoordinator
 
 from .const import (
@@ -64,7 +65,7 @@ async def async_setup_entry(
     async_add_entities(entities)
 
 
-class EphemerideSensor(CoordinatorEntity, SensorEntity):
+class EphemerideSensor(CoordinatorEntity, SensorEntity, RestoreEntity):
     """Representation d'un capteur Ephemeride."""
 
     def __init__(
@@ -80,6 +81,8 @@ class EphemerideSensor(CoordinatorEntity, SensorEntity):
         super().__init__(coordinator)
         self._lang = lang
         self._category = category
+        self._restored_state: str | None = None
+        self._restored_attributes: dict[str, object] = {}
         self._attr_name = ENTITY_TITLES.get(lang, ENTITY_TITLES["fr"])[title_key]
         self._attr_unique_id = f"{DOMAIN}_{unique_name}"
         self._attr_suggested_object_id = unique_name
@@ -94,10 +97,22 @@ class EphemerideSensor(CoordinatorEntity, SensorEntity):
             sw_version=INTEGRATION_VERSION,
         )
 
+    async def async_added_to_hass(self) -> None:
+        """Restore the previous state before fresh coordinator data arrives."""
+        await super().async_added_to_hass()
+        last_state = await self.async_get_last_state()
+        if last_state is None:
+            return
+
+        self._restored_state = last_state.state
+        self._restored_attributes = dict(last_state.attributes)
+
     @property
     def state(self):
         """Retourner l'etat du capteur."""
         if not self.coordinator.data:
+            if self._restored_state:
+                return self._restored_state
             return UNKNOWN_STATE.get(self._lang, UNKNOWN_STATE["fr"])
 
         if self._category is None:
@@ -113,7 +128,7 @@ class EphemerideSensor(CoordinatorEntity, SensorEntity):
     def extra_state_attributes(self):
         """Retourner les attributs additionnels."""
         if not self.coordinator.data:
-            return {}
+            return self._restored_attributes
 
         data = self.coordinator.data
         if self._category is None:

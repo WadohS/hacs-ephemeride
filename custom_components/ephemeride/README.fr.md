@@ -44,4 +44,4 @@ Le coordinator normalise tous les formats avant d'exposer les donnees du capteur
 
 ## Version
 
-Version actuelle du composant : `1.4.0`
+Version actuelle du composant : `1.4.1`

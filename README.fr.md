@@ -135,6 +135,9 @@ automation:
 
 ## Changelog
 
+### Version 1.4.1
+- Restaure le dernier etat connu des capteurs et leurs attributs apres un redemarrage de Home Assistant jusqu'au rechargement des nouvelles donnees
+
 ### Version 1.4.0
 - Ajout d'une categorie de capteur `prenom` et enrichissement des jeux de donnees de prenoms du jour dans toutes les langues supportees
 - Renommage des entites saints pour coller a leur role reel avec migration automatique des anciens `entity_id` Home Assistant au rechargement

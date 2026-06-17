@@ -135,6 +135,9 @@ automation:
 
 ## Changelog
 
+### Version 1.4.1
+- Restore the last known sensor state and attributes after Home Assistant restarts until fresh ephemeris data is loaded again
+
 ### Version 1.4.0
 - Add a dedicated `prenom` sensor category and expand shipped name-day datasets across all supported languages
 - Rename the main saint entities to match their real role and migrate legacy Home Assistant entity ids on reload
