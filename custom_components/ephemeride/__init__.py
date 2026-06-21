@@ -25,16 +25,27 @@ LEGACY_ENTITY_MIGRATIONS = [
     {
         "old_unique_id": f"{DOMAIN}_saint_du_jour",
         "new_unique_id": f"{DOMAIN}_{SENSOR_SAINTS_NAME}",
-        "old_entity_id": "sensor.saint_du_jour",
-        "new_entity_id": f"sensor.{SENSOR_SAINTS_NAME}",
+        "old_entity_ids": [
+            "sensor.saint_du_jour",
+            f"sensor.{DOMAIN}_saint_du_jour",
+        ],
+        "new_entity_id": f"sensor.{DOMAIN}_{SENSOR_SAINTS_NAME}",
     },
     {
         "old_unique_id": f"{DOMAIN}_saint_masculin_du_jour",
         "new_unique_id": f"{DOMAIN}_{SENSOR_SAINT_NAME}",
-        "old_entity_id": "sensor.saint_masculin_du_jour",
-        "new_entity_id": f"sensor.{SENSOR_SAINT_NAME}",
+        "old_entity_ids": [
+            "sensor.saint_masculin_du_jour",
+            f"sensor.{DOMAIN}_saint_masculin_du_jour",
+        ],
+        "new_entity_id": f"sensor.{DOMAIN}_{SENSOR_SAINT_NAME}",
     },
 ]
+
+CURRENT_ENTITY_EXPECTATIONS = {
+    f"{DOMAIN}_{SENSOR_SAINTS_NAME}": f"sensor.{DOMAIN}_{SENSOR_SAINTS_NAME}",
+    f"{DOMAIN}_{SENSOR_SAINT_NAME}": f"sensor.{DOMAIN}_{SENSOR_SAINT_NAME}",
+}
 
 
 async def async_setup_entry(hass: HomeAssistant, entry: ConfigEntry) -> bool:
@@ -68,9 +79,9 @@ async def async_unload_entry(hass: HomeAssistant, entry: ConfigEntry) -> bool:
 async def async_migrate_entity_registry(hass: HomeAssistant, entry: ConfigEntry) -> None:
     """Migrate legacy entity ids to the current naming scheme."""
     entity_registry = er.async_get(hass)
+    registry_entries = er.async_entries_for_config_entry(entity_registry, entry.entry_id)
 
     for migration in LEGACY_ENTITY_MIGRATIONS:
-        registry_entries = er.async_entries_for_config_entry(entity_registry, entry.entry_id)
         current_entry = next(
             (
                 registry_entry
@@ -95,12 +106,25 @@ async def async_migrate_entity_registry(hass: HomeAssistant, entry: ConfigEntry)
             entity_registry.async_remove(duplicate_target.entity_id)
 
         update_data: dict[str, str] = {"new_unique_id": migration["new_unique_id"]}
-        if current_entry.entity_id == migration["old_entity_id"]:
+        if current_entry.entity_id in migration["old_entity_ids"]:
             target_entry = entity_registry.async_get(migration["new_entity_id"])
             if target_entry is None:
                 update_data["new_entity_id"] = migration["new_entity_id"]
 
         entity_registry.async_update_entity(current_entry.entity_id, **update_data)
+
+    # Normalize entity ids for current unique ids when older releases kept the wrong role attached.
+    for registry_entry in er.async_entries_for_config_entry(entity_registry, entry.entry_id):
+        expected_entity_id = CURRENT_ENTITY_EXPECTATIONS.get(registry_entry.unique_id)
+        if expected_entity_id is None or registry_entry.entity_id == expected_entity_id:
+            continue
+
+        target_entry = entity_registry.async_get(expected_entity_id)
+        if target_entry is None:
+            entity_registry.async_update_entity(
+                registry_entry.entity_id,
+                new_entity_id=expected_entity_id,
+            )
 
 
 async def async_update_options(hass: HomeAssistant, entry: ConfigEntry) -> None:

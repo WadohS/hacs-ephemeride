@@ -135,6 +135,9 @@ automation:
 
 ## Changelog
 
+### Version 1.4.2
+- Stabilize Ephemeride entity migrations so the plural and singular saint sensors keep the correct entity ids after reloads and restarts
+
 ### Version 1.4.1
 - Restore the last known sensor state and attributes after Home Assistant restarts until fresh ephemeris data is loaded again
 

@@ -135,6 +135,9 @@ automation:
 
 ## Changelog
 
+### Version 1.4.2
+- Stabilise la migration des entites Ephemeride afin que les capteurs saints au singulier et au pluriel conservent les bons entity_id apres rechargement ou redemarrage
+
 ### Version 1.4.1
 - Restaure le dernier etat connu des capteurs et leurs attributs apres un redemarrage de Home Assistant jusqu'au rechargement des nouvelles donnees
 
