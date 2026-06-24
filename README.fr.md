@@ -135,6 +135,9 @@ automation:
 
 ## Changelog
 
+### Version 1.4.3
+- Evite de retraiter l'ancien unique_id du capteur general lorsque les capteurs moderne singulier et pluriel coexistent deja, ce qui reduit les warnings repetes de migration d'historique du recorder
+
 ### Version 1.4.2
 - Stabilise la migration des entites Ephemeride afin que les capteurs saints au singulier et au pluriel conservent les bons entity_id apres rechargement ou redemarrage
 

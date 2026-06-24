@@ -135,6 +135,9 @@ automation:
 
 ## Changelog
 
+### Version 1.4.3
+- Avoid re-migrating the old general saint unique_id when the modern singular and plural sensors already coexist, which reduces recurring recorder history migration warnings
+
 ### Version 1.4.2
 - Stabilize Ephemeride entity migrations so the plural and singular saint sensors keep the correct entity ids after reloads and restarts
 

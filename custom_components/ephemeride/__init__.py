@@ -93,6 +93,16 @@ async def async_migrate_entity_registry(hass: HomeAssistant, entry: ConfigEntry)
         if current_entry is None:
             continue
 
+        # `ephemeride_saint_du_jour` is both the old general sensor unique_id and the
+        # current male saint sensor unique_id. If the current entry already matches the
+        # expected modern singular entity id and the plural sensor already exists, this
+        # is not a legacy entry anymore and must not be migrated again.
+        current_expected_entity_id = CURRENT_ENTITY_EXPECTATIONS.get(current_entry.unique_id)
+        if current_expected_entity_id == current_entry.entity_id and any(
+            registry_entry.unique_id == migration["new_unique_id"] for registry_entry in registry_entries
+        ):
+            continue
+
         duplicate_target = next(
             (
                 registry_entry
