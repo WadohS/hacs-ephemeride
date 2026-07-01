@@ -44,4 +44,4 @@ The coordinator normalizes all formats before exposing sensor data and classifyi
 
 ## Version
 
-Current component version: `1.4.3`
+Current component version: `1.4.4`

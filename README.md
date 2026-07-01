@@ -135,6 +135,9 @@ automation:
 
 ## Changelog
 
+### Version 1.4.4
+- Avoid re-triggering recorder history migration when an old manually renamed saint entity still points to the historical general unique_id but the modern plural sensor already exists
+
 ### Version 1.4.3
 - Avoid re-migrating the old general saint unique_id when the modern singular and plural sensors already coexist, which reduces recurring recorder history migration warnings
 

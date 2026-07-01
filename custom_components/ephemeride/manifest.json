@@ -11,5 +11,5 @@
   "iot_class": "local_polling",
   "issue_tracker": "https://github.com/WadohS/hacs-ephemeride/issues",
   "requirements": [],
-  "version": "1.4.3"
+  "version": "1.4.4"
 }

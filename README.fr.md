@@ -135,6 +135,9 @@ automation:
 
 ## Changelog
 
+### Version 1.4.4
+- Evite de relancer une migration d'historique du recorder lorsqu'une ancienne entite saint renommee manuellement pointe encore vers l'ancien unique_id historique du capteur general alors que le capteur pluriel moderne existe deja
+
 ### Version 1.4.3
 - Evite de retraiter l'ancien unique_id du capteur general lorsque les capteurs moderne singulier et pluriel coexistent deja, ce qui reduit les warnings repetes de migration d'historique du recorder
 
