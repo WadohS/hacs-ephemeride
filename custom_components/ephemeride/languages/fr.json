@@ -4215,6 +4215,11 @@
       "name": "Dolorès",
       "source_type": "prenom",
       "type": "prenom"
+    },
+    { 
+      "name": "Lola",
+      "source_type": "prenom",
+      "type": "prenom"
     }
   ],
   "09-16": [
@@ -5300,6 +5305,11 @@
     },
     {
       "name": "Noé",
+      "source_type": "prenom",
+      "type": "prenom"
+    },
+    {
+      "name": "Noa",
       "source_type": "prenom",
       "type": "prenom"
     }
