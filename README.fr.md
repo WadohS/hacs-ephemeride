@@ -135,6 +135,9 @@ automation:
 
 ## Changelog
 
+### Version 1.4.5
+- Ajout de Lola et Noa au calendrier francais des prenoms du jour
+
 ### Version 1.4.4
 - Evite de relancer une migration d'historique du recorder lorsqu'une ancienne entite saint renommee manuellement pointe encore vers l'ancien unique_id historique du capteur general alors que le capteur pluriel moderne existe deja
 

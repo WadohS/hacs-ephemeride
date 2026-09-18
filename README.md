@@ -135,6 +135,9 @@ automation:
 
 ## Changelog
 
+### Version 1.4.5
+- Add Lola and Noa to the French name-day calendar
+
 ### Version 1.4.4
 - Avoid re-triggering recorder history migration when an old manually renamed saint entity still points to the historical general unique_id but the modern plural sensor already exists
 
