@@ -135,6 +135,9 @@ automation:
 
 ## Changelog
 
+### Version 1.4.6
+- Keep Bertille only on 6 November in the French name-day calendar
+
 ### Version 1.4.5
 - Add Lola and Noa to the French name-day calendar
 

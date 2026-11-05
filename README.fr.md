@@ -135,6 +135,9 @@ automation:
 
 ## Changelog
 
+### Version 1.4.6
+- Conserve Bertille uniquement le 6 novembre dans le calendrier francais des prenoms du jour
+
 ### Version 1.4.5
 - Ajout de Lola et Noa au calendrier francais des prenoms du jour
 
